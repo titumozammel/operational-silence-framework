@@ -10,7 +10,7 @@ A strategy-to-execution framework that converts operational noise into human ene
 
 **Operational Silence** is the state where recurring operational demand has been systematically reduced, allowing human energy to be redirected toward execution, innovation, and business value creation.
 
-The Operational Silence Framework is designed to help organizations eliminate recurring operational noise, recover capacity, and improve execution effectiveness through a structured approach to continuous improvement.
+The Operational Silence Framework provides a structured approach for eliminating recurring operational noise, recovering execution capacity, and accelerating business value creation.
 
 The framework integrates:
 
@@ -64,7 +64,7 @@ Operational Silence
         ↓
 Human Energy Recovery
         ↓
-Execution Capacity Creation
+Execution Capacity
         ↓
 Business Value Creation
 ```
@@ -189,6 +189,8 @@ Future development areas include:
 ## Open Source
 
 The Operational Silence Framework may be used, adapted, and shared with appropriate attribution.
+
+Feedback, implementation experiences, and improvement suggestions are welcome.
 
 ---
 
