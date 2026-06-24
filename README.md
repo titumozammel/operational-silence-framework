@@ -408,4 +408,6 @@ LinkedIn: linkedin.com/in/mozammel-ees
 
 ## License
 
-This work is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) License.
+This project is licensed under the MIT License.
+
+See the LICENSE file for details.
