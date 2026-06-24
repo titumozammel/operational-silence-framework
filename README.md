@@ -400,7 +400,7 @@ Creator of the Operational Silence Framework and 5R Cascade Framework
 
 GitHub: https://github.com/titumozammel
 
-LinkedIn: Add your LinkedIn profile URL here
+LinkedIn: linkedin.com/in/mozammel-ees
 
 *"Design Systems That Stay Silent."*
 
