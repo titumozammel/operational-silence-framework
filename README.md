@@ -396,7 +396,8 @@ If you find the framework useful:
 
 **Md Mozammel Hoque**
 
-**Management Researcher | Creator of the 5R Cascade Framework & Operational Silence Framework**
+**Management Researcher & Framework Creator**
+**Creator of the 5R Cascade Framework & Operational Silence Framework**
 
 ### Research Focus
 
