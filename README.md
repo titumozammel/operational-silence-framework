@@ -398,7 +398,7 @@ If you find the framework useful:
 
 **Management Researcher | Creator of the 5R Cascade Framework & Operational Silence Framework**
 
-**Research Focus**
+### Research Focus
 
 * Human Energy Economics
 * Operational Excellence
@@ -406,10 +406,11 @@ If you find the framework useful:
 * Organizational Design
 * Continuous Constraint Reduction
 
-**Connect**
+### Connect
 
-* **GitHub:** github.com/titumozammel
-* **LinkedIn:** linkedin.com/in/mozammel-ees
+* **Website:** https://www.ovinabo.com
+* **GitHub:** https://github.com/titumozammel
+* **LinkedIn:** https://www.linkedin.com/in/mozammel-ees
 
 I welcome collaboration with researchers, business owners, CEOs, boards of directors, and executive teams interested in applying the **5R Cascade Framework** and **Operational Silence Framework** to improve operational excellence, strengthen execution capability, and build sustainable organizational capability.
 
