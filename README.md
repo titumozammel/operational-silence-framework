@@ -397,25 +397,30 @@ If you find the framework useful:
 **Md Mozammel Hoque**
 
 **Management Researcher**  
-**Creator of the 5R Cascade Framework & Operational Silence Framework**
+**Creator of the 5R Cascade Framework and the Operational Silence Framework**
 
 ### Research Focus
 
-- Human Energy Economics
-- Operational Excellence
-- Strategy-to-Execution Systems
-- Organizational Design
-- Continuous Constraint Reduction
+* Human Energy Economics
+* Operational Excellence
+* Strategy-to-Execution Systems
+* Organizational Design
+* Continuous Constraint Reduction
+
+### Open-Source Frameworks
+
+* **5R Cascade Framework** — A decision hierarchy for systematically eliminating recurring operational demand.
+* **Operational Silence Framework** — A strategy-to-execution framework for recovering human energy, expanding execution capacity, and creating sustainable business value.
 
 ### Connect
 
-- **Website:** https://www.ovinabo.com
-- **GitHub:** https://github.com/titumozammel
-- **LinkedIn:** https://www.linkedin.com/in/mozammel-ees
+* **Website:** https://www.ovinabo.com
+* **LinkedIn:** https://www.linkedin.com/in/mozammel-ees
 
-I welcome collaboration with researchers, business owners, CEOs, boards of directors, and executive teams interested in applying the **5R Cascade Framework** and **Operational Silence Framework** to improve operational excellence, strengthen execution capability, and build sustainable organizational capability.
+I welcome collaboration with researchers, business owners, CEOs, boards of directors, and executive leadership teams interested in improving operational excellence, strengthening execution capability, and building resilient organizations using the **5R Cascade Framework** and **Operational Silence Framework**.
 
-*"Design Systems That Stay Silent."*
+> **Design Systems That Stay Silent.**
+
 
 ---
 
