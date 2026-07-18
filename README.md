@@ -396,7 +396,7 @@ If you find the framework useful:
 
 **Md Mozammel Hoque**
 
-**Management Researcher**  
+**Management Researcher**
 **Founder of Human Energy Economics (HEE)**
 **Creator of the 5R Cascade Framework and Operational Silence Framework**
 
