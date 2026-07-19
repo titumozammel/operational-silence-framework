@@ -419,7 +419,7 @@ If you find the framework useful:
 ### Connect
 
 * **Website:** https://www.ovinabo.com
-* **LinkedIn:** https://www.linkedin.com/in/mozammel-ees
+* **LinkedIn:** https://www.linkedin.com/in/mozammel-hee
 
 I welcome collaboration with researchers, business owners, CEOs, boards of directors, and executive leadership teams interested in improving operational excellence, strengthening execution capability, and building resilient organizations using the **5R Cascade Framework** and **Operational Silence Framework**.
 
