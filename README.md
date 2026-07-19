@@ -393,44 +393,6 @@ Sustainable Business Value
 
 ---
 
-# Version
-
-**Current Version:** 1.0
-
-**Status:** Public Draft
-
-The framework will continue to evolve through practical application, research, and community collaboration.
-
----
-
-# Contributing
-
-Contributions are welcome.
-
-Areas include:
-
-- Framework feedback
-- Implementation experiences
-- Industry adaptations
-- Case studies
-- Measurement models
-- Visual improvements
-
-Please open an issue or submit a pull request.
-
----
-
-# Support
-
-If you find this framework valuable:
-
-- ⭐ Star the repository
-- 💡 Suggest improvements
-- 📤 Share implementation experiences
-- 💬 Open issues for discussion
-
----
-
 # Creator & Maintainer
 
 **Md Mozammel Hoque**
