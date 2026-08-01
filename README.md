@@ -12,8 +12,7 @@
 - [Why Operational Silence Matters](#why-operational-silence-matters)
 - [Why This Framework Is Different](#why-this-framework-is-different)
 - [Human Energy Flow](#human-energy-flow)
-- [Framework Formula](#framework-formula)
-- [Framework Architecture](#framework-architecture)
+- [Framework Structure](#framework-structure)
 - [Core Components](#core-components)
 - [Operational Noise](#operational-noise)
 - [3C Strategic Lens](#3c-strategic-lens)
@@ -59,38 +58,38 @@ The Operational Silence Framework asks a different question:
 
 ## Why This Framework Is Different
 
-Most improvement frameworks primarily focus on:
+Most improvement frameworks optimize existing work.
 
-- Waste reduction
-- Quality improvement
-- Speed optimization
-- Service levels
-- Constraint management
+The Operational Silence Framework asks a different question:
 
-The **Operational Silence Framework** focuses on **Human Energy** as the primary organizational resource and **Execution Capacity** as the organizational capability that enables sustainable value creation.
+> **How can we eliminate the work that should never exist?**
 
-Its central premise is that organizations lose execution capacity long before they run out of budget, technology, or time.
+Rather than improving responses to recurring operational problems, OSF systematically removes the operational demand that creates those problems.
 
-Recovering Human Energy becomes the foundation for sustainable operational excellence.
+The objective is simple:
+
+Recover Human Energy.
+Expand Sustainable Execution Capacity.
+Create Sustainable Business Value.
 
 ---
 
-## Human Energy Flow
+## Operational Silence Value Flow
 
 ```text
 Operational Noise
         ↓
-Human Energy Depleted
+Human Energy Loss
         ↓
-Execution Capacity Lost
+Reduced Sustainable Execution Capacity
         ↓
-Sustainable Business Value Lost
+Reduced Sustainable Business Value
 
 Operational Silence
         ↓
-Human Energy Recovered
+Human Energy Recovery
         ↓
-Execution Capacity Expanded
+Expanded Sustainable Execution Capacity
         ↓
 Sustainable Business Value Created
 ```
@@ -101,29 +100,9 @@ Sustainable Business Value Created
 
 ---
 
-## Framework Formula
+## Framework Logic
 
 ```text
-Operational Silence Framework
-        =
-Human Energy Economics
-        +
-3C Strategic Lens
-        +
-5R Cascade Framework
-        +
-People Infrastructure
-        +
-KPI Governance
-```
-
----
-
-## Framework Architecture
-
-```text
-Human Energy Economics (Foundation)
-                ↓
 Operational Silence Framework
                 ↓
 3C Strategic Lens
@@ -135,13 +114,10 @@ People Infrastructure
 KPI Governance
                 ↓
 Operational Silence
-                ↓
-Execution Excellence
-                ↓
-Sustainable Business Value
 ```
 
 ---
+
 
 ## Core Components
 
@@ -151,7 +127,7 @@ Sustainable Business Value
 | **3C Strategic Lens** | Determines where improvement should occur |
 | **5R Cascade Framework** | Provides the execution methodology for eliminating recurring operational demand |
 | **People Infrastructure** | Builds sustainable organizational capability |
-| **KPI Governance** | Measures Human Energy Recovery, Execution Capacity, and Sustainable Business Value |
+| **KPI Governance** | Measures Human Energy Recovery, Human Energy Development, Sustainable Capacity, and Sustainable Execution Capacity. |
 | **Operational Silence** | Defines the desired operating state |
 
 Together, these components provide a complete strategy-to-execution framework for reducing Operational Noise and strengthening organizational performance.
@@ -160,19 +136,40 @@ Together, these components provide a complete strategy-to-execution framework fo
 
 ## Operational Noise
 
-**Operational Noise** is recurring operational demand that consumes Human Energy without creating proportional business value.
+Operational Noise is one of the primary sources of Human Energy Loss described in **Human Energy Economics (HEE)**.
 
-Examples include:
+It consists of recurring operational demand that consumes Human Energy without creating proportional business value, including unnecessary approvals, interruptions, rework, excessive coordination, manual workarounds, and organizational complexity.
 
-- Recurring incidents
-- Repeated escalations
-- Manual workarounds
-- Rework
-- Unnecessary approvals
-- Process bottlenecks
-- Dependency-driven delays
+The **Operational Silence Framework (OSF)** does not attempt to redefine Operational Noise.
 
-Operational Noise functions as a hidden organizational tax that continually reduces Execution Capacity.
+Instead, OSF provides the operating framework for systematically identifying, reducing, and eliminating Operational Noise so that Human Energy can be redirected toward execution, innovation, learning, and sustainable value creation.
+
+For the complete theory of Operational Noise, see:
+
+- **Human Energy Economics (HEE)**
+
+## From Operational Noise to Operational Silence
+
+```text
+Operational Noise
+        ↓
+Human Energy Loss
+        ↓
+Execution Capacity Loss
+
+Operational Silence
+        ↓
+Human Energy Recovery
+        ↓
+Execution Capacity Expansion
+        ↓
+Sustainable Business Value
+```
+
+Operational Silence is not the absence of work.
+
+It is the deliberate reduction of unnecessary operational demand so that Human Energy can be directed toward productive execution, innovation, collaboration, and value creation.
+
 
 ---
 
@@ -211,7 +208,7 @@ OPERATIONAL SILENCE
 - Never reduce what you can remove.
 - Never replace what you can reduce.
 - Always start with elimination.
-- Recover Human Energy before adding more work.
+- Recover Human Energy before increasing operational demand.
 
 The objective is **not cost reduction**.
 
@@ -239,16 +236,17 @@ Operational Silence requires more than process improvement—it requires organiz
 
 ## KPI Governance
 
-KPIs should measure **capacity recovery and business value**, not operational activity.
+Operational Silence should be measured by improvements in Human Energy and organizational capability rather than operational activity alone.
 
-Suggested measurement areas include:
+The framework recommends monitoring four strategic outcomes:
 
-- Operational Noise Reduction
 - Human Energy Recovery
-- Execution Capacity
-- Self-Service Adoption
-- Business Cycle Time
-- Sustainable Business Value
+- Human Energy Development
+- Sustainable Capacity
+- Sustainable Execution Capacity
+
+These indicators demonstrate whether Operational Silence is strengthening the organization's ability to execute sustainably and create long-term business value.
+
 
 ---
 
@@ -266,14 +264,26 @@ Organizations operating in Operational Silence devote the majority of their Huma
 
 ```text
 Firefighting
-      ↓
+
+↓
+
 Fireproofing
-      ↓
+
+↓
+
 Engineering Silence
-      ↓
+
+↓
+
 Operational Silence
-      ↓
+
+↓
+
 Execution Excellence
+
+↓
+
+Sustainable Business Value
 ```
 
 ---
@@ -284,11 +294,10 @@ Organizations implementing the Operational Silence Framework should achieve:
 
 - Reduced Operational Noise
 - Recovered Human Energy
-- Expanded Execution Capacity
-- Faster Business Cycles
-- Greater Self-Service Capability
-- Increased Innovation Capacity
+- Developed Human Energy
+- Expanded Sustainable Execution Capacity
 - Improved Employee Experience
+- Greater Innovation Capacity
 - Sustainable Business Value
 
 ---
@@ -299,7 +308,7 @@ Organizations implementing the Operational Silence Framework should achieve:
 2. Identify recurring operational demand.
 3. Apply the 3C Strategic Lens.
 4. Execute improvements using the 5R Cascade Framework.
-5. Measure Human Energy Recovery and Sustainable Business Value.
+5. Measure Human Energy Recovery, Human Energy Development, Sustainable Capacity, and Sustainable Execution Capacity.
 6. Standardize successful practices.
 7. Continuously improve toward Operational Silence.
 
@@ -321,7 +330,7 @@ Sustainable Business Value
 
 ---
 
-## Creator & Maintainer
+## Creator
 
 **Md Mozammel Hoque**
 
@@ -353,17 +362,17 @@ Creator of:
 
 ## Research & Collaboration
 
-Human Energy Economics and the Operational Silence Framework continue to evolve through practical application, organizational learning, and constructive dialogue.
+Human Energy Economics and the Operational Silence Framework continue to evolve through practical application, organizational learning, and research.
 
-I welcome collaboration with researchers, business leaders, executives, practitioners, and organizations interested in advancing operational excellence, Human Energy Recovery, Execution Capability, and Sustainable Business Value.
+I welcome collaboration with researchers, business leaders, executives, practitioners, and organizations interested in Human Energy Recovery, Operational Excellence, Sustainable Execution Capacity, and Sustainable Business Value.
 
-Implementation experiences, case studies, research discussions, and thoughtful feedback are always appreciated.
+Implementation experiences, case studies, research discussions, and constructive feedback are always welcome.
 
 ---
 
 ## Vision
 
-**Recover Human Energy · Engineer Operational Silence · Expand Execution Capacity · Create Sustainable Business Value**
+**Recover Human Energy · Engineer Operational Silence · Expand Sustainable Execution Capacity · Create Sustainable Business Value**
 
 > **Design Systems That Stay Silent.**
 
