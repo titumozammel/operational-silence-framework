@@ -11,19 +11,27 @@
 - [Overview](#overview)
 - [Why Operational Silence Matters](#why-operational-silence-matters)
 - [Why This Framework Is Different](#why-this-framework-is-different)
-- [Human Energy Flow](#human-energy-flow)
-- [Framework Structure](#framework-structure)
-- [Core Components](#core-components)
+
+- [Operational Silence Value Flow](#operational-silence-value-flow)
 - [Operational Noise](#operational-noise)
+- [From Operational Noise to Operational Silence](#from-operational-noise-to-operational-silence)
+
+- [Framework Architecture](#framework-architecture)
+- [Core Components](#core-components)
+
+- [Design Principles](#design-principles)
 - [3C Strategic Lens](#3c-strategic-lens)
 - [5R Cascade Framework](#5r-cascade-framework)
 - [People Infrastructure](#people-infrastructure)
 - [KPI Governance](#kpi-governance)
+
 - [Operational Silence](#operational-silence)
 - [Expected Outcomes](#expected-outcomes)
 - [Getting Started](#getting-started)
+
 - [Relationship to Human Energy Economics](#relationship-to-human-energy-economics)
-- [Creator & Maintainer](#creator--maintainer)
+
+- [Creator](#creator)
 - [Research & Collaboration](#research--collaboration)
 - [Vision](#vision)
 - [License](#license)
@@ -83,7 +91,7 @@ Human Energy Loss
         ↓
 Reduced Sustainable Execution Capacity
         ↓
-Reduced Sustainable Business Value
+Reduced Business Value
 
 Operational Silence
         ↓
@@ -100,20 +108,28 @@ Sustainable Business Value Created
 
 ---
 
-## Framework Logic
+## Framework Architecture
 
 ```text
-Operational Silence Framework
-                ↓
-3C Strategic Lens
-                ↓
-5R Cascade Framework
-                ↓
-People Infrastructure
-                ↓
-KPI Governance
-                ↓
-Operational Silence
+Operational Silence Framework (OSF)
+            │
+            ▼
+     3C Strategic Lens
+            │
+            ▼
+     5R Cascade Framework
+            │
+            ▼
+   People Infrastructure
+            │
+            ▼
+      KPI Governance
+            │
+            ▼
+   Operational Silence
+            │
+            ▼
+ Sustainable Business Value
 ```
 
 ---
@@ -131,6 +147,22 @@ Operational Silence
 | **Operational Silence** | Defines the desired operating state |
 
 Together, these components provide a complete strategy-to-execution framework for reducing Operational Noise and strengthening organizational performance.
+
+Each component performs a distinct role, but together they operate as an integrated Human Energy Management System that reduces Operational Noise, expands Sustainable Execution Capacity, and creates Sustainable Business Value.
+
+---
+
+
+## Design Principles
+
+The Operational Silence Framework is guided by the following principles:
+
+- Eliminate unnecessary operational demand before optimizing existing work.
+- Recover Human Energy before increasing operational demand.
+- Simplify before automating.
+- Engineer systems that minimize recurring Operational Noise.
+- Direct Human Energy toward productive, value-creating work.
+- Continuously improve toward Operational Silence.
 
 ---
 
@@ -236,7 +268,7 @@ Operational Silence requires more than process improvement—it requires organiz
 
 ## KPI Governance
 
-Operational Silence should be measured by improvements in Human Energy and organizational capability rather than operational activity alone.
+Operational Silence should be evaluated through strategic Human Energy outcomes rather than operational activity alone.
 
 The framework recommends monitoring four strategic outcomes:
 
@@ -254,7 +286,7 @@ These indicators demonstrate whether Operational Silence is strengthening the or
 
 Operational Silence is the target operating state where recurring interruptions, operational failures, and unnecessary operational demand have been systematically eliminated.
 
-Organizations operating in Operational Silence devote the majority of their Human Energy to planned, value-creating work.
+Organizations operating in Operational Silence direct the majority of their Human Energy toward planned, value-creating work.
 
 ### Proposed Benchmark
 
@@ -323,14 +355,14 @@ Operational Silence Framework (Operating Framework)
                 ↓
 5R Cascade Framework (Execution Methodology)
                 ↓
-Execution Excellence
+Expanded Sustainable Execution Capacity
                 ↓
 Sustainable Business Value
 ```
 
 ---
 
-## Creator
+## Creator & Maintainer
 
 **Md Mozammel Hoque**
 
@@ -374,7 +406,7 @@ Implementation experiences, case studies, research discussions, and constructive
 
 **Recover Human Energy · Engineer Operational Silence · Expand Sustainable Execution Capacity · Create Sustainable Business Value**
 
-> **Design Systems That Stay Silent.**
+> **Design Systems That Stay Silent. Create Organizations That Execute.**
 
 ---
 
