@@ -13,6 +13,8 @@
 |-----------|-------------|
 | **Role** | Primary Operating Framework within the Human Energy Recovery Framework (HERF) |
 | **Derived From** | Human Energy Economics (HEE) |
+| **Strategic Asset Protected** | Human Energy Capital |
+| **Execution Objective** | Eliminate Operational Noise and recover Human Energy |
 | **Executed Through** | 3C Strategic Lens + 5R Cascade Framework |
 | **Measured Through** | Operational Silence Index (OSI) |
 | **Purpose** | Reduce Operational Noise → Recover Human Energy → Expand Sustainable Execution Capacity → Create Sustainable Business Value |
@@ -24,6 +26,48 @@
 ## Human Energy Economics Foundation
 
 **Human Energy Economics (HEE)** provides the theoretical foundation for understanding, managing, recovering, developing, and investing in **Human Energy** as the primary organizational resource.
+
+## Human Energy Capital
+
+Human Energy Capital represents the organization's available human capability, cognitive capacity, emotional capacity, physical capacity, and execution potential that enables the conversion of organizational resources into sustainable value creation.
+
+Traditional organizational models primarily recognize financial capital, technological capital, physical assets, and knowledge resources as primary drivers of organizational performance.
+
+Human Energy Economics (HEE) extends this perspective by recognizing **Human Energy Capital** as the foundational strategic asset that activates, connects, and converts all other organizational resources into meaningful outcomes.
+
+Financial capital provides resources.  
+Technology capital provides tools.  
+Knowledge capital provides intelligence.  
+Process capital provides structure.  
+
+However, **Human Energy Capital provides the capacity to transform these resources into execution and value creation.**
+
+Organizations may possess significant financial resources, advanced technology, and optimized processes; however, sustainable performance depends on their ability to protect, recover, develop, and effectively deploy Human Energy Capital.
+
+### Human Energy Capital Value Chain
+
+```text
+Financial Capital
+        │
+        ▼
+Technology Capital
+        │
+        ▼
+Knowledge Capital
+        │
+        ▼
+Process Capital
+        │
+        ▼
+Human Energy Capital
+        │
+        ▼
+Execution Capacity
+        │
+        ▼
+Sustainable Business Value
+
+```
 
 HEE establishes the principle that sustainable organizational performance depends not only on financial, technological, and operational resources, but also on the organization's ability to protect, recover, and effectively deploy Human Energy.
 
@@ -160,7 +204,7 @@ The following sections describe the Operational Silence Framework in detail, inc
 
 ## Overview
 
-The Operational Silence Framework (OSF) is the primary operating framework within the Human Energy Recovery Framework (HERF), translating the principles of Human Energy Economics (HEE) into systematic organizational improvement.
+The Operational Silence Framework (OSF) is the primary operating framework within the Human Energy Recovery Framework (HERF) for protecting Human Energy Capital by systematically eliminating unnecessary operational demand, reducing Operational Noise, recovering Human Energy, and expanding Sustainable Execution Capacity.
 
 Rather than optimizing responses to recurring operational problems, OSF focuses on systematically eliminating the recurring demand that creates them.
 
