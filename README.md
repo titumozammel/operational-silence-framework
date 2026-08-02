@@ -15,7 +15,7 @@
 Operating Framework
 
 **Position:**  
-Operating Mechanism of the Human Energy Recovery Framework (HERF)
+Operating Mechanism within the Human Energy Recovery Framework (HERF)
 
 **Derived From:**
 Human Energy Economics (HEE)
