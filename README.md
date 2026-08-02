@@ -11,23 +11,23 @@
 
 ### Operational Silence Framework (OSF)
 
-**Role:**  
-Operating Framework
+**Role**
+Operating Mechanism
 
-**Position:**  
-Operating Mechanism within the Human Energy Recovery Framework (HERF)
+**Framework Position**
+Within the Human Energy Recovery Framework (HERF)
 
-**Derived From:**
+**Derived From**
 Human Energy Economics (HEE)
 
-**Executed Through:**  
+**Executed Through**
 3C Strategic Lens + 5R Cascade Framework
 
-**Measured Through:**
+**Measured Through**
 Operational Silence Index (OSI)
 
-**Purpose:**  
-Systematically Reduce Operational Noise, Recover Human Energy, Expand Sustainable Execution Capacity, Create Sustainable Business Value.
+**Purpose**
+Reduce Operational Noise → Recover Human Energy → Expand Sustainable Execution Capacity → Create Sustainable Business Value.
 
 
 ---
@@ -96,9 +96,7 @@ Together, these frameworks enable organizations to:
               Sustainable Business Value
 ```
 
-The Operational Silence Framework (OSF) is the operating mechanism within HERF that converts Human Energy Economics principles into practical organizational action.
-
-OSF systematically reduces Operational Noise, eliminates unnecessary operational demand, recovers Human Energy, and expands Sustainable Execution Capacity by engineering conditions where Human Energy can be redirected toward value creation.
+The **Operational Silence Framework (OSF)** is the operating mechanism within the **Human Energy Recovery Framework (HERF)**. It translates the principles of **Human Energy Economics (HEE)** into practical organizational action by systematically reducing Operational Noise, eliminating unnecessary operational demand, recovering Human Energy, and expanding Sustainable Execution Capacity—creating the conditions for Sustainable Business Value.
 
 
 ## Table of Contents
@@ -603,7 +601,10 @@ Implementation experiences, case studies, research discussions, and constructive
 
 ## Vision
 
-**Recover Human Energy · Engineer Operational Silence · Expand Sustainable Execution Capacity · Create Sustainable Business Value**
+**Reduce Operational Noise
+→ Recover Human Energy
+→ Expand Sustainable Execution Capacity
+→ Create Sustainable Business Value**
 
 > **Design Systems That Stay Silent. Create Organizations That Execute.**
 
