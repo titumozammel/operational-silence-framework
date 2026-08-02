@@ -2,37 +2,24 @@
 
 > **Stop Managing Chaos. Start Engineering Silence.**
 >
-> *A strategy-to-execution management framework for systematically reducing Operational Noise, recovering Human Energy, expanding Execution Capacity, and creating Sustainable Business Value.*
+> *A strategy-to-execution management framework for systematically reducing Operational Noise, recovering Human Energy, expanding Sustainable Execution Capacity, and creating Sustainable Business Value.*
 
 ---
 
 
-## Framework Position
+## Framework Profile
 
-### Operational Silence Framework (OSF)
-
-**Role**
-Operating Mechanism
-
-**Framework Position**
-Within the Human Energy Recovery Framework (HERF)
-
-**Derived From**
-Human Energy Economics (HEE)
-
-**Executed Through**
-3C Strategic Lens + 5R Cascade Framework
-
-**Measured Through**
-Operational Silence Index (OSI)
-
-**Purpose**
-Reduce Operational Noise → Recover Human Energy → Expand Sustainable Execution Capacity → Create Sustainable Business Value.
-
+| Attribute | Description |
+|-----------|-------------|
+| **Role** | Primary Operating Framework within the Human Energy Recovery Framework (HERF) |
+| **Derived From** | Human Energy Economics (HEE) |
+| **Executed Through** | 3C Strategic Lens + 5R Cascade Framework |
+| **Measured Through** | Operational Silence Index (OSI) |
+| **Purpose** | Reduce Operational Noise → Recover Human Energy → Expand Sustainable Execution Capacity → Create Sustainable Business Value |
 
 ---
 
-# Strategic Architecture: HEE, HEMS, HERF and OSF
+# Strategic Architecture
 
 ## Human Energy Economics Foundation
 
@@ -58,7 +45,7 @@ Together, these frameworks enable organizations to:
 
 ---
 
-## HEE to Operational Silence Architecture
+## HEE → HEMS → HERF → OSF Architecture
 
 ```text
                    HUMAN ENERGY ECONOMICS (HEE)
@@ -74,58 +61,97 @@ Together, these frameworks enable organizations to:
        HEA                    HERF                   HEDP
     Diagnose              Recover Energy        Develop Energy
     Energy Condition      Restore Capacity     Build Capability
-                                │
-                                ▼
-              Operational Silence Framework (OSF)
-                  Operating Mechanism of HERF
-                                │
-                                ▼
-          3C Strategic Lens + 5R Cascade Framework
-                  Execution Methodology
-                                │
-                                ▼
-                 Operational Silence State
-                                │
-                                ▼
-                 Human Energy Recovery
-                                │
-                                ▼
-          Sustainable Execution Capacity Expansion
-                                │
-                                ▼
-              Sustainable Business Value
+                                │                      ▲
+                                ▼                      │
+              Operational Silence Framework (OSF)      │
+              					       │
+                                │                      │
+                                ▼                      │
+          3C Strategic Lens + 5R Cascade Framework     │
+                  Execution Methodology                │
+                                │                      │
+                                ▼                      │
+                 Operational Silence State             │
+                                │                      │
+                                ▼                      │
+                 Human Energy Recovery ────────────────┘
+                                                       │
+                                                       ▼
+                                      People Infrastructure
+                         (Accountability • Knowledge • Empowerment • Capability)
+                                                       │
+                                                       ▼
+                                      Human Energy Development
+                                                       │
+                                                       ▼
+                                  Sustainable Execution Capacity
+                                                       │
+                                                       ▼
+                                      Sustainable Business Value
 ```
 
-The **Operational Silence Framework (OSF)** is the operating mechanism within the **Human Energy Recovery Framework (HERF)**. It translates the principles of **Human Energy Economics (HEE)** into practical organizational action by systematically reducing Operational Noise, eliminating unnecessary operational demand, recovering Human Energy, and expanding Sustainable Execution Capacity—creating the conditions for Sustainable Business Value.
+The Operational Silence Framework systematically eliminates recurring Operational Noise rather than optimizing responses to it. By protecting Human Energy from unnecessary operational demand, organizations expand Sustainable Execution Capacity and create Sustainable Business Value.
 
+
+## Strategy-to-Execution Logic
+
+The relationship between the Human Energy Economics (HEE) ecosystem and the Operational Silence Framework (OSF) follows a clear strategy-to-execution hierarchy.
+
+### Human Energy Economics (HEE)
+
+Provides the theoretical foundation for understanding, managing, recovering, developing, and investing in Human Energy as the primary organizational resource.
+
+### Human Energy Management System (HEMS)
+
+Translates Human Energy Economics principles into organizational practice through an integrated system of management frameworks.
+
+Within HEMS:
+
+- **Human Energy Audit (HEA)** diagnoses Human Energy condition, identifies Human Energy Loss, and measures organizational energy health.
+- **Human Energy Recovery Framework (HERF)** restores Human Energy by reducing Operational Noise, eliminating Human Energy Leakage, and expanding Sustainable Execution Capacity.
+- **Human Energy Development Plan (HEDP)** develops Human Energy capability through capability building, alignment, activation, and long-term sustainability.
+
+Within **HERF**, the **Operational Silence Framework (OSF)** serves as the primary operating framework for systematically reducing Operational Noise and recovering Human Energy.
+
+OSF executes organizational improvement through:
+
+- **3C Strategic Lens** — identifies where improvement should be focused.
+- **5R Cascade Framework** — provides the execution methodology for implementing improvements.
+
+The successful application of OSF creates the organizational operating state of **Operational Silence**, where unnecessary operational demand is minimized and Human Energy is primarily directed toward planned, value-creating execution.
+
+Progress toward Operational Silence is measured through the **Operational Silence Index (OSI)**, which evaluates how effectively the organization protects execution capacity from recurring Operational Noise.
+
+The following sections describe the Operational Silence Framework in detail, including its operating model, core components, measurement system, implementation methodology, and expected organizational outcomes.
 
 ## Table of Contents
 
+### Framework Foundation
+- [Strategic Architecture](#strategic-architecture)
 - [Overview](#overview)
 - [Why Operational Silence Matters](#why-operational-silence-matters)
-- [Why This Framework Is Different](#why-this-framework-is-different)
-
 - [Operational Silence Value Flow](#operational-silence-value-flow)
 - [Operational Noise](#operational-noise)
-- [Measuring Operational Silence](#measuring-operational-silence)
-- [From Operational Noise to Operational Silence](#from-operational-noise-to-operational-silence)
 
-- [Framework Architecture](#framework-architecture)
+### Framework Architecture
+- [OSF Operating Model](#osf-operating-model)
 - [Core Components](#core-components)
-
 - [Design Principles](#design-principles)
+
+### Measurement & Execution
+- [Measuring Operational Silence](#measuring-operational-silence)
 - [3C Strategic Lens](#3c-strategic-lens)
 - [5R Cascade Framework](#5r-cascade-framework)
 - [People Infrastructure](#people-infrastructure)
 - [KPI Governance](#kpi-governance)
 
+### Outcomes & Implementation
 - [Operational Silence](#operational-silence)
 - [Expected Outcomes](#expected-outcomes)
 - [Getting Started](#getting-started)
 
-- [Relationship to Human Energy Economics](#relationship-to-human-energy-economics)
-
-- [Creator](#creator)
+### Additional Information
+- [Creator & Maintainer](#creator--maintainer)
 - [Research & Collaboration](#research--collaboration)
 - [Vision](#vision)
 - [License](#license)
@@ -134,7 +160,7 @@ The **Operational Silence Framework (OSF)** is the operating mechanism within th
 
 ## Overview
 
-The **Operational Silence Framework (OSF)** is the operating framework derived from the principles of **Human Energy Economics (HEE)**.
+The Operational Silence Framework (OSF) is the primary operating framework within the Human Energy Recovery Framework (HERF), translating the principles of Human Energy Economics (HEE) into systematic organizational improvement.
 
 Rather than optimizing responses to recurring operational problems, OSF focuses on systematically eliminating the recurring demand that creates them.
 
@@ -146,33 +172,15 @@ The framework recognizes **Human Energy** as an organization's primary organizat
 
 ## Why Operational Silence Matters
 
-Organizations increasingly invest in AI, automation, digital transformation, and process optimization.
+Organizations increasingly invest in AI, automation, digital transformation, and process optimization. While these investments improve the speed and efficiency of work, they rarely eliminate the recurring operational demand that consumes Human Energy.
 
-Yet recurring interruptions, escalations, approvals, manual workarounds, rework, and operational dependencies continue to consume Human Energy every day.
+Most improvement frameworks optimize how organizations respond to work.
 
-Most organizations optimize **how quickly they respond**.
+The Operational Silence Framework takes a different approach:
 
-The Operational Silence Framework asks a different question:
+How can we eliminate the work that should never exist in the first place?
 
-> **How can we eliminate the reasons people need to respond in the first place?**
-
----
-
-## Why This Framework Is Different
-
-Most improvement frameworks optimize existing work.
-
-The Operational Silence Framework asks a different question:
-
-> **How can we eliminate the work that should never exist?**
-
-Rather than improving responses to recurring operational problems, OSF systematically removes the operational demand that creates those problems.
-
-The objective is simple:
-
-Recover Human Energy.
-Expand Sustainable Execution Capacity.
-Create Sustainable Business Value.
+Rather than improving responses to recurring operational problems, OSF systematically removes the operational demand that creates them, enabling Human Energy to be redirected toward execution, innovation, and sustainable value creation.
 
 ---
 
@@ -193,6 +201,8 @@ Reduced Operational Noise
         ↓
 Human Energy Recovery
         ↓
+Human Energy Development
+        ↓
 Expanded Sustainable Execution Capacity
         ↓
 Sustainable Business Value
@@ -204,38 +214,56 @@ Sustainable Business Value
 
 ---
 
-## Framework Architecture
+## OSF Operating Model
+
+The **Operational Silence Framework (OSF)** operates as an integrated management system that combines strategic diagnosis, execution methodology, organizational capability, measurement, and governance to systematically reduce Operational Noise and recover Human Energy.
+
+The operating model begins with three foundational capabilities:
+
+- **Operational Silence Index (OSI)** provides continuous measurement of Operational Noise and organizational operating quality.
+- **3C Strategic Lens** identifies where improvement efforts should be focused.
+- **People Infrastructure** develops the organizational capability required to sustain improvement.
+
+These inputs converge through the **5R Cascade Framework**, which executes systematic improvement by eliminating unnecessary operational demand. Progress is monitored through **KPI Governance**, ensuring that improvements are measured, sustained, and continuously refined.
+
+The successful application of the operating model produces **Operational Silence**, enabling Human Energy Recovery, Human Energy Development, Expanded Sustainable Execution Capacity, and ultimately **Sustainable Business Value**.
 
 ```text
-                            Operational Silence Framework (OSF)
-                         │
-        ┌────────────────┼────────────────┐
-        │                │                │
-        ▼                ▼                ▼
- Operational Silence   3C Strategic    People
- Index (OSI)           Lens            Infrastructure
- Measurement           Diagnosis       Capability
-        │                │                │
-        └────────────────┼────────────────┘
-                         ▼
-              5R Cascade Framework
-              Execution Methodology
-                         │
-                         ▼
-              KPI Governance
-              Monitoring & Control
-                         │
-                         ▼
-          Operational Silence State
-                         │
-                         ▼
-       Sustainable Execution Capacity
-                         │
-                         ▼
-          Sustainable Business Value
-
+                 Operational Silence Framework (OSF)
+                               │
+        ┌──────────────────────┼──────────────────────┐
+        │                      │                      │
+        ▼                      ▼                      ▼
+Operational Silence      3C Strategic       People Infrastructure
+Index (OSI)              Lens               Organizational Capability
+Measurement              Diagnosis
+        │                      │                      │
+        └──────────────────────┼──────────────────────┘
+                               ▼
+                    5R Cascade Framework
+                    Execution Methodology
+                               │
+                               ▼
+                       KPI Governance
+                    Monitoring & Control
+                               │
+                               ▼
+                  Operational Silence State
+                               │
+                               ▼
+                   Human Energy Recovery
+                               │
+                               ▼
+                Human Energy Development
+                               │
+                               ▼
+            Expanded Sustainable Execution Capacity
+                               │
+                               ▼
+               Sustainable Business Value
 ```
 
+The OSF Operating Model illustrates how strategic diagnosis, execution methodology, organizational capability, measurement, and governance function as an integrated management system. Together, these capabilities create Operational Silence, recover and develop Human Energy, expand Sustainable Execution Capacity, and generate Sustainable Business Value.
 ---
 
 
@@ -251,9 +279,7 @@ Sustainable Business Value
 | **KPI Governance** | Provides the measurement, monitoring, and governance system required to sustain Operational Silence and ensure continuous improvement toward Human Energy Recovery and Sustainable Execution Capacity. |
 | **Operational Silence** | Defines the desired operating state where unnecessary operational demand is minimized and Human Energy is primarily directed toward planned, value-creating execution. |
 
-Together, these components create a complete strategy-to-execution framework for measuring, reducing, and eliminating Operational Noise while strengthening organizational performance.
-
-Each component performs a distinct role within the Human Energy Management System. Together, they reduce Operational Noise, recover Human Energy, expand Sustainable Execution Capacity, and create Sustainable Business Value.
+Together, these components provide the integrated architecture required to implement and sustain Operational Silence across the organization.
 
 ---
 
@@ -327,46 +353,7 @@ OSI measures organizational operating quality, not individual employee productiv
 
 ---
 
-## Proposed Benchmark
-
-> **Organizations should target OSI ≥ 95%, meaning less than 5% of execution capacity is consumed by recurring Operational Noise.**
-
-Operational Silence does not mean the absence of work.
-
-It means unnecessary operational demand has been systematically removed, allowing Human Energy to be redirected toward:
-
-- Planned execution
-- Innovation
-- Learning
-- Collaboration
-- Sustainable value creation
-
----
-
 The Operational Silence Index provides organizations with a measurable view of their progress from operational disruption toward sustainable execution capacity.
-
-
-## From Operational Noise to Operational Silence
-
-```text
-Operational Noise
-        ↓
-Human Energy Loss
-        ↓
-Execution Capacity Loss
-
-Operational Silence
-        ↓
-Human Energy Recovery
-        ↓
-Execution Capacity Expansion
-        ↓
-Sustainable Business Value
-```
-
-Operational Silence is not the absence of work.
-
-It is the deliberate reduction of unnecessary operational demand so that Human Energy can be directed toward productive execution, innovation, collaboration, and value creation.
 
 
 ---
@@ -434,11 +421,9 @@ Operational Silence requires more than process improvement—it requires organiz
 
 ## KPI Governance
 
-KPI Governance provides the measurement, monitoring, and decision-making system required to evaluate, sustain, and continuously improve Operational Silence as an organizational capability.
+KPI Governance provides the measurement, monitoring, and decision-making system required to sustain Operational Silence as an organizational capability.
 
-Operational Silence should be evaluated through strategic Human Energy outcomes rather than operational activity alone.
-
-The framework recommends monitoring five strategic outcomes:
+The framework monitors five strategic performance indicators.
 
 - Operational Silence Index (OSI)
 - Human Energy Recovery
@@ -446,15 +431,9 @@ The framework recommends monitoring five strategic outcomes:
 - Sustainable Capacity
 - Sustainable Execution Capacity
 
-The **Operational Silence Index (OSI)** provides the primary measurement of how effectively an organization has reduced recurring Operational Noise and protected Human Energy for planned, value-creating activities.
+Together, these indicators provide executives with ongoing visibility into organizational progress toward Operational Silence and Sustainable Execution.
 
-Together, these indicators provide governance visibility into whether Operational Silence is strengthening the organization's ability to:
-
-- Reduce Operational Noise
-- Recover Human Energy
-- Develop organizational capability
-- Expand Sustainable Execution Capacity
-- Create Sustainable Business Value
+The **Operational Silence Index (OSI)** serves as the primary indicator of Operational Silence, measuring how effectively an organization protects execution capacity from recurring Operational Noise.
 
 Through continuous measurement, review, and improvement, KPI Governance ensures that Operational Silence becomes a sustained organizational operating capability.
 
@@ -464,8 +443,9 @@ Through continuous measurement, review, and improvement, KPI Governance ensures 
 
 Operational Silence is the organizational operating state where unnecessary operational demand has been systematically eliminated, recurring Operational Noise has been minimized, and Human Energy is primarily directed toward planned, value-creating execution.
 
-Silence ≠ inactivity
-Silence = absence of unnecessary demand
+Operational Silence ≠ Inactivity
+
+Operational Silence = Absence of Unnecessary Operational Demand
 
 Organizations operating in Operational Silence direct the majority of their Human Energy toward planned, value-creating work.
 
@@ -477,25 +457,15 @@ Organizations operating in Operational Silence direct the majority of their Huma
 
 ```text
 Firefighting
-
 ↓
-
 Fireproofing
-
 ↓
-
 Engineering Silence
-
 ↓
-
 Operational Silence
-
 ↓
-
 Execution Excellence
-
 ↓
-
 Sustainable Business Value
 ```
 
@@ -507,10 +477,10 @@ Organizations implementing the Operational Silence Framework should achieve:
 
 - Reduced Operational Noise
 - Recovered Human Energy
-- Developed Human Energy
+- Developed Human Energy Capability
 - Expanded Sustainable Execution Capacity
-- Improved Employee Experience
 - Greater Innovation Capacity
+- Improved Employee Experience
 - Sustainable Business Value
 
 ---
@@ -526,36 +496,6 @@ Organizations implementing the Operational Silence Framework should achieve:
 7. Continuously improve toward Operational Silence.
 
 ---
-
-## Relationship to Human Energy Economics
-
-```text
-Human Energy Economics (HEE)
-            │
-            ▼
-Human Energy Recovery Framework (HERF)
-            │
-            ▼
-Operational Silence Framework (OSF)
-            │
-            ▼
-3C Strategic Lens
-            │
-            ▼
-5R Cascade Framework
-            │
-            ▼
-Operational Silence
-            │
-            ▼
-Human Energy Recovery
-            │
-            ▼
-Expanded Sustainable Execution Capacity
-            │
-            ▼
-Sustainable Business Value
-```
 
 ---
 
@@ -601,10 +541,7 @@ Implementation experiences, case studies, research discussions, and constructive
 
 ## Vision
 
-**Reduce Operational Noise
-→ Recover Human Energy
-→ Expand Sustainable Execution Capacity
-→ Create Sustainable Business Value**
+Create organizations where Human Energy is protected, Operational Noise is systematically eliminated, and Sustainable Execution Capacity becomes a lasting competitive advantage.
 
 > **Design Systems That Stay Silent. Create Organizations That Execute.**
 
