@@ -497,8 +497,6 @@ Organizations implementing the Operational Silence Framework should achieve:
 
 ---
 
----
-
 ## Creator & Maintainer
 
 **Md Mozammel Hoque**
