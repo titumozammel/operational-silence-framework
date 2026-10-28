@@ -113,7 +113,7 @@ Therefore: **Demand ≠ Noise ≠ Consumption ≠ Drain**, and **Release ≠ Pro
 
 ## The Decision Point
 
-*Quoted from the Core README’s The Decision Point (the canonical text). If the two differ, the Core README governs.*
+*Quoted from the Core README’s The Decision Point (the canonical text, without its illustrative example). If the two differ, the Core README governs.*
 
 Within HEE, consequential decisions along the pathway from capability to sustainable results should be explicit and reviewable. Evaluate them using four distinct definitions:
 
@@ -542,7 +542,7 @@ Choose the destination that answers your next question. You need not read every 
 | [3C Strategic Approach](https://github.com/titumozammel/3c-strategic-approach) | Where should I look: Source, Dependency, or Constraint? |
 | [5R Cascade Framework](https://github.com/titumozammel/5r-cascade-framework) | Should recurring demand be removed, reduced, replaced, re-engineered, or retained? |
 | [Human Energy Enablement](https://github.com/titumozammel/human-energy-enablement) | Which conditions prevent existing capability from being applied? |
-| [Execution Excellence System](https://github.com/titumozammel/execution-excellence-system) | How should execution be managed, controlled, and adapted? |
+| [Execution Excellence System](https://github.com/titumozammel/execution-excellence-system) | What prevents reliable execution, and how do we fix it and make it hold? |
 | [HEE Case Studies](https://github.com/titumozammel/hee-case-studies) | What do the author-reported practice accounts illustrate, and what remains unverified? |
 
 ### A short learner exercise
@@ -555,7 +555,7 @@ Think of one recurring task, report, or meeting. Write down: its purpose and who
 
 **Revision record — 28 October 2026.** Revises the 2 September 2026 edition for alignment with the HEE Core, author profile, AKG record, and HEEn. Adds the precision and evidence statements, reader routes, the five-column question map, The Decision Point, three investigation routes, differential diagnosis, a worked case, an audit example, the Two Checks, and a demand decision record. Replaces the earlier diagnostic table with the Core’s seven provisional conditions, renames “Usable Capacity Recovery” to avoid collision with the Core’s Recover intervention, aligns the prioritization variable to Interdependence, labels unvalidated constructs [P], reframes “never reduce what can be removed” as a heuristic with a necessity test, redefines OSI against a stated capacity base that may change between periods, and replaces the topic list with testable propositions. Adds a one-page owner view, a necessity coding pack with a worked reliability example, a synthesis of each antecedent, a literature-positioning test, and a retirement table with the OSI role in each case. Removes repeated restatements of the canonical pathway.
 
-This is a revised Version 1.0 working document, not an assertion that an existing published release tag was changed. Public URLs are supplied as reader destinations; current live contents and the repository LICENSE file were not independently verified for this revision. Editorial readiness and structural link checks do not establish empirical validity or tested reader enjoyment.
+This is a revised Version 1.0 working document, not an assertion that an existing published release tag was changed. Public URLs are provided as reader destinations; current live contents and the repository LICENSE file were not independently verified for this revision. Editorial readiness and structural link checks do not establish empirical validity or tested reader enjoyment.
 
 ## License
 
