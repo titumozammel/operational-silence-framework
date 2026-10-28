@@ -1,2132 +1,566 @@
-# OPERATIONAL SILENCE FRAMEWORK (OSF)
+# Operational Silence Framework (OSF)
 
-## Stop Managing Chaos. Start Engineering Silence.
+## Stop managing chaos. Start engineering silence.
 
-*A focused operating framework for systematically reducing unnecessary recurring operational demand, releasing and protecting usable capacity, enabling effective application, and strengthening Sustainable Execution Capacity.*
+*A focused operating framework for examining unnecessary recurring operational demand, and for deciding what should happen to the capacity its removal releases.*
 
 **Md. Mozammel Hoque**  
-*Independent Management Researcher*  
-*Originator of Human Energy Economics (HEE)*
+*Independent Management Researcher · Originator of Human Energy Economics (HEE)*
 
-**Version 1.0 — Canonical Edition**  
-**Date: 2 September 2026**
+**Version 1.0 — Revised companion framework**  
+**Revision date: 28 October 2026**  
+**Status: provisional research and practice reference**
 
----
+[HEE Core](https://github.com/titumozammel/human-energy-economics) · [Author profile](https://github.com/titumozammel) · [HEE Case Studies](https://github.com/titumozammel/hee-case-studies) · [HEEn](https://github.com/titumozammel/human-energy-enablement) · [OSF repository](https://github.com/titumozammel/operational-silence-framework)
 
-# 1. THE OSF IDENTITY
+> **Precision statement.** The Operational Silence Framework is HEE’s proposed framework for investigating whether recurring work should still consume organizational capacity, for choosing a proportionate response (remove, reduce, replace, re-engineer, or retain), and for following what happens to any capacity released. It does not establish that recurring work is unnecessary from its cost alone, show that a reduction frees usable capacity, or demonstrate that freed capacity is applied to valuable work or protects future capacity. Those are questions for evidence.
 
-The **Operational Silence Framework (OSF)** is a focused operating framework for systematically identifying, questioning, reducing, eliminating, replacing, re-engineering, and preventing **unnecessary recurring operational demand** and the avoidable capacity consumption it creates.
+> **Evidence status.** OSF is a developing conceptual framework, not a validated method. Its constructs, the Operational Silence Index (OSI), the maturity progression, and its decision aids are proposals that require testing. Established work on waste, process redesign, and failure demand informs the framework; it does not validate OSF’s particular categories or show that OSF adds decision value beyond them. The author originated HEE and OSF and has a commercial interest disclosed below. The AKG cases are author-reported practice accounts, not independent tests of OSF. The [HEE Core README](https://github.com/titumozammel/human-energy-economics) governs shared terminology where the documents differ.
 
-OSF is concerned with a specific organizational problem:
+**Evidence labels:** **[E]** existing research; **[A]** adaptation of existing ideas; **[P]** proposed and untested; **[H]** practice heuristic; **[Illustrative]** invented example. A label describes the status of a claim, not its certainty in every setting. **Unknown** means the available evidence does not support a defensible determination. **Not recorded** means this edition contains no record; it does not mean the event never occurred or that no record exists elsewhere.
 
-> **Work that repeatedly consumes organizational capacity but should not need to exist, or should not need to exist in its current form.**
+**Start here:** [The Decision Point](#the-decision-point) · [Reader routes](#reader-routes) · [Owner view](#owner-view-one-page) · [Find your question](#find-your-question) · [Definitions](#definitions-and-distinctions) · [Worked example](#one-case-from-question-to-review) · [Investigate](#investigate-choose-the-route) · [Diagnose](#diagnose-is-this-recurring-demand-and-is-it-unnecessary) · [Dispose](#dispose-the-3c-lens-and-the-5r-cascade) · [Establish](#establish-from-unknown-to-a-decision) · [Verify](#verify-practice-against-a-standard) · [Release and coverage](#justified-expenditure-release-and-future-coverage) · [OSI](#operational-silence-index-osi) · [Value Test](#the-osf-value-test) · [Demand record](#demand-decision-record) · [Research](#research-agenda-and-tests) · [Go further](#go-further) · [License](#license)
 
-OSF does not begin by asking how to perform more work, faster.
+## The question OSF answers
 
-It begins by asking:
+A weekly report takes six people half a day. A recurring meeting exists because two teams never agreed who owns a decision. The same error is corrected every month. Should the organization make this work faster, remove it, redesign what creates it, or leave it alone?
 
-> **Should this recurring work exist at all?**
+> **What recurring demand is consuming organizational capacity, does it need to consume it in this form, and what should happen to the capacity when it stops?**
 
----
+The question opens an investigation. It does not assume that recurring work is waste. The work may be necessary, proportionate, and well designed; the real limit may be missing capability, a blocked decision, or depleted Human Energy; or several conditions may coexist.
 
-# 2. OSF IN ONE SENTENCE
+OSF asks first whether work should exist, then how it recurs, and only then how to improve what remains. Its proposed emphasis comes after that: following the capacity that is no longer consumed, so that a saving is not mistaken for a gain.
 
-> **OSF systematically identifies and eliminates unnecessary recurring operational demand so that capacity can be released, protected, redirected, and applied to work that creates sustainable value.**
+**Question before optimizing. Protect what is released. Check what the next cycle needs.** These are prompts for judgment, not instructions to remove everything that recurs.
 
-The sequence is deliberate.
+## Reader routes
 
-OSF does not equate:
+| Reader | Start with | Leave with |
+| --- | --- | --- |
+| Owner or executive | [Owner view](#owner-view-one-page), then the [demand decision record](#demand-decision-record) and [release and coverage](#justified-expenditure-release-and-future-coverage) | A decision on a named recurring demand, its reasons, an accountable owner, safeguards, and a review date |
+| Practitioner or manager | [Worked example](#one-case-from-question-to-review), then [Diagnose](#diagnose-is-this-recurring-demand-and-is-it-unnecessary) | A supported view of whether the demand is unnecessary, and a proportionate first test |
+| Auditor or governance lead | [Verify](#verify-practice-against-a-standard) | A scoped criterion-to-evidence record for a demand-entry rule or protection arrangement |
+| Academic | [Theory and contribution](#theory-and-contribution) | A bounded contribution claim and its relationship to Lean, process redesign, and failure demand |
+| Researcher | [Research agenda and tests](#research-agenda-and-tests), then the [coding pack](#necessity-coding-pack-and-first-reliability-check) | A study question, competing explanations, measures, and narrowing or rejection criteria |
+| Learner | [Definitions](#definitions-and-distinctions), then [worked example](#one-case-from-question-to-review) | The difference between demand, noise, consumption, drain, and released capacity |
 
-- less work with better performance;
-- less activity with higher productivity;
-- time saved with Human Energy recovery;
-- capacity released with value created;
-- capacity recovered with effective application;
-- effective application with execution;
-- execution with Sustainable Execution Capacity.
+Read the document in sequence only if useful. Follow the question map when you have a specific decision to make.
 
-OSF is concerned with the **conversion pathway** between unnecessary demand reduction and sustainable organizational value.
+## Owner view: one page
 
----
+**[H] What to do with this document in ten minutes.**
 
-# 3. THE PROBLEM OSF ADDRESSES
+1. **Name one recurring demand** (a report, a meeting, a repeated correction) and its recorded cost. If no cost is recorded, that is the first finding.
+2. **Ask the six tests** ([Diagnose](#diagnose-is-this-recurring-demand-and-is-it-unnecessary)): is it necessary, valuable, proportionate, well designed, recurring, preventable? Accept Unknown as an answer.
+3. **Check what the work protects.** A slow approval or a control may serve a legal duty or a safety purpose. Cost and frequency do not make it unnecessary.
+4. **Choose the smallest reversible step** (remove, reduce, replace, re-engineer, or retain) with a stop rule written before you start.
+5. **Before any hours are released, name where they go.** Give the capacity a use, an owner, and a review date, or it may be absorbed by subsequent demand without an explicit reassignment decision. Reabsorption is a proposed relationship, not an inevitable outcome.
+6. **Check next cycle.** Is the capacity you will need covered (Covered / Fragile / Not covered / Unknown)?
 
-Organizations frequently respond to recurring operational problems by adding:
+**Ask your team for:** a [demand decision record](#demand-decision-record) with its evidence and what would change the decision; the numerator, base, and index together if the [OSI](#operational-silence-index-osi) is used.
 
-- meetings;
-- approvals;
-- reporting;
-- coordination;
-- escalation;
-- monitoring;
-- controls;
-- people;
-- systems;
-- technology;
-- management attention;
-- process;
-- exception handling.
+**Do not:** treat the OSI as a target or a ranking; count released hours as value; remove a control because it is costly or frequent.
 
-Over time, organizational sophistication can increase while operational burden increases with it.
+What OSF has and has not shown is in the [evidence status](#operational-silence-framework-osf) and the [AKG relationship](#relationship-to-the-akg-practice-record).
 
-Growth commonly creates additional:
+## Find your question
 
-**Functions → Systems → Decisions → Dependencies → Interfaces → Handoffs → Coordination → Reporting → Exceptions → Competing Priorities**
+| Question | Primary function | Asked by | Answered in | Decision it unlocks |
+| --- | --- | --- | --- | --- |
+| What exactly does OSF help me decide? | Define scope | All readers | [Precision statement](#operational-silence-framework-osf); [central question](#the-question-osf-answers) | Whether OSF is a suitable starting point |
+| Should we stop doing this recurring work, or change how we do it? | Select a disposition | Owner, manager | [Six tests](#diagnose-is-this-recurring-demand-and-is-it-unnecessary); [5R](#dispose-the-3c-lens-and-the-5r-cascade) | Remove, reduce, replace, re-engineer, retain, or investigate |
+| Is this really a demand problem, or missing capability, a blocked decision, or depleted energy? | Differential diagnosis | Practitioner, owner | [Evidence patterns](#diagnose-is-this-recurring-demand-and-is-it-unnecessary) | Whether to use OSF, HEEn, development, or recovery |
+| Where is the demand created or sustained? | Locate it | Practitioner, process owner | [3C lens](#dispose-the-3c-lens-and-the-5r-cascade) | Where to look before choosing a response |
+| What information would let us decide? | Establish | Owner, analyst | [Establish](#establish-from-unknown-to-a-decision) | What to collect, by whom, and by when |
+| Does a demand-entry rule or review practice meet an agreed requirement? | Verify | Auditor, governance lead | [Verify](#verify-practice-against-a-standard) | Whether there is a finding and what correction is needed |
+| Was the capacity spent justified, and can we meet next-cycle demand? | Separate justification from coverage | Owner, planner | [Two Checks](#justified-expenditure-release-and-future-coverage) | Whether to proceed, protect, reschedule, or investigate |
+| What happened to the capacity we stopped consuming? | Follow the release | Owner, practitioner | [Release](#justified-expenditure-release-and-future-coverage); [Value Test](#the-osf-value-test) | Whether to claim a gain, protect it, or keep investigating |
+| What does the Operational Silence Index tell me, and not tell me? | Judge a proposed measure | Owner, researcher | [OSI](#operational-silence-index-osi) | Whether to use it, and for what |
+| How do enabling conditions differ from decision quality? | Separate decision assessments | Owner, learner, auditor | [Four decision concepts](#the-decision-point) | What to improve and what evidence to review |
+| How do EX, CX, and Sustainable Growth connect to demand reduction? | Trace mechanisms and consequences | Owner, HR, service lead | [EX and CX](#employee-experience-customer-experience-and-sustainable-growth) | What to investigate beyond a satisfaction score |
+| What do the AKG cases establish? | Judge practice evidence | Academic, practitioner | [AKG record](#relationship-to-the-akg-practice-record) | Whether an example informs a hypothesis or needs a new test |
+| What does OSF add beyond Lean, process redesign, and failure demand? | Position the proposal | Academic | [Theory](#theory-and-contribution) | Which contribution remains defensible |
+| Can two assessors classify the same recurring demand the same way? | Test reliability | Researcher | [Coding pack](#necessity-coding-pack-and-first-reliability-check) | Whether the six tests can be used as a classification |
+| What would support, narrow, or falsify OSF? | Design a fair test | Researcher | [Research tests](#research-agenda-and-tests) | Which study to run and what claim to revise |
+| Which HEE repository should I read next? | Route onward | All readers | [Go further](#go-further) | Where to continue without reading every repository |
 
-The organization may therefore become more capable while simultaneously becoming harder to operate.
+## Definitions and distinctions
 
-The result can be:
+These definitions follow the closed HEE Core reference for this revision. Where OSF adds a term, it says so.
 
-> **More interconnectedness without better connectedness.**
+| Term | Working meaning | Practical distinction |
+| --- | --- | --- |
+| Demand | Work or requirement placed on organizational capacity | Not inherently negative; most demand is legitimate |
+| Recurring demand | Demand that repeatedly arises or is repeatedly required | One-off work can consume capacity without a persistent burden |
+| Unnecessary demand | Demand that does not need to exist, or does not need to exist in its present form | A judgment that must be tested, not assumed from cost or frequency |
+| Operational Noise | The operational manifestation of friction or unnecessary demand: avoidable interruption, duplication, rework, or coordination that consumes capacity without proportionate value | A symptom to trace to its underlying demand; not all demand or all consumption |
+| Capacity consumption | Capacity used to meet demand | Consumption can be fully justified |
+| Drain | Consumption without sufficient contribution to a verified purpose | Whether consumption is a drain is a judgment, tested by Check 1 |
+| Drain Condition [P] | A candidate diagnosis: unnecessary demand or noise consumes or obstructs capacity | One of the Core’s seven provisional conditions; may coexist with others |
+| Usable Capacity | The part of capacity that can actually be brought to bear on relevant work in a period, net of what demand and drain already consume, subject to connection, decision-process, and enablement conditions | Nominal staffing or idle time alone does not establish it |
+| Capacity release | Capacity no longer consumed because demand has been removed or reduced | Measured, estimated, or merely expected; the three are different |
+| Capacity protection | Arrangements that stop released capacity being silently consumed again | Not the same as refusing all new work |
+| Usable Capacity Availability (OSF term) | Released capacity confirmed to be available for relevant work, with the required skill and access | Not the Core’s *Recover*, which concerns depleted Human Energy |
+| Capacity redirection | Deliberate assignment of released capacity to another purpose | A justified reassignment is not a failure of protection |
+| Capacity reabsorption [P] | Released capacity consumed again by other demand (new, latent, or existing) | A descriptive term only. Reabsorption into a visible, justified reassignment is not a failure; the concern is unexamined or unjustified reabsorption. Whether and when it occurs is an empirical question (P13) |
+| Application and Execution | Putting capability to work; carrying out intended work toward a result | Activity alone does not establish success or sustainability |
+| Sustainable Execution Capacity (SEC) [P] | Continuing ability and readiness to execute effectively over time | Requires follow-up evidence; a faster task does not establish SEC |
+| Value | Consequential outcomes across the six capitals: financial, manufactured, intellectual, human, social and relationship, and natural | Not identical to activity, output, or profit |
 
-OSF addresses the recurring operational demand that emerges from this condition.
+Therefore: **Demand ≠ Noise ≠ Consumption ≠ Drain**, and **Release ≠ Protection ≠ Availability ≠ Redirection ≠ Application ≠ Execution ≠ Value**. These are related conditions, not interchangeable words.
 
----
+**Operational Silence** is a proposed descriptive condition in which unnecessary recurring demand has been reduced and kept from returning, so that more usable capacity is available for purposeful work. It does not mean no communication, no meetings, no work, no problems, or inactivity. It is not a state that can be assumed; it is a result to be demonstrated. A signal that raises a safety, quality, legal, or customer problem is never “noise” merely because it recurs.
 
-# 4. THE OSF PROBLEM CHAIN
+## The Decision Point
 
-The core problem pathway is:
+*Quoted from the Core README’s The Decision Point (the canonical text). If the two differ, the Core README governs.*
 
-**Organizational Growth**  
-↓  
-**Increasing Recurring Demand**  
-↓  
-**Operational Noise**  
-↓  
-**Avoidable Capacity Consumption**  
-↓  
-**Reduced Usable Capacity**  
-↓  
-**Less Capacity for Purposeful Application**  
-↓  
-**Execution Constraint**  
-↓  
-**Potential Value Loss**
+Within HEE, consequential decisions along the pathway from capability to sustainable results should be explicit and reviewable. Evaluate them using four distinct definitions:
 
-The objective of OSF is not simply to make this chain shorter.
+1. **Decision Enablement:** whether the necessary decision rights, information, authority, and access exist.
+2. **Decision Process Quality:** how the decision was reached.
+3. **Decision Quality:** whether the choice was appropriate given what could reasonably be known.
+4. **Decision Outcome Quality:** what actually happened.
 
-It is to interrupt the creation and recurrence of unnecessary demand.
+**Model boundary.** Decision Process Quality remains the core model’s conversion condition. These four definitions are complementary assessment lenses, not four additional conversion conditions or compulsory sequential stages.
 
----
+Assess these separately. A good outcome does not prove that the process or choice was sound; a poor outcome does not automatically establish that either was unsound. Context shapes every decision: its objective, legitimate demand, available evidence, constraints, alternatives, uncertainty, timing, and consequences.
 
-# 5. RELATED WORK AND INTELLECTUAL LINEAGE
+**The Two Checks.** Apply the Two Checks proportionately to decisions affecting capacity:
 
-OSF is conceptually related to established traditions concerned with waste, process redesign, operational efficiency, and organizational complexity.
+- **Justified?** Was the expenditure of capacity warranted?
+- **Covered?** Can credible expected usable capacity meet legitimate next-cycle demand?
 
-### Lean and Taiichi Ohno
+A justified expenditure can still leave future capacity Not covered. Where evidence is insufficient, record Unknown and specify the next evidence request or precautionary action.
 
-The Lean tradition, particularly the work associated with **Taiichi Ohno**, provides an important antecedent for questioning activities that consume resources without creating corresponding value. The concept of **muda**, commonly translated as waste, established a powerful discipline of distinguishing value-creating activity from unnecessary consumption.
+**Investigation routes.** Choose the route that fits the question:
 
-OSF shares this questioning orientation.
+- **Diagnose** (the Diagnostic Approach): investigate symptoms, test possible causes, and select a useful intervention.
+- **Establish:** gather the evidence needed to make an uncertain question decidable.
+- **Verify** (the Audit Approach): compare practice with a stated standard using traceable evidence.
 
-However, OSF is not simply a restatement of Lean.
+These routes can inform one another; they are not compulsory sequential stages.
 
-Its distinctive concern is:
+**The compressed conversion pathway and evidence boundaries.** Capability → Application → Execution → Value → Sustainable Growth. This compressed pathway does not replace the core model’s Human Energy, Connection, Decision Process Quality, Organizational Enablement, capacity, or renewal conditions. The Decision Point operates throughout this intended pathway. It makes choices and their consequences inspectable; it does not guarantee progression or sustainable results.
 
-> **Recurring operational demand as a continuing consumer of organizational capacity, followed by the protection and redirection of the capacity released when unnecessary demand is removed.**
+Customer Experience outcomes provide important evidence of customer-facing value. Sustainable Growth requires examining CX alongside employee experience, operating results, future-capacity coverage, and wider value consequences over time. Good CX alone does not establish that future delivery can be sustained.
 
-### Business Process Reengineering
 
-**Michael Hammer and James Champy**, particularly through *Reengineering the Corporation*, established another important antecedent: when existing processes are fundamentally unsuitable, organizations should question the process itself rather than merely optimize individual activities.
+**Applying the four definitions to a demand decision.** A decision to remove, reduce, or retain recurring work is a consequential choice. *Decision Enablement:* does the person proposing the change hold the authority, information, and access to make it, or does someone else own the rule? *Decision Process Quality:* were the purpose, alternatives, and safeguards examined before the change? *Decision Quality:* given what could reasonably be known, was removing or redesigning the work appropriate? *Decision Outcome Quality:* what actually happened to the work, the capacity, and the next cycle? A removal that worked does not prove the choice was sound; a removal that failed does not prove it was unsound.
 
-OSF shares the principle of challenging existing process logic rather than automatically optimizing it.
+## What OSF contributes
 
-Again, OSF is not synonymous with BPR.
+OSF proposes a specific order of questions for recurring work: *should it exist, why does it recur, can it be removed, how should what remains be handled, and what happens to the capacity released?* It adds a decision-and-review record that carries the release through protection, destination, and coverage. Its intended contribution is better question formulation and more inspectable disposition choices, not the discovery that unnecessary work wastes effort.
 
-Its focus is narrower and more explicitly connected to the HEE economic logic of:
+Whether this order improves decisions, diagnostic reliability, or outcomes beyond credible alternatives remains an empirical question. A new vocabulary or a successful example is not sufficient evidence of added value.
 
-**Recurring Demand → Capacity Consumption → Demand Reduction → Capacity Release → Protection → Redirection → Application → Execution**
+## One case from question to review
 
-### OSF's distinctive contribution
+**All teams, quantities, thresholds, periods, and results below are invented [Illustrative]. This is neither an AKG case nor evidence for OSF.**
 
-Lean provides a strong tradition of identifying waste.
+A weekly operations report takes five people about three hours each to produce and circulate. Asking only “How do we make the report faster?” makes it seem inevitable. A better question is: **which decision depends on this report, and what happens if it stops?**
 
-BPR provides a strong tradition of fundamentally rethinking processes.
+| Step | Finding in the illustration |
+| --- | --- |
+| Recurring demand | Weekly report: collection, reconciliation, formatting, review, distribution |
+| Six tests | Necessary? Two of nine sections inform a weekly staffing decision. Valuable? The other seven sections have no named reader or decision. Proportionate? No. Designed? Data are re-keyed between two systems. Recurring? Yes. Preventable? Yes, upstream |
+| 3C: where to look | **Source:** a former audit request that no longer applies. **Dependency:** four teams supply data by hand. **Constraint:** no shared data source |
+| Alternatives still open | A hidden user of the seven sections; a regulatory duty; a legitimate need that has changed form |
+| Candidate disposition | **Remove** seven sections; **Retain** two; **Re-engineer** the data feed so the two sections need no hand collection |
+| Safeguards | Ask named recipients before stopping; keep the seven sections available on request for one quarter; a trigger to restore any section a recipient shows to matter |
 
-OSF adds a specific organizational-capacity lens:
+**Measures set before starting.** Hours spent per week on the report, requests to restore a section, errors in the two retained sections, and the hours that fall away measured against a pre-change baseline of eight weeks. The hours are recorded as *measured* or *estimated*.
 
-> **What recurring demand should no longer consume organizational capacity, what capacity does its removal release, how is that capacity protected from reabsorption, and where should it be deliberately redirected?**
+**Illustrative result.** Measured effort falls from about 15 hours to 6 hours a week; two recipients ask for one section back, which is restored. This supports a narrower account: the work was largely unnecessary and part of it was legitimate. It does not show that 9 hours became usable capacity.
 
-Thus:
+**What happens to the nine hours.** The owner agrees in advance that the hours return to the data team for the feed fix. In the fourth week a new weekly request arrives. Because the destination and owner were named, the request goes through a visible reassignment decision rather than silent reabsorption. The decision is to accept half of it and to defer the rest, with a review date.
 
-> **OSF is informed by the traditions of waste reduction and process redesign, but its central construct is unnecessary recurring operational demand and its central economic concern is organizational capacity.**
+**The two checks.** *Justified?* The original effort was **partly** justified: two sections served a real decision. *Covered?* Next-cycle capacity on the data team is **Fragile**: the feed fix can be absorbed in the base case but not if a plausible month-end spike coincides with it. A credible contingency is named: a person, a scheduled slot, the access required, and a trigger date.
 
----
+**The four decision reviews.** The owner’s authority to stop reports, and the recipients’ access to the sections, establish Decision Enablement. The tests, alternatives, and safeguards describe Decision Process Quality. The choice is judged against what was known before it began. Hours, restorations, and errors describe Decision Outcome Quality. These assessments may differ.
 
-# 6. FOUNDATIONAL DISTINCTIONS
+## Investigate: choose the route
 
-OSF depends on precise distinctions.
+Investigation has three branches. Choose the one that matches the question; they are not three compulsory stages.
 
-| Construct | OSF meaning |
-|---|---|
-| **Demand** | Work or requirement placed on organizational capacity |
-| **Unnecessary Demand** | Demand that does not need to exist in its current form |
-| **Recurring Demand** | Demand that repeatedly arises or is repeatedly required |
-| **Operational Noise** | Recurring operational manifestation of friction, interruption, duplication, rework, coordination burden, or related interference |
-| **Capacity Consumption** | Capacity used to meet demand |
-| **Drain** | Harmful or insufficiently productive consumption of organizational capacity |
-| **Capacity Release** | Capacity no longer consumed after demand is removed or reduced |
-| **Capacity Protection** | Measures preventing released capacity from being consumed again |
-| **Usable Capacity Recovery** | Capacity practically available for purposeful application after release and protection |
-| **Capacity Redirection** | Deliberate movement of released capacity toward another purpose |
-| **Effective Application** | Purposeful use of available capacity |
-| **Execution** | Application that produces intended results |
-| **Sustained Execution** | Intended results repeatedly produced over time |
-| **Sustainable Execution Capacity** | Continuing organizational ability and readiness to execute effectively without consuming the capacity required for future execution |
-| **Value** | Beneficial organizational or business outcome |
+```text
+Investigate
+├── Diagnose        (find the cause: why is this happening?)
+├── Establish       (gather the evidence that would decide: move Unknown → decidable)
+└── Verify          (check whether practice meets the standard — audit route)
+```
 
-Therefore:
+| Branch | Starting question | Method | Required output |
+| --- | --- | --- | --- |
+| **Diagnose** | Why does this work keep recurring, and is it unnecessary? | Trace the demand, apply the six tests, test alternatives | A supported candidate explanation, uncertainty, and a proportionate response |
+| **Establish** | What evidence would let us decide? | Specify the decision, missing evidence, collection plan, and sufficiency rule | A decidable question or an explicit Unknown with a bounded action |
+| **Verify** | Does practice meet the stated standard? | Compare sampled practice with a valid, scoped criterion | A conformity finding, an exception, or inability to conclude |
 
-> **Demand ≠ Noise ≠ Consumption ≠ Drain**
+A recurring complaint can justify Diagnose. Unknown volumes or purposes may first require Establish. Checking that a demand-entry rule was followed calls for Verify. An audit exception can trigger Diagnose, but a failed control does not identify its cause by itself.
 
-And:
+## Diagnose: is this recurring demand, and is it unnecessary
 
-> **Release ≠ Protection ≠ Recovery ≠ Redirection ≠ Application ≠ Execution ≠ Sustained Execution ≠ Sustainable Execution Capacity ≠ Value**
+**Diagnostic approach [H]: symptom → candidate explanations → discriminating evidence → supported diagnosis → response → review.**
 
-These are related stages and conditions, not interchangeable terms.
+1. **Bound the demand.** Name the recurring work, who it affects, its frequency, its recorded cost, and its stated purpose. Check whether the target itself is reasonable.
+2. **Trace noise to demand.** A visible activity is a symptom. A meeting may be noise; the time and attention of those present are consumption; the recurring request or missing decision right that creates it may be the demand. Do not attack the activity before understanding what creates it.
+3. **Apply the six tests.** Ask each, and record the evidence and any Unknown.
 
----
+| Test | Question | A weak answer suggests |
+| --- | --- | --- |
+| Necessary? | Does the purpose genuinely require this demand? | Removal may be possible |
+| Valuable? | Does it create sufficient corresponding value? | Reduction or replacement |
+| Proportionate? | Is the amount proportionate to the value or risk addressed? | Reduction |
+| Designed? | Is it appropriately designed? | Re-engineering |
+| Recurring? | Does it repeatedly consume capacity? | Repeated consumption may justify investigating prevention; compare prevention’s costs, risks, and expected benefit with continued response |
+| Preventable? | Could upstream change stop its recurrence? | Re-engineering the source |
 
-# 7. OSF ECONOMIC LOGIC — THE CANONICAL MODEL
+4. **Test alternatives.** Consider genuine capability shortage, unavailable capacity, a blocked decision or access, depleted Human Energy, inappropriate targets, and measurement error. Agreement among those interviewed identifies a candidate, not an established cause.
+5. **Test necessity before changing a control.** Use [the constraint test in HEEn](https://github.com/titumozammel/human-energy-enablement#test-the-constraint-before-changing-it). A slow approval, a check, or a report may serve a legal duty, safety purpose, or protective function. Cost and frequency do not make it unnecessary.
+6. **Choose a proportionate, reversible first step** where one exists, with a stop rule written before the pilot.
 
-The canonical OSF economic pathway is:
+| Evidence pattern | Candidate explanation | Useful next step |
+| --- | --- | --- |
+| Recurring work with no named purpose or user; effort exceeds any value found | Drain Condition [P] | Apply the six tests, then 5R |
+| Work recurs because an upstream step keeps creating it (rework, reconciliation, repeated requests) | Drain Condition with an upstream source | Trace to the source and re-engineer it |
+| Skill exists, time exists, but work waits for access, authority, or a decision | Enablement Gap [P] | Route to [HEEn](https://github.com/titumozammel/human-energy-enablement) |
+| Required capability is absent even with good conditions | Capability Gap [P] | Develop; outside OSF’s primary scope |
+| Capability exists but cannot reach the point of need | Capability Connection Gap [P] | Connect; OSF may identify unnecessary dependencies |
+| Legitimate demand exceeds credible available time or energy; people are depleted | Human Energy Gap [P] or a capacity shortfall | Protect or Recover; OSF may remove contributing demand but does not establish recovery |
+| A recurring restriction may be more burdensome than its purpose | Candidate Artificial Constraint Condition [P] | Test purpose and safeguards before changing it |
+| Evidence is mixed or does not discriminate | Mixed or Unknown | Record each possibility and Establish the next evidence |
 
-**Unnecessary Recurring Demand**  
-↓  
-**Operational Noise**  
-↓  
-**Avoidable Capacity Consumption**  
-↓  
-**Demand Reduction**  
-↓  
-**Capacity Release**  
-↓  
-**Capacity Protection**  
-↓  
-**Usable Capacity Recovery**  
-↓  
-**Capacity Redirection**  
-↓  
-**Effective Application**  
-↓  
-**Execution**  
-↓  
-**Sustained Execution**  
-↓  
-**Sustainable Execution Capacity**  
-↓  
-**Sustainable Business Value**  
-↓  
-**Renew / Reinvest**
+An Execution Deficit is a trigger for inquiry, not an explanation. These are provisional distinctions linked to the Core vocabulary, not a validated taxonomy. **Not every execution problem is a demand problem.** A response can combine interventions.
 
-This is the **single canonical OSF economic logic**.
+## Dispose: the 3C lens and the 5R cascade
 
-Any shorter or expanded representation elsewhere in this document is an explanatory restatement of this model, not a competing OSF cycle.
+**3C answers where to look; 5R answers what to do.** They are complementary and not rigid sequential stages.
 
-The central economic shift is:
+**The 3C lens** [A] directs attention to three contexts: **Source** (where the recurring demand originates), **Dependency** (where unnecessary reliance creates or sustains it), and **Constraint** (where a restrictive condition creates, sustains, or amplifies it). See the [3C Strategic Approach](https://github.com/titumozammel/3c-strategic-approach). Dependency here is a 3C context, not the Interdependence variable used in prioritization.
 
-> **How can we do more work?**
+**The 5R cascade** [H] gives five dispositions: **Remove** (should the demand exist at all?), **Reduce** (lower frequency, volume, scope, complexity, participants, or handoffs), **Replace** (serve the purpose through something simpler, such as self-service, standardization, clearer ownership, or a simpler decision path), **Re-engineer** (address why the demand keeps arising: process, decision rights, information flows, interfaces, upstream causes), and **Retain** (necessary, valuable, proportionate, well-designed work stays). See the [5R Cascade Framework](https://github.com/titumozammel/5r-cascade-framework). Retention is not failure; it is the recognition that some recurring demand is legitimate.
 
-toward:
+**Heuristics, not laws [H].** *Question before optimizing.* *Prefer removal to reduction where the necessity test supports it:* reducing unnecessary work still leaves unnecessary work. This is a preference, not a rule: removing a control can be the riskier move, so a reversible trial may precede a removal. *Simplify before automating:* do not automate complexity that should have been eliminated. Automation can improve the handling of necessary work; it does not by itself remove demand, release capacity, or create value.
 
-> **What work should no longer consume capacity?**
+**Two safeguards from the Core README.** *Protective Friction* is intentional resistance that keeps low-value work from entering the system; it is a reason to design demand-entry criteria, not to remove every check. *No Externalized Fire* requires that a local saving not shift the burden to another team, function, or point in the process. Check both before claiming a release.
 
-The governing question then becomes:
+**When resistance is political.** A defended constraint is a reason to examine decision rights and incentives; it is not evidence that the constraint is artificial. Use the Core README’s [bounded escalation protocol](https://github.com/titumozammel/human-energy-economics#when-a-constraint-is-politically-defended-h), including its guidance on when not to escalate.
 
-> **What happened to the capacity we stopped consuming?**
+**People infrastructure [H].** Lasting demand reduction usually depends on five supports: accountability (a named owner for the recurring work), knowledge (so work does not depend on one person’s memory), empowerment (the ability to act without unnecessary escalation), capability development, and continuous improvement. This is a checklist for what keeps a removal from reverting, not a validated model.
 
----
+## Establish: from Unknown to a decision
 
-# 8. THE CENTRAL OSF ECONOMIC QUESTION
+The aim is sufficient evidence for a specified decision, not unlimited collection. Define sufficiency before seeing a preferred result.
 
-OSF asks:
+| Field | Record |
+| --- | --- |
+| Decision and deadline | What choice must be made about this demand, by whom, and when does it lose value? |
+| Missing distinction | What uncertainty could change that choice (purpose, user, volume, who depends on it)? |
+| Discriminating evidence | What observation would favor removal over redesign, or retention over either? |
+| Collection | Source, period, sample, collector, access, confidentiality, and cost |
+| Sufficiency rule | What evidence supports action, weakens it, or remains inconclusive? |
+| Remaining uncertainty | What cannot be settled in time, and what precaution addresses it? |
 
-> **What recurring operational demand is consuming organizational capacity unnecessarily, and what should happen to that capacity when the demand is removed or reduced?**
+If evidence remains weak, keep Unknown visible. Unknown does not mean zero risk or that action must stop. The owner may choose a reversible trial, temporary safeguard, deferral, or escalation, stating the rationale. Do not remove a control merely because its purpose is unrecorded; equally, do not keep a costly recurring demand indefinitely because the evidence is incomplete.
 
-This question contains two distinct decisions.
+## Verify: practice against a standard
 
-### First:
-**Should the demand continue to exist?**
+**Audit approach [H]: standard → scoped practice → evidence → finding → corrective action → verification.** This is an internal review guide, not a certification standard or an assurance opinion.
 
-### Second:
-**If it does not, what happens to the capacity released?**
+1. Establish the requirement (for example, an approved demand-entry rule or a protection arrangement), its authority, version, and scope. An OSF principle is not automatically a standard.
+2. Define the workflow, period, population, sample rationale, and reviewer. Use an independent reviewer where consequences or conflicts warrant it.
+3. Collect traceable evidence and exceptions. Inquiries alone may not establish that a control operated.
+4. Compare practice with the criterion. Conclude **conforms**, **does not conform**, **insufficient evidence**, or **not applicable**, with reasons.
+5. Separate the observed exception from any proposed cause. Route causal questions to Diagnose.
+6. Agree correction, accountability, due date, and evidence required for closure.
+7. Recheck implementation and effectiveness. An action marked complete is not automatically an effective correction.
 
-This prevents demand reduction from being treated as the end of improvement.
+**Invented policy and records [Illustrative].** Assume an approved policy requires every new recurring report to name an owner, a decision it serves, and a review date, and requires an existing report with no named reader after two review dates to be considered for retirement.
 
----
+| Field | Illustrative entry |
+| --- | --- |
+| Criterion | Current approved policy, named version and effective date |
+| Scope and sample | Ten reports from the register; purposive sample, not a population estimate |
+| Evidence | Report register, owner records, review minutes, distribution lists |
+| Finding | Four sampled reports lacked a named decision; two had passed two review dates without review |
+| Conclusion | Sampled exceptions to the criterion; no claim that all reports fail |
+| Proposed cause | Unconfirmed: reviews may lack a trigger; investigate separately |
+| Correction | Assign a review owner and complete overdue reviews |
+| Follow-up | Recheck the register and a new period; keep the finding open if evidence is inadequate |
 
-# 9. WHY RECURRING DEMAND MATTERS
+A process can conform to a poorly designed standard and still waste capacity. Audit conformity and diagnostic usefulness are separate questions.
 
-One-time work may consume capacity without creating a persistent structural burden.
+## Justified expenditure, release, and future coverage
 
-Recurring demand is different.
+Do not treat all capacity consumption as loss. Learning, maintenance, recovery, incident response, and deliberate investment can be justified. Equally, a justified expenditure can leave a real future shortfall, and removing unnecessary work does not by itself guarantee that next cycle is covered.
 
-If unnecessary work occurs repeatedly, its consumption compounds across:
+**Check 1: Justified?** Was the expenditure of capacity warranted given its purpose, alternatives, proportionality, constraints, and what could reasonably be known? Answer yes, partly, or no; if partly, separate the justified part from the excess. This is the check that decides whether recurring demand is a drain. Test the necessity of a restriction separately; the two judgments must not be conflated.
 
-- time;
-- people;
-- functions;
-- decisions;
-- systems;
-- interfaces;
-- management attention;
-- coordination;
-- cognitive effort.
+**Check 2: Covered?** Over a stated next-cycle horizon, does credible expected usable capacity cover legitimate demand under plausible scenarios, with the required capability, access, and credible recovery or renewal assumptions?
 
-A small recurring burden can therefore become a substantial organizational capacity problem.
+| Evidence state | Working interpretation | Decision implication |
+| --- | --- | --- |
+| **Covered** | Legitimate demand is covered across the plausible scenarios reviewed | Proceed with monitoring and explicit assumptions |
+| **Fragile** | Base demand is covered but a plausible scenario creates a material gap | Require a credible contingency: a named person, a scheduled slot, the resource or authority, and a trigger date. If any is missing or infeasible, retain Fragile as the evidence state and act as if Not covered |
+| **Not covered** | Credible expected capacity falls materially short of legitimate demand | Reschedule, reduce or redirect demand, add feasible resources, protect capacity, or renegotiate commitments |
+| **Unknown** | Evidence cannot support a defensible classification | Establish the missing evidence by a stated date; if it passes without decisive evidence, retain Unknown and act as if Not covered for this decision |
 
-OSF focuses on the recurrence because:
+Use the Core README’s [one-page card](https://github.com/titumozammel/human-energy-economics#justified-spending-or-future-shortfall-one-page-card-hp) for consequential decisions. These are proposed checks and decision states, not validated measures.
 
-> **Recurring unnecessary demand creates recurring unnecessary consumption.**
+**Reading them together.** Not or partly justified and Covered is a drain candidate, not an emergency. Not or partly justified and Not covered is high priority. Justified and Not covered is justified spending with a candidate future shortfall: removing other work may help, but it is not a substitute for a plan.
 
----
+**Protect any release.** Released capacity is not automatically available, and availability is not automatically value. Follow the Core README’s [capacity protection and anti-reabsorption protocol](https://github.com/titumozammel/human-energy-economics#capacity-protection-and-anti-reabsorption-protocol-h): baseline the activity; verify that the work or resource use actually fell, and mark it *measured* or *estimated*; name the intended use before release; assign an accountable owner and say who can authorize new demand against it; make any reallocation an explicit decision; and review across cycles at a pre-set date. Useful redeployment is not failed protection. Record a justified reassignment separately from silent reabsorption into equivalent low-value work. The protocol does not give a practitioner authority to refuse legitimate new work.
 
-# 10. WHAT COUNTS AS UNNECESSARY RECURRING DEMAND?
+Keep units, skills, horizons, and demand assumptions consistent. A saved hour of one skill does not cover a shortfall in another. Reduced waiting does not necessarily release equivalent person-hours, and a faster step can expose a downstream bottleneck.
 
-A recurring demand falls within OSF's primary scope when it:
+## Operational Silence Index (OSI)
 
-1. recurs;
-2. consumes organizational capacity;
-3. is unnecessary, excessive, avoidable, or unnecessarily designed in its current form;
-4. creates operational noise or friction;
-5. prevents capacity from being applied more purposefully.
+> **Owner note.** The OSI is a proposed index, not a validated measure. Do not use it as a target or to rank people or teams.
 
-OSF does not assume that recurring work is automatically unnecessary.
+The **Operational Silence Index (OSI)** is a proposed measurement construct **[P]**. It is not an established metric.
 
-The diagnosis must establish that the demand is genuinely unnecessary, excessive, avoidable, or unnecessarily designed.
+**Proposed definition.** For a defined unit and period, with all quantities in the same units:
 
----
+> **OSI = 1 − (recurring avoidable noise consumption ÷ capacity base for the period)**
 
-# 11. DIAGNOSTIC DISCIPLINE
+**Numerator.** *Recurring avoidable noise consumption* is the capacity consumed by recurring work judged **not justified** under Check 1 (the six tests, with the evidence recorded). For work that is only *partly* justified, split it by the evidence and count only the unjustified portion. Count each hour once, under one item in a demand register; an hour that appears under two items, or that is also counted as another unit’s consumption, is a double count.
 
-Before intervening, ask:
+**Capacity base.** The base is the unit’s capacity *before* demand and drain are subtracted. In a simple case it is the staffed hours available in the period (net of planned absence), before subtracting what demand consumes; it is not headcount. It is **not** usable capacity, which is net of what demand and drain already consume and so rises when noise falls, shifting both sides of the fraction. The base can legitimately differ between periods because staffing, absence, operating hours, and skill mix change. Do not hold it constant merely to preserve comparability; define the rule for it before measuring, report skill mix separately, and state what changed when the base changes.
 
-> **Is the demand necessary?**  
-> **Is it valuable?**  
-> **Is it proportionate?**  
-> **Is it appropriately designed?**  
-> **Is it recurring?**  
-> **Is it preventable?**
+**Report the parts.** Always report the numerator, the base, and the OSI together. Where the base changes materially, show the numerator against both the earlier and the later base before reading a change in OSI as an improvement.
 
-These questions prevent indiscriminate reduction.
+**How the numerator is built [Illustrative].** A unit’s demand register for a quarter lists five recurring items. Each is put through the six tests and judged under Check 1.
 
-The OSF principle is not:
+| Recurring item | Hours | Test results in brief | Check 1 judgment | Hours counted |
+| --- | --- | --- | --- | --- |
+| Seven report sections with no named reader | 400 | Not necessary, not valuable, no decision depends on them | Not justified | 400 |
+| Re-keying data between two systems | 500 | Not necessary; poorly designed; preventable upstream | Not justified | 500 |
+| Approval meeting | 300 | Purpose real for part of the agenda; rest is repeated status | Partly justified (about 40% of time) | 180 |
+| Monthly rework of mislabeled orders | 420 | Recurring; preventable at the source | Not justified | 420 |
+| Regulatory monthly filing | 250 | Necessary by obligation; proportionate | Justified | 0 |
+| **Total counted** | | | | **1,500** |
 
-> **Remove work.**
+With a capacity base of 10,000 hours, the OSI for this register is 1 − 1,500 ÷ 10,000 = **0.85**.
 
-It is:
+**Worked example [Illustrative].** With a base of 10,000 capacity hours, OSI = 1 − 1,500 ÷ 10,000 = **0.85**. After an intervention the counted hours are 900: OSI = 1 − 0.09 = **0.91**, a rise of 6 percentage points. If, in the later period, leave reduces the base to 9,500 hours, OSI = 1 − 900 ÷ 9,500 = about **0.905**; the numerator and both bases should be reported, not only the index. The 600 hours that fell away are *measured* only if recorded as such.
 
-> **Remove unnecessary recurring demand.**
+**What the number does not show.** It does not show that the 600 hours became usable capacity, were protected, were applied, improved execution, recovered Human Energy, or created value. It also depends on the judgment of what counts as “not justified,” which can be wrong, gamed, or inconsistent between assessors.
 
----
+**Qualifications and cautions.**
+- Define capacity, noise, and the base rule in advance, and record any change to them.
+- Record each Justified? judgment, its evidence, and who made it.
+- Do not use OSI to rank people or teams, to set quotas, or as a stand-alone target; a target invites relabeling work as “necessary” or hiding it.
+- Do not compare OSI across units or organizations until the construct has shown reliability and validity.
+- Open questions: how to weight different kinds of capacity, represent knowledge work, allocate shared capacity, choose a period, and set any meaningful threshold.
 
-# 12. OPERATIONAL NOISE
+OSI is a conceptual index requiring empirical validation. Its reliability and validity are among the research tests below.
 
-**Operational Noise** is the recurring operational manifestation of unnecessary demand, friction, interruption, duplication, rework, coordination burden, or related system conditions that consume organizational capacity without sufficient corresponding value.
+## The OSF Value Test
 
-Operational Noise may appear as:
+The OSF Value Test asks whether demand reduction produced more than activity reduction. Ask each question in order. For each answer, record three things separately, because they describe different aspects and can overlap: the **source** (a system record, direct observation, an owner’s report, or an author-reported account); the **method** (measured, estimated, or merely expected); and the **certainty** (established enough to act on, uncertain, **Not recorded** because no record is held, or **Unknown** because the evidence cannot support a determination). A measured result can still be uncertain, and an author-reported result can contain measurements.
 
-- unnecessary coordination;
-- duplicate work;
-- repeated reconciliation;
-- excessive approvals;
-- information friction;
-- interface friction;
-- repeated handoffs;
-- rework;
-- exceptions;
-- unclear ownership;
-- workarounds;
-- fragmented systems;
-- unnecessary reporting;
-- repeated requests;
-- unnecessary dependencies;
-- meetings;
-- escalations;
-- intervention;
-- poor process design.
+| Step | Question | If the answer is Unknown |
+| --- | --- | --- |
+| 1 | What work disappeared, and was the fall measured? | Establish a baseline and a follow-up measure |
+| 2 | What capacity was released (measured or estimated)? | Do not claim release; treat it as an expectation |
+| 3 | Was it protected: named use, owner, reassignment rule, review date? | Set these before further release |
+| 4 | Was reabsorption prevented, or was reassignment a visible decision? | Review the demand that arrived since the change |
+| 5 | Is the capacity available for relevant work, with the required skill and access? | Check capability and enablement before redirecting |
+| 6 | Where was it redirected, and who owns that decision? | Name a destination |
+| 7 | Was it effectively applied to the intended work? | Review the application, not the hours |
+| 8 | Did execution improve, with alternative explanations considered? | Establish a comparison |
+| 9 | Was next-cycle capacity covered (Covered / Fragile / Not covered / Unknown)? | Run Check 2 |
+| 10 | Was value created or sustained across the relevant capitals? | Keep the claim at its supported step |
 
-The diagnostic question is:
+**Stop at the last supported step.** A claim that depends on earlier steps is only as strong as the earliest of them where the answer is Not recorded, Unknown, or merely expected. Later outcomes can still be observed and recorded on their own evidence, but they must not be attributed to a step that is unverified. Each step is separate: less work is not better performance; time saved is not Human Energy recovered; released capacity is not usable capacity; recovered capacity is not value. *Example:* if protection (step 3) is Unknown, do not claim that protection secured the released capacity or caused downstream benefits. Record independently supported application or value outcomes separately, without attributing them to an unverified protection mechanism.
 
-> **What recurring demand or system condition keeps creating this noise?**
+## Demand decision record
 
-OSF therefore treats visible noise as a signal to investigate underlying recurring demand.
+Use a short record for a small reversible decision and a fuller one for consequential or hard-to-reverse choices **[H]**. HEEn’s owner record serves enablement decisions; this record serves decisions about recurring demand.
 
----
+| Field | Decision-ready answer |
+| --- | --- |
+| Demand and recurrence | What recurs, how often, for whom, at what recorded cost? |
+| Purpose and tests | The legitimate purpose and the result of each of the six tests |
+| Evidence and uncertainty | What do we know, from which sources; what contradicts the preferred explanation? |
+| Alternatives | Capability, enablement, Human Energy, target, or measurement explanations that remain plausible |
+| Options | Remove, reduce, replace, re-engineer, retain, or gather evidence |
+| Choice and reasons | Why this option is proportionate given benefits, costs, and uncertainty |
+| Safeguards | Legitimate controls, Protective Friction, burden shifted elsewhere (No Externalized Fire), stop or reversal triggers |
+| Expected release | Hours or resource expected and whether measured or estimated |
+| Destination and owner | Intended use, accountable owner, reassignment rule, review date |
+| Justification and coverage | Was expenditure warranted; is next cycle Covered, Fragile, Not covered, or Unknown? |
+| Responsibility | Decision owner, implementation owner, reviewer, required authority, due dates |
+| Review | Implementation check; hours, quality, harms, restorations, application, and future-coverage measures |
 
-# 13. DEMAND, NOISE, AND CONSUMPTION
+Do not fill missing fields with invented estimates presented as facts. Label estimates, assumptions, and illustrative figures distinctly.
 
-These three constructs must remain distinct.
+### Decision speed and review
 
-### Demand
-The requirement placed upon capacity.
+Use a **minimum useful record** even for a quick choice: the demand, the evidence and key uncertainty, the action, the owner, a safeguard or reversal trigger, and a review point. Escalate depth for substantial cost, safety or regulatory implications, disputed authority, or difficult reversibility. For a low-stakes, easily reversed change (Tier 1 in the Core’s terms), decide in the same sitting; higher tiers add an independent check and a decide-by date. These are judgment rules, not validated time-saving claims. See the Core README’s [Decision Speed Card](https://github.com/titumozammel/human-energy-economics#decision-speed-card-h).
 
-### Noise
-The operational manifestation of friction or unnecessary recurring demand.
+At review ask, in order: **Was the change implemented? Did the recurring demand fall? Was the release real and protected? Did application and valued results change? What happened to costs, harms, and future coverage?** A null result can reflect a false diagnosis, incomplete implementation, poor measurement, insufficient time, or another bottleneck.
 
-### Consumption
-The organizational capacity used in responding to that demand.
+## Employee Experience, Customer Experience, and Sustainable Growth
 
-A meeting, for example, is an activity.
+OSF proposes this pathway **[P]**: reducing a specific unnecessary demand may alter employee friction and workload; freed and protected capacity may be applied to other work; changed application may alter service reliability or responsiveness; customer consequences and the capacity needed to keep delivering must then be examined over time. Each link needs evidence. Satisfaction scores do not establish the mechanism.
 
-The meeting may be a manifestation of Operational Noise.
+| Link to examine | Proposed example | Evidence and rival explanations |
+| --- | --- | --- |
+| Demand reduction → EX | Fewer repeated requests reduce interruption and rework | Interruption logs, confidential accounts; check workload, leadership, or pay changes |
+| Release → application | Protected hours are used on the intended work | Work records, queue movement; check demand mix and capability changes |
+| Application → CX | Faster, more accurate service | Turnaround, complaints, quality; check customer-mix and pricing changes |
+| Current delivery → sustainability | Results can be repeated without hidden overtime or deferred maintenance | Repeated coverage checks, recovery, rework, costs, wider consequences |
 
-The time and attention consumed by participants are Capacity Consumption.
+**Good CX with worsening EX** can indicate effort or hidden overtime sustaining delivery; it can also have other causes. **Improved EX with weak CX** may indicate a downstream constraint, a time lag, or a change that helps staff without improving customer value. Neither pattern establishes a cause.
 
-The recurring request that creates the meeting may be the underlying Demand.
+Sustainable Growth, in HEE, is the continuing creation and renewal of value across the six capitals without degrading the capacity needed for future value. A change to one workflow cannot establish organization-wide Sustainable Growth. Growth can add interfaces, handoffs, and recurring demand; it can also bring resources and simplification. Test the conditions rather than assuming complexity must worsen. Some complexity is necessary because customers, risks, and regulations differ; the question is which complexity creates value and which repeatedly consumes capacity without it.
 
-Therefore:
+## Boundaries and architecture
 
-> **Do not attack the visible activity before understanding the recurring demand that creates it.**
+HEE is the provisional capacity lens informed by economic questions. **OEOS** is the proposed operating architecture; **HEMS**, **HEA**, **HERF**, and **HEDP** are Human Energy and capability-management components documented within the Core. These are proposed constructs, not validated systems. The five conversion conditions remain **Human Energy, Capability, Connection, Decision Process Quality, and Organizational Enablement**; SEC is an intended outcome, not a sixth condition. OSF’s concern is the demand side: it affects usable capacity before any of the conditions can act on it.
 
----
+| Related element | Its role | OSF boundary |
+| --- | --- | --- |
+| HEE Core | The capacity lens, diagnostic vocabulary, Two Checks, and research tests | The Core governs shared terms; OSF does not restate them as its own |
+| 3C | Where to look: Source, Dependency, Constraint | OSF uses it; it is not an OSF construct |
+| 5R | What to do: Remove, Reduce, Replace, Re-engineer, Retain | OSF uses it; the cascade is not an instruction to remove necessary work or safeguards |
+| HEEn | Enabling existing capability to be applied | OSF may find demand created by restrictive conditions; HEEn changes the enabling conditions |
+| HEL | A systemic orientation for recurring artificial restrictions; not a sixth intervention | OSF begins with a particular recurring demand; systemic patterns may need the broader lens |
+| HEMS / HEA / HERF | Manage, audit, and recover Human Energy | Removing demand does not establish that Human Energy has recovered |
+| HEDP | Develops genuinely missing capability | OSF cannot supply a skill that is absent |
+| EES | Manages execution through Find, Fix, Control, Adapt, Grow | OSF does not manage all execution |
 
-# 14. OPERATIONAL SILENCE
+Some elements are documented within the Core and have no separate repository. Markets, strategy, regulation, technical failures, industrial relations, and health questions may need other explanations or specialists; do not force them into OSF.
 
-**Operational Silence** is an organizational operating condition in which unnecessary recurring operational demand and avoidable operational interference have been systematically reduced and protected from re-emerging, allowing greater usable capacity to be directed toward purposeful application and sustained execution.
+**Prioritization [H].** The shared expression *Priority = Urgency × Interdependence × Value Impact* is a heuristic, not a validated equation or a meaningful numeric score without defensible scales. Use the factors alongside safety, authority, reversibility, uncertainty, and cost. Interdependence here is not identical to 3C’s Dependency context. Do not automatically fix the largest gap; look first at the condition that most limits sustainable execution.
 
-Operational Silence does **not** mean:
+**Descriptive progression [P] (legacy construct, not tested).** Firefighting (manage), Fireproofing (prevent), Engineering Silence (engineer), Operational Silence (remove), Execution Excellence (apply), and Sustainable Business Value (sustain) are optional prompts retained from earlier OSF editions. They are not an established ordered maturity scale, a certification, or grounds to score organizations or people; do not use them to do so. The later stages overlap with HEE and EES. Improvement can be uneven and reversible.
 
-- no communication;
-- no meetings;
-- no work;
-- no problems;
-- no change;
-- no intervention;
-- inactivity;
-- disengagement.
+## Relationship to the AKG practice record
 
-It means:
+The [AKG Record](https://github.com/titumozammel/hee-case-studies) describes six author-reported interventions associated with HEE’s development. Cases 1 to 3 (Performance Wizard, restart self-service, quarterly hardware health check) and Case 4 (report redesign) address recurring demand in ways that OSF’s questions would also ask: replace a human-mediated chain, re-engineer a recurring cause, redesign an information product. Case 6 (solution purchasing and month-wise stocking) is a retain-and-redesign case: the demand was legitimate, so it is not an example of removing a drain. They were practical responses to operating problems, not planned demonstrations of OSF, and OSF is a retrospective lens on them.
 
-> **Unnecessary recurring demand no longer needs to consume organizational capacity in the same way.**
+The record holds some reported baselines (for example approximate daily request counts and the report-generation times) but marks other baselines, periods, and sources as Not recorded, and it does not document where released capacity went for any case. The destination of released capacity is **Unknown** for every case, and future coverage was not assessed. Justified? entries are the author’s judgment. Do not use the cases to claim measured release, successful protection, cost savings, or sustainable gain. They can motivate a study; they cannot validate OSF’s constructs, OSI, or its superiority over an existing method.
 
-Operational Silence is therefore not inactivity.
+The author remains Chief Innovation Officer at AKG. His operational involvement and originator role are material to interpreting the practice accounts. Research use requires appropriate authority, confidentiality, provenance, and access arrangements; no access is promised here.
 
-It is a condition of **reduced unnecessary operational demand**.
+## Theory and contribution
 
----
+*For readers who want the positioning argument; owners can skip to the research agenda.* OSF does not claim to be the first to raise these questions; its proposed contribution is a specific order of questions and a discipline of following released capacity. It is informed by established traditions and does not claim to have discovered their central insights **[E/A]**:
 
-# 15. THE OSF STRATEGIC DISTINCTION
+- **Lean.** Taiichi Ohno’s account of waste (*muda*) in the Toyota Production System questions activity that consumes resources without creating value. *Lean asks* which activity is waste. *OSF keeps that question* for recurring demand on organizational capacity and *explicitly includes* a stated follow-up: what happens to the capacity once the waste stops (release, protection, coverage). Whether Lean practice already covers that follow-up in ways OSF does not improve on is a matter for the disposition-divergence test.
+- **Business process reengineering.** Michael Hammer and James Champy argued that unsuitable processes should be questioned rather than merely optimized (*Reengineering the Corporation*, 1993). *Reengineering asks* whether the process should exist as designed. *OSF asks the same* of recurring demand, and *explicitly includes* a proportionate range of responses (the 5R cascade), a test of a control’s purpose before it is changed, and a stop rule written before a pilot.
+- **Failure demand.** John Seddon’s concept of demand caused by a failure to do something, or to do it right, is a closely related antecedent to *unnecessary recurring demand* and should be read alongside OSF. *Failure demand asks* what demand exists because the system failed. *OSF asks* a related question and, as the author reads the two, *explicitly includes* internal recurring work as well as service demand, a separation of Justified? from Covered?, and a record of where released capacity goes. Which established construct is closest is a comparative judgment that needs a documented literature review (see the literature-positioning test below). (Verify page-level citations before formal publication.)
+- **Theory of Constraints.** Eliyahu Goldratt’s focus on the limiting condition informs the Core’s treatment of bottlenecks. *TOC asks* where the constraint is and notes that local savings do not help a system if the constraint is elsewhere. *OSF borrows that caution* through the Core and *explicitly includes* a watch on reabsorption and a named destination for released capacity.
 
-Traditional operational improvement often asks:
+The syntheses are the author’s reading of these traditions **[A]**, not a literature review. “Explicitly includes” describes OSF’s content; whether those elements are absent from the established approaches is what the literature-positioning test is for.
 
-> **How can we optimize this activity?**
+The proposed contribution **[P]** is narrower: an order of questions about recurring demand; explicit evidence states for whether a release was measured, protected, and applied; a separation of Justified? from Covered?; and a review of what happened to the capacity released. Whether this adds decision value beyond Lean, process redesign, and failure demand analysis must be tested against credible alternatives with comparable evidence and effort.
 
-OSF asks first:
+“Operational Noise” and “unnecessary recurring demand” may overlap substantially with failure demand, rework, and waste constructs. OSF does not presently show that they are distinct constructs. If the tests below find no meaningful difference, narrow OSF to a routing aid and a capacity-protection step.
 
-> **Why does this activity need to exist?**
+**Research versus practice.** A heuristic may help structure inquiry without being a validated causal model. Retain, merge, narrow, or retire labels when evidence does not support their intended role.
 
-Then:
+**References.** Ohno, T. (1988). *Toyota Production System: Beyond Large-Scale Production*. Productivity Press. · Hammer, M., & Champy, J. (1993). *Reengineering the Corporation*. HarperBusiness. · Seddon, J. (2003). *Freedom from Command and Control*. Vanguard Education. · Goldratt, E. M., & Cox, J. (1984). *The Goal*. North River Press. See the [HEE Core](https://github.com/titumozammel/human-energy-economics) for its broader evidence map. These references establish antecedents, not validation of OSF.
 
-> **Why does it recur?**
+## Research agenda and tests
 
-Then:
+**Which test to run first.** Start with *necessity classification reliability* using the [coding pack](#necessity-coding-pack-and-first-reliability-check), because every other test depends on classifying demand consistently. The *literature-positioning* test is desk-based and can run in parallel. Run *OSI validity* only after reliability is acceptable.
 
-> **Can the demand be removed?**
+The following are proposed OSF study questions, **not newly registered Core propositions**. References to P5, P10, P11, P13, P14, and P15 indicate links to existing Core tests, not a claim that these studies have occurred or been preregistered.
 
-Only after those questions have been addressed does OSF ask how the remaining demand should be improved.
+| Test | Core proposition | Design and measures | Evidence supporting a bounded claim | Evidence weakening or narrowing it |
+| --- | --- | --- | --- | --- |
+| Necessity classification reliability | None: OSF-specific (parallels P11) | Independent assessors apply the six tests to the same recurring-demand packets; allow Unknown; report raw and chance-corrected agreement with intervals | Agreement exceeds a pre-specified threshold | Adequately measured cases cannot be classified reliably; revise or merge tests |
+| Disposition divergence | P10 Stage 0 (comparison logic) | Compare OSF-guided dispositions with a named, versioned comparator using equal information, attention, and expertise: **primary:** a structured failure-demand analysis; **secondary:** Ohno’s seven-wastes checklist and a 5R application without OSF’s question order | Consistent, justified differences in choices or evidence requests | No meaningful difference; narrow novelty to routing and protection |
+| Protection and reabsorption | P5 and P13 | Define release, owner, destination, and reassignment rule; compare protected and unprotected releases, with queue pressure measured | Explicit protection changes reabsorption under specified demand conditions | No meaningful difference under an adequate test; do not treat redeployment as failure |
+| Justification and coverage after removal | P14 | Classify cases before outcomes; compare the justification judgment with a coverage-only forecast for predicting next-cycle shortfalls | The justification check adds predictive value | No added value; narrow Check 1’s role |
+| OSI validity | None: OSF-specific | Test inter-assessor agreement on “not justified” work (for example two assessors classify the same 20 register items; report raw and chance-corrected agreement); compare counted hours with an independent time-use audit and with a supervisor’s separate judgment recorded before seeing the counts; check how the base behaves across periods | Acceptable reliability and convergent evidence | Inconsistent judgment or an unstable base; retire or redefine OSI |
+| Mechanism | None: OSF-specific (relates to P10) | Measure demand reduction and verified release independently of the application outcome, in comparable workflows, with the sample size taken from a power analysis and not a default; use matched unchanged workflows or a staggered rollout as the comparator, and record that release preceded any change in application | Demand falls and release is verified before application improves, with alternatives addressed | Application improves without verified release, or release changes nothing; narrow the mechanism claim |
+| Recurrence | None: OSF-specific | In comparable units, compare demands handled by upstream re-engineering with demands handled by reduction alone; pre-set the follow-up intervals before the change (justified by the demand’s natural cycle), record whether the same demand returns, and report confounders such as volume and staffing changes | Re-engineering lowers recurrence | No difference; revise the claim that prevention outperforms response |
+| Literature positioning | None: OSF-specific (unowned; parallels P12) | A documented, protocol-based literature review of Lean, process redesign, failure demand, and Theory of Constraints; two independent coders map each OSF construct and question to the nearest established construct, with disagreements and search strategy recorded | Documented gaps: at least one OSF element (question order, evidence states, release-and-coverage follow-up) has no close established equivalent | Two or more independent coders map every OSF element onto an existing construct, with agreement above a pre-specified threshold; narrow OSF to a routing and protection aid |
+| Reader utility | P15 | Representative role-based tasks using this document versus a credible comparator; predefine completion-time and blinded quality criteria | Faster answers without unacceptable quality loss | Speed worsens or important answers cannot be found; revise routing |
 
-The hierarchy is therefore:
+**What would retire or narrow OSF.** This is a document-level view; the Core README’s [framework-level table](https://github.com/titumozammel/human-energy-economics#what-would-reduce-or-retire-hee-as-a-whole-p) states the consequences for HEE as a whole.
 
-**Question → Remove → Reduce → Replace → Re-engineer → Retain**
+| If a fair test finds | Then | Role of the OSI |
+| --- | --- | --- |
+| Necessity judgments cannot be made reliably | The six tests become a checklist | OSI loses its numerator and should not be reported |
+| OSF-guided choices do not differ from existing methods | OSF is a routing and protection aid rather than a new approach | OSI is at most an optional tracking figure |
+| Capacity release cannot be verified | Do not claim release or attribute downstream benefits to it | OSI may still describe classified consumption against its stated capacity base, subject to its measurement limitations; it cannot establish release, protection, or value |
+| Every element maps onto an existing construct (literature positioning) | Narrow the contribution claim to routing and protection | Follows the necessity-judgment and choice-divergence findings above; this finding alone does not change it |
 
-rather than:
+**Minimum study protocol.** Follow the eight-item protocol in [HEEn](https://github.com/titumozammel/human-energy-enablement#minimum-study-protocol): claim, unit and setting; operational definitions; comparison; outcomes; design; decision rules; governance; and registration and reporting. A sufficiently precise null or contrary result after a fair test should narrow or reject the specified claim. Do not rescue a failed claim by changing definitions after seeing outcomes. See also the Core’s [falsification summary](https://github.com/titumozammel/human-energy-economics#falsification-summary-where-to-start-p).
 
-**Optimize → Automate → Add Capacity**
+### Necessity coding pack and first reliability check
 
----
+This is a starter instrument **[P]** for the necessity classification test. All packets and numbers below are **[Illustrative]** and show how the check works; they are not findings. Eight packets are enough to train raters and pilot the sheet, not to estimate reliability, which needs a sample sized in advance.
 
-# 16. THE 3C STRATEGIC LENS
+**Rating sheet (one row per packet and rater).** Record: packet ID; rater; for each of the six tests *Yes / No / Unknown* (answers to the questions in [Diagnose](#diagnose-is-this-recurring-demand-and-is-it-unnecessary), where a weak answer to Necessary, Valuable, Proportionate, or Designed is *No*); the Check 1 label *Justified / Partly justified / Not justified / Unknown*; for Partly justified, the share justified and its basis; the evidence cited; and a confidence note. Raters work independently and do not discuss packets until agreement has been computed.
 
-OSF uses the **3C Strategic Lens** to locate where recurring demand is created, sustained, or amplified.
+**Provisional coding rule [P].** Justified if Necessary and Proportionate are both *Yes*; Partly justified if a distinct part of the item passes (record the share and its basis); Not justified if Necessary or Proportionate is *No* for the whole item; Unknown if either is Unknown and the other does not already decide. Valuable, Designed, Recurring, and Preventable inform the reason and the disposition, not the Check 1 label, in this first pass. Revise the rule if raters cannot apply it, and version every revision.
 
-### SOURCE
-Where does the recurring demand originate?
+**Example packets [Illustrative].**
 
-### DEPENDENCY
-Where does unnecessary dependence create or sustain recurring demand?
+| ID | Recurring demand | Hrs/qtr | What the packet states | What it is designed to test |
+| --- | --- | --- | --- | --- |
+| P1 | Monthly regulatory filing | 250 | Required by a named regulation; effort in line with similar filers | A clear Justified |
+| P2 | Seven report sections | 400 | No named reader or decision on record; the recipients and the compliance owner were asked and found no continuing use or obligation | Not justified, where affirmative evidence supports it (without that checking, the same packet would be Unknown) |
+| P3 | Weekly approval meeting | 300 | Two agenda items need a decision; the rest is repeated status | Partly justified and the share |
+| P4 | Re-keying between two systems | 500 | Same fields entered twice; no interface exists | Designed? versus Necessary? |
+| P5 | Monthly rework of mislabeled orders | 420 | Same labeling error each month; source step unchanged | Recurring and Preventable |
+| P6 | Duplicate sign-off on payments | 120 | Second sign-off added after an incident; purpose not recorded | Unknown purpose; test before changing a control |
+| P7 | Daily status email to a director | 90 | The director says she reads it; no one else uses it | Owner’s report as the only evidence; absence of records is not evidence of no purpose |
+| P8 | Quarterly policy re-acknowledgement | 160 | Policy requires it; staff report that the policy text has not changed in three years | Necessary by rule, Proportionate unclear |
 
-### CONSTRAINT
-Where does a restrictive condition create, sustain, or amplify recurring demand?
+**Worked coded case [Illustrative]: P3.** Both raters receive the same packet: the agenda minutes for six weeks, with minutes of time recorded per agenda item. *Rater A:* Necessary: Yes for the two decision items, No for the status items; Valuable: Yes for the decisions; Proportionate: Yes for the decision portion (35 of the 90 minutes) and No for the remainder; Recurring: Yes; Preventable: Yes (status can go in a shared board). Check 1: Partly justified, about 39% (35 of 90 minutes). *Rater B:* same tests; allocates a mixed discussion item differently, so 32 of 90 minutes, about 36%. Check 1: Partly justified. *Reconciliation, after agreement is computed:* the labels agree and the shares differ by about three points. Because the minutes are approximate and the allocation of mixed items is a judgment, record the justified share as an **estimated range of about 36–39%**, not a measured figure; it would be treated as measured only if time records supported it. Only afterwards is further evidence (the chair’s statement) introduced, separately, and recorded as an owner’s report; it may revise the range, and is not part of the reliability rating. Hours counted as unjustified: 300 × (1 − 0.39) ≈ 183 under A and 300 × (1 − 0.36) ≈ 192 under B.
 
-The 3C lens therefore answers:
+**First reliability procedure [P].** (1) Pre-specify the threshold, the sample size, and the coefficient before rating. (2) Train raters on three packets; do not reuse them for the estimate. (3) Rate fresh packets independently, with every rater given the same evidence and *Unknown* allowed and counted as a category. (4) Report raw agreement, chance-corrected agreement (for two raters, Cohen’s kappa), and an interval. (5) Only then discuss disagreements; revise definitions and the coding rule; record the version. (6) Re-rate a fresh set under the revised rule. (7) Compare the hours each rater would count, because disagreement about shares moves the numerator even when the labels agree.
 
-> **WHERE should strategic attention be directed?**
+**Worked reliability example [Illustrative].** Two assessors classify the same 20 register items. Rows are Rater A’s labels and columns Rater B’s.
 
----
+| A \ B | Justified | Partly | Not justified | Unknown | Row total |
+| --- | --- | --- | --- | --- | --- |
+| Justified | 6 | 1 | 0 | 0 | 7 |
+| Partly | 1 | 3 | 1 | 0 | 5 |
+| Not justified | 0 | 1 | 5 | 0 | 6 |
+| Unknown | 0 | 0 | 1 | 1 | 2 |
+| Column total | 7 | 5 | 7 | 1 | 20 |
 
-# 17. 3C = WHERE; 5R = HOW
+Raw agreement = (6 + 3 + 5 + 1) ÷ 20 = **0.75**. Agreement expected by chance = (7×7 + 5×5 + 6×7 + 2×1) ÷ 400 = **0.295**. Cohen’s kappa = (0.75 − 0.295) ÷ (1 − 0.295) ≈ **0.65**. An approximate 95% interval is kappa ± 1.96 × SE, with SE = √[p<sub>o</sub>(1 − p<sub>o</sub>) ÷ (n(1 − p<sub>e</sub>)²)] ≈ 0.14, giving about 0.38 to 0.91. This large-sample approximation is rough at n = 20; a real study should pre-specify an exact or bootstrap method. The interval is wide because the sample is small, and it would not by itself show acceptable reliability against a stricter threshold. These numbers show the arithmetic and carry no evidence about OSF. Applying each assessor’s labels and shares to the register’s hours would give two numerators; suppose A counts 1,500 hours and B counts 1,380 against a base of 10,000, giving A: 1 − 1,500 ÷ 10,000 = **0.850** and B: 1 − 1,380 ÷ 10,000 = **0.862**. Report the range (0.850–0.862), both numerators, and the 120-hour difference between them, not only the agreement coefficient. Note the single “Not justified” versus “Unknown” disagreement: it is the kind that moves hours into or out of the OSI numerator, so inspect it before trusting the index.
 
-The relationship is explicit:
+## Go further
 
-> **3C = WHERE**  
-> **5R = HOW**
+Choose the destination that answers your next question. You need not read every repository.
 
-3C and 5R are complementary.
+| Destination | Question it helps you pursue |
+| --- | --- |
+| [Author GitHub profile](https://github.com/titumozammel) | Where should I start across the author’s work? |
+| [Human Energy Economics](https://github.com/titumozammel/human-energy-economics) | How do I connect question, method, evidence, decision, and follow-up across the full capacity lens? |
+| [Operational Silence Framework](https://github.com/titumozammel/operational-silence-framework) | Does this recurring demand need to exist in this form? |
+| [3C Strategic Approach](https://github.com/titumozammel/3c-strategic-approach) | Where should I look: Source, Dependency, or Constraint? |
+| [5R Cascade Framework](https://github.com/titumozammel/5r-cascade-framework) | Should recurring demand be removed, reduced, replaced, re-engineered, or retained? |
+| [Human Energy Enablement](https://github.com/titumozammel/human-energy-enablement) | Which conditions prevent existing capability from being applied? |
+| [Execution Excellence System](https://github.com/titumozammel/execution-excellence-system) | How should execution be managed, controlled, and adapted? |
+| [HEE Case Studies](https://github.com/titumozammel/hee-case-studies) | What do the author-reported practice accounts illustrate, and what remains unverified? |
 
-They are not competing frameworks.
+### A short learner exercise
 
-They are not necessarily rigid sequential stages.
+Think of one recurring task, report, or meeting. Write down: its purpose and who uses it; its recorded cost; the answer to each of the six tests; what creates it (Source, Dependency, Constraint); one alternative explanation; and the smallest evidence request or reversible change that would discriminate. Choose Diagnose, Establish, or Verify and explain why. If you would remove something, name where the freed hours should go and who owns that decision. Review your reasoning before removing a control. [Return to the question map](#find-your-question).
 
-3C helps locate the strategic context.
+## Author, disclosure, and revision
 
-5R determines the appropriate disposition of the demand.
+**Md. Mozammel Hoque** — Independent Management Researcher, originator of HEE, and current Chief Innovation Officer at AKG. OSF is maintained as a developing conceptual framework within the HEE ecosystem. The author provides the commercial diagnostic service **The Capacity Read**, through Ovinabo Advisory. That interest is disclosed for transparency; service use and client testimonials do not validate OSF. This document does not require purchase of a service.
 
-Therefore:
+**Revision record — 28 October 2026.** Revises the 2 September 2026 edition for alignment with the HEE Core, author profile, AKG record, and HEEn. Adds the precision and evidence statements, reader routes, the five-column question map, The Decision Point, three investigation routes, differential diagnosis, a worked case, an audit example, the Two Checks, and a demand decision record. Replaces the earlier diagnostic table with the Core’s seven provisional conditions, renames “Usable Capacity Recovery” to avoid collision with the Core’s Recover intervention, aligns the prioritization variable to Interdependence, labels unvalidated constructs [P], reframes “never reduce what can be removed” as a heuristic with a necessity test, redefines OSI against a stated capacity base that may change between periods, and replaces the topic list with testable propositions. Adds a one-page owner view, a necessity coding pack with a worked reliability example, a synthesis of each antecedent, a literature-positioning test, and a retirement table with the OSI role in each case. Removes repeated restatements of the canonical pathway.
 
-**Recurring Demand → 3C: Source / Dependency / Constraint → 5R: Remove / Reduce / Replace / Re-engineer / Retain**
+This is a revised Version 1.0 working document, not an assertion that an existing published release tag was changed. Public URLs are supplied as reader destinations; current live contents and the repository LICENSE file were not independently verified for this revision. Editorial readiness and structural link checks do not establish empirical validity or tested reader enjoyment.
 
----
+## License
 
-# 18. CAPACITY REABSORPTION
+This framework is released under the:
 
-**Capacity Reabsorption** occurs when released capacity is consumed again by new, latent, previously suppressed, or otherwise low-value demand before it is deliberately protected and redirected.
+> **MIT License**
 
-Example:
-
-**Unnecessary report removed**  
-↓  
-**Capacity released**  
-↓  
-**Released capacity not protected**  
-↓  
-**New reporting request appears**  
-↓  
-**Capacity consumed again**
-
-The organization may therefore experience apparent improvement without durable capacity gain.
-
-This creates a critical principle:
-
-> **Released capacity must be protected before durable gain can be claimed.**
-
-Capacity Reabsorption is one of the central safeguards in the OSF economic logic.
-
----
-
-# 19. THE 5R CASCADE
-
-The OSF intervention logic is:
-
-> **REMOVE → REDUCE → REPLACE → RE-ENGINEER → RETAIN**
-
-The cascade is sequential in logic but requires judgment.
-
-### REMOVE
-Should the demand exist at all?
-
-> **Never reduce what can be removed.**
-
-### REDUCE
-If the demand must exist, reduce the capacity it consumes through changes in:
-
-- frequency;
-- volume;
-- intensity;
-- scope;
-- complexity;
-- participants;
-- handoffs;
-- time;
-- intervention.
-
-### REPLACE
-Preserve the purpose through a simpler alternative.
-
-Examples include:
-
-- self-service;
-- standardization;
-- workflow;
-- clearer ownership;
-- controls;
-- communication;
-- simpler decision paths.
-
-### RE-ENGINEER
-Address why the demand keeps arising.
-
-Potential targets include:
-
-- process design;
-- decision rights;
-- information flows;
-- interfaces;
-- systems;
-- policies;
-- ownership;
-- governance;
-- upstream causes.
-
-### RETAIN
-Necessary, valuable, proportionate, appropriately designed work remains.
-
-Retention is not failure.
-
-It is disciplined recognition that some recurring demand is necessary.
-
----
-
-# 20. REMOVE BEFORE REDUCE
-
-A central OSF principle is:
-
-> **Never reduce what can be removed.**
-
-Reducing unnecessary work still leaves unnecessary work.
-
-Removing it eliminates the associated recurring demand entirely.
-
-Therefore the preferred order is:
-
-**Question → Remove → Reduce**
-
-not:
-
-**Reduce → Optimize → Automate**
-
----
-
-# 21. SIMPLIFY BEFORE AUTOMATING
-
-OSF uses the following hierarchy:
-
-**QUESTION**  
-↓  
-**REMOVE**  
-↓  
-**REDUCE**  
-↓  
-**REPLACE**  
-↓  
-**RE-ENGINEER**  
-↓  
-**AUTOMATE WHERE APPROPRIATE**  
-↓  
-**RETAIN & PROTECT**
-
-The governing principle is:
-
-> **Do not automate complexity that should have been eliminated.**
-
-Automation can improve the handling of necessary work.
-
-It does not automatically:
-
-- remove demand;
-- reduce unnecessary demand;
-- release capacity;
-- recover Human Energy;
-- improve capability;
-- create value.
-
-Automation is therefore an intervention option, not an OSF objective.
-
----
-
-# 22. PEOPLE INFRASTRUCTURE
-
-Sustainable demand reduction requires organizational People Infrastructure.
-
-Five components are particularly important:
-
-### Accountability
-Clear ownership of recurring work and its consequences.
-
-### Knowledge
-Accessible organizational knowledge so work does not repeatedly depend on individual memory or intervention.
-
-### Empowerment
-Ability to act without unnecessary dependency or escalation.
-
-### Capability Development
-Relevant skills, judgment, and competence required to perform necessary work effectively.
-
-### Continuous Improvement
-Ability to identify and remove recurring friction and unnecessary demand.
-
-The principle is:
-
-> **Scale capability, not complexity.**
-
-People Infrastructure is therefore capability-enabling.
-
-It is not merely an HR concept and does not refer to physical infrastructure.
-
----
-
-# 23. CAPACITY RELEASE, PROTECTION, AND REDIRECTION
-
-Capacity release is only an intermediate result.
-
-The full logic is:
-
-**Capacity Release**  
-↓  
-**Capacity Protection**  
-↓  
-**Usable Capacity Recovery**  
-↓  
-**Capacity Redirection**  
-↓  
-**Effective Application**
-
-### Capacity Release
-
-Capacity is no longer consumed because demand has been removed or reduced.
-
-### Capacity Protection
-
-Mechanisms prevent the released capacity from being consumed again.
-
-These may include:
-
-- ownership;
-- decision rights;
-- governance;
-- documentation;
-- standard operating procedures;
-- capability transfer;
-- monitoring;
-- controls;
-- periodic review;
-- recurrence prevention;
-- demand-entry criteria.
-
-### Usable Capacity Recovery
-
-Released capacity becomes practically available for purposeful application.
-
-### Capacity Redirection
-
-Released capacity is deliberately assigned to another purpose.
-
-The principle is:
-
-> **Do not merely save capacity. Decide where it should go.**
-
----
-
-# 24. OSF OWNS / CONTRIBUTES TO / DOES NOT OWN / DOES NOT REPLACE
-
-## OSF Owns
-
-OSF has primary responsibility for:
-
-- unnecessary recurring operational demand;
-- recurring demand diagnosis;
-- Operational Noise;
-- avoidable capacity consumption;
-- demand elimination;
-- demand reduction;
-- demand replacement;
-- demand re-engineering;
-- capacity release;
-- capacity protection;
-- Capacity Reabsorption prevention;
-- recurrence prevention;
-- capacity redirection;
-- Operational Silence.
-
-## OSF Contributes To
-
-OSF may contribute to:
-
-- usable capacity recovery;
-- Human Energy preservation;
-- effective application;
-- execution improvement;
-- Sustainable Execution Capacity;
-- Sustainable Business Value.
-
-## OSF Does Not Own
-
-OSF does not own:
-
-- Human Energy recovery;
-- broad capability development;
-- broad capability connection;
-- organizational enablement;
-- complete execution management;
-- Sustainable Execution Capacity as a whole;
-- Sustainable Business Value;
-- Employee Experience;
-- Customer Experience;
-- overall organizational strategy.
-
-## OSF Does Not Replace
-
-OSF does not replace:
-
-- HEE;
-- OEOS/OOS;
-- HEMS;
-- HERF;
-- HEDP;
-- Capability Interconnection;
-- HEEn;
-- EES;
-- broader strategy;
-- functional management systems.
-
-The boundary is:
-
-> **OSF creates conditions for unnecessary capacity consumption to be reduced; it does not own everything that happens after that reduction.**
-
----
-
-# 25. OSF AND HUMAN ENERGY
-
-OSF operates within the broader Human Energy logic of HEE.
-
-Unnecessary recurring demand can consume:
-
-- attention;
-- decision capacity;
-- coordination capacity;
-- execution time;
-- cognitive bandwidth;
-- responsiveness;
-- focus;
-- discretionary effort.
-
-However:
-
-> **Demand reduction does not automatically equal Human Energy recovery.**
-
-OSF therefore must not absorb the role of HERF.
-
-The distinction is:
-
-**OSF** → reduces unnecessary recurring demand.
-
-**HEMS** → manages Human Energy conditions.
-
-**HERF** → recovers depleted Human Energy.
-
-**HEEn** → enables available Human Energy and capability to become effective application.
-
----
-
-# 26. OSF AND THE HEE DIAGNOSTIC ARCHITECTURE
-
-OSF intersects with the HEE diagnostic conditions as follows:
-
-| HEE condition | Primary response | OSF relationship |
-|---|---|---|
-| Human Energy Depletion | Recover | OSF may reduce demand contributing to consumption |
-| Capability Deficiency | Develop | Outside OSF primary scope |
-| Capability Disconnection | Connect | OSF may identify unnecessary dependencies |
-| Enablement Constraint | Enable | OSF may identify demand created or amplified by restrictive conditions |
-| Execution Deficit | Stabilize / Execute / Adapt | OSF may address demand-related contributors |
-| Value Loss | Investigate | OSF may identify unnecessary consumption contributing to loss |
-
-OSF must not assume that every execution problem is a demand problem.
-
----
-
-# 27. OSF AND EFFECTIVE APPLICATION
-
-Capacity that is no longer consumed does not automatically become useful.
-
-Therefore:
-
-> **Capacity Release ≠ Effective Application**
-
-Effective Application occurs when available capacity is deliberately converted into purposeful action.
-
-The conversion requires:
-
-- a destination;
-- sufficient capability;
-- sufficient connection;
-- sufficient enablement;
-- decision quality;
-- appropriate priorities.
-
-This is where OSF connects with the broader HEE ecosystem.
-
----
-
-# 28. OPERATIONAL SILENCE INDEX (OSI)
-
-The **Operational Silence Index (OSI)** is a proposed measurement construct intended to estimate the proportion of usable capacity protected from recurring avoidable Operational Noise.
-
-Conceptually:
-
-> **OSI = 1 − (Recurring Operational Noise Consumption / Total Usable Capacity)**
-
-Where:
-
-**Recurring Operational Noise Consumption** = usable capacity consumed by recurring avoidable Operational Noise during the measurement period.
-
-**Total Usable Capacity** = capacity available for purposeful work during the same period.
-
-A higher OSI indicates that a greater proportion of usable capacity is protected from recurring operational noise.
-
-OSI is a **proposed construct**, not an established universal metric.
-
----
-
-# 29. WORKED OSI EXAMPLE
-
-Assume an organization has:
-
-- **10,000 hours** of Total Usable Capacity during a period;
-- **1,500 hours** consumed by recurring avoidable Operational Noise.
-
-Then:
-
-**OSI = 1 − (1,500 / 10,000)**
-
-**OSI = 1 − 0.15**
-
-**OSI = 0.85**
-
-Therefore:
-
-> **OSI = 85%**
-
-Now suppose an OSF intervention reduces recurring avoidable Operational Noise Consumption from 1,500 hours to **900 hours**.
-
-Then:
-
-**OSI = 1 − (900 / 10,000)**
-
-**OSI = 1 − 0.09**
-
-**OSI = 0.91**
-
-Therefore:
-
-> **OSI = 91%**
-
-The apparent improvement is:
-
-> **+6 percentage points**
-
-But this does **not** by itself prove:
-
-- productivity improvement;
-- Human Energy recovery;
-- business value creation;
-- execution improvement;
-- Sustainable Execution Capacity;
-- Customer Experience improvement.
-
-The OSF Value Test must continue:
-
-**Were the 600 hours actually released?**  
-↓  
-**Were they protected?**  
-↓  
-**Were they reabsorbed?**  
-↓  
-**Did usable capacity recover?**  
-↓  
-**Where were they redirected?**  
-↓  
-**Were they effectively applied?**  
-↓  
-**Did execution improve?**  
-↓  
-**Did future execution capacity strengthen?**  
-↓  
-**Was sustainable business value created?**
-
-OSI therefore measures one condition in the pathway, not the entire economic outcome.
-
----
-
-# 30. OSI QUALIFICATIONS
-
-OSI requires further conceptual and empirical development.
-
-Important questions include:
-
-- How should usable capacity be defined?
-- What qualifies as Operational Noise?
-- How should recurring consumption be measured?
-- How should different forms of capacity be weighted?
-- How should knowledge work be represented?
-- How should shared capacity be allocated?
-- What measurement period is appropriate?
-- How should contextual differences be handled?
-- Can OSI be compared across organizations?
-- What reliability and validity does the construct demonstrate?
-- What thresholds, if any, are meaningful?
-
-OSI therefore remains:
-
-> **A proposed conceptual index requiring empirical validation.**
-
-It should not be presented as an established universal measure.
-
----
-
-# 31. WHAT OSI IS NOT
-
-OSI is not:
-
-- productivity;
-- utilization;
-- efficiency;
-- Human Energy recovery;
-- Sustainable Execution Capacity;
-- proof of business value;
-- proof of Employee Experience improvement;
-- proof of Customer Experience improvement.
-
-A higher OSI is potentially useful because it indicates less recurring avoidable Operational Noise relative to usable capacity.
-
-The economic significance depends on what happens afterward.
-
----
-
-# 32. THE FULL CAPACITY CONVERSION PATHWAY
-
-OSF therefore evaluates the following pathway:
-
-**Demand**  
-↓  
-**Noise**  
-↓  
-**Consumption**  
-↓  
-**Release**  
-↓  
-**Protection**  
-↓  
-**Usable Capacity Recovery**  
-↓  
-**Redirection**  
-↓  
-**Application**  
-↓  
-**Execution**  
-↓  
-**Future Capacity**  
-↓  
-**Value**
-
-This is the measurement architecture behind OSF.
-
-The principle is:
-
-> **Measure what became possible, not merely what disappeared.**
-
----
-
-# 33. KPI GOVERNANCE
-
-OSF uses the following governance cycle:
-
-**MEASURE → INTERPRET → PRIORITIZE → ACT → MONITOR → PROTECT → LEARN → IMPROVE AGAIN**
-
-OSF explicitly warns against equating:
-
-- Activity Reduction with Value;
-- Time Saved with Human Energy Recovery;
-- Capacity Release with Sustainable Gain;
-- Capacity Recovery with Value Creation;
-- Less Work with Better Performance.
-
-KPI design should therefore follow the full conversion pathway.
-
----
-
-# 34. PRIORITIZATION
-
-A proposed prioritization heuristic is:
-
-> **Priority = Urgency × Dependency × Value Impact**
-
-This is a conceptual heuristic, not a universal mathematical law.
-
-It asks:
-
-- What requires immediate attention?
-- What has significant dependencies?
-- What has high value impact?
-- What creates downstream recurring consumption?
-- What capacity could be released?
-- Where could released capacity be redirected?
-- What future execution constraint could be relieved?
-
-The principle is:
-
-> **Do not automatically fix the largest gap. Fix the condition that most limits sustainable execution.**
-
----
-
-# 35. OSF DIAGNOSTIC TESTS
-
-Before applying 5R, test the recurring demand:
-
-### Necessary?
-Does the purpose genuinely require this demand?
-
-### Valuable?
-Does it create sufficient corresponding value?
-
-### Proportionate?
-Is the amount of demand proportionate to the value or risk addressed?
-
-### Designed?
-Is the demand appropriately designed?
-
-### Recurring?
-Does it repeatedly consume capacity?
-
-### Preventable?
-Could its recurrence be prevented through upstream intervention?
-
-Only after these questions are answered should intervention begin.
-
----
-
-# 36. OSF IMPLEMENTATION MODEL
-
-The full implementation sequence is:
-
-1. Identify recurring demand.
-2. Diagnose Operational Noise.
-3. Confirm that unnecessary recurring demand materially contributes.
-4. Apply the 3C Strategic Lens.
-5. Apply the 5R Cascade.
-6. Measure capacity consumption and release.
-7. Prevent Capacity Reabsorption.
-8. Protect released capacity.
-9. Recover usable capacity where applicable.
-10. Redirect capacity.
-11. Enable effective application.
-12. Execute.
-13. Protect, learn, and repeat.
-
-The quick operating sequence is:
-
-> **IDENTIFY → DIAGNOSE → CONFIRM → 3C → 5R → MEASURE RELEASE → PREVENT REABSORPTION → PROTECT → RECOVER USABLE CAPACITY → REDIRECT → ENABLE APPLICATION → EXECUTE → PROTECT & REPEAT**
-
----
-
-# 37. BEFORE / AFTER OSF
-
-| Conventional response | OSF orientation |
-|---|---|
-| Recurring problems | Identify recurring demand |
-| Operational noise | Diagnose underlying demand |
-| Repeated intervention | Challenge recurrence |
-| Capacity consumed | Capacity released |
-| Firefighting | Prevention |
-| Released capacity | Protected capacity |
-| Protected capacity | Redirected capacity |
-| Operational friction | Effective application |
-| Repeated recurrence | System redesign |
-| Short-term relief | Sustainable execution potential |
-| Value leakage | Sustainable business value |
-
-OSF does not claim that the right-hand outcome occurs automatically.
-
-The conversion must be demonstrated.
-
----
-
-# 38. THE OSF VALUE TEST — CANONICAL VERSION
-
-The **OSF Value Test** is the canonical test for determining whether demand reduction produced more than activity reduction.
-
-Ask:
-
-> **What work disappeared?**
-
-↓  
-
-> **What capacity was released?**
-
-↓  
-
-> **Was the released capacity protected?**
-
-↓  
-
-> **Was Capacity Reabsorption prevented?**
-
-↓  
-
-> **Was usable capacity recovered?**
-
-↓  
-
-> **Where was the capacity redirected?**
-
-↓  
-
-> **Was it effectively applied?**
-
-↓  
-
-> **Did execution improve?**
-
-↓  
-
-> **Was future execution capacity strengthened?**
-
-↓  
-
-> **Was sustainable business value created?**
-
-This is the authoritative OSF Value Test.
-
-Any shorter leadership representation is a condensed expression of this test, not a separate model.
-
----
-
-# 39. THE VALUE TEST PRINCIPLE
-
-The OSF Value Test establishes:
-
-> **Capacity release is not the end of the analysis.**
-
-The sequence must be followed through to application and value.
-
-Therefore:
-
-> **Do not merely remove the problem. Prevent the system from recreating it.**
-
-> **Do not merely save time. Release and protect capacity.**
-
-> **Do not merely release capacity. Redirect it.**
-
-> **Do not merely redirect it. Apply it purposefully.**
-
-> **Do not merely apply it. Execute.**
-
-> **Do not merely execute today. Strengthen the capacity to execute tomorrow.**
-
----
-
-# 40. OSF AND THE HEE VALUE CYCLE
-
-OSF contributes to the broader HEE value cycle:
-
-**CAPACITY → APPLICATION → EXECUTION → VALUE CREATION → LEARNING → ADAPTATION → REINVESTMENT → RENEWED CAPACITY**
-
-OSF primarily intervenes before and around the transition from unnecessary demand to available capacity.
-
-It contributes to, but does not own, the full downstream cycle.
-
----
-
-# 41. OSF AND 3C
-
-The relationship is:
-
-**OSF** = demand reduction framework.
-
-**3C** = strategic context lens.
-
-3C identifies:
-
-- Source;
-- Dependency;
-- Constraint.
-
-OSF then determines what should happen to the recurring demand.
-
-Thus:
-
-> **3C tells OSF where to look.**
-
----
-
-# 42. OSF AND 5R
-
-The relationship is:
-
-> **3C = WHERE**  
-> **5R = HOW**
-
-The 3C lens locates the recurring demand context.
-
-The 5R Cascade determines its disposition:
-
-**REMOVE → REDUCE → REPLACE → RE-ENGINEER → RETAIN**
-
-Therefore, 3C and 5R should not be presented as alternative frameworks.
-
-They are complementary operating elements.
-
----
-
-# 43. OSF AND HEMS
-
-**HEMS — Human Energy Management System** manages Human Energy conditions.
-
-OSF addresses unnecessary recurring demand that may consume organizational capacity and Human Energy.
-
-The distinction is:
-
-> **HEMS manages the Human Energy asset. OSF reduces one source of unnecessary demand that can consume that asset.**
-
-OSF therefore supports HEMS without replacing it.
-
----
-
-# 44. OSF AND HERF
-
-**HERF — Human Energy Recovery Framework** addresses the recovery of depleted Human Energy.
-
-OSF addresses unnecessary recurring operational demand.
-
-A recurring operational burden may contribute to Human Energy depletion, but removing the burden does not automatically establish that Human Energy has been recovered.
-
-Therefore:
-
-> **OSF reduces unnecessary demand. HERF recovers Human Energy.**
-
-The two may work together, but they remain conceptually distinct.
-
----
-
-# 45. OSF AND HEDP
-
-**HEDP — Human Energy Development Plan** addresses capability development.
-
-OSF does not primarily ask:
-
-> **What capability is missing?**
-
-It asks:
-
-> **What unnecessary recurring demand is consuming capacity that could otherwise be applied?**
-
-If capability is absent, HEDP may be required.
-
-If capability exists but recurring demand prevents its application, OSF may help remove that obstruction.
-
----
-
-# 46. OSF AND HEEn
-
-**HEEn — Human Energy Enablement** addresses organizational conditions between capability and application.
-
-OSF may identify unnecessary demand created by:
-
-- structural conditions;
-- resource constraints;
-- decision friction;
-- support conditions;
-- cultural patterns;
-- environmental conditions.
-
-However:
-
-> **OSF reduces unnecessary recurring demand; HEEn changes organizational conditions that enable effective application.**
-
-The distinction remains:
-
-**OSF → Reduce unnecessary demand**
-
-**HEEn → Enable application**
-
----
-
-# 47. OSF AND EES
-
-**EES — Execution Excellence System** manages reliable execution.
-
-OSF focuses on unnecessary recurring demand.
-
-EES focuses on execution of necessary work.
-
-A useful relationship is:
-
-**OSF → Capacity Release / Protection**  
-↓  
-**HEEn → Effective Application**  
-↓  
-**EES → Execution**
-
-OSF therefore helps improve the conditions under which EES can operate, but does not replace EES.
-
----
-
-# 48. THE OSF ECOSYSTEM
-
-The broader architecture is:
-
-**HEE**  
-↓  
-**OEOS / OOS**  
-↓  
-**OSF + 3C + 5R**  
-↓  
-**Demand Reduction**  
-↓  
-**Capacity Release / Protection**  
-↓  
-**HEMS / HERF / HEDP / HEEn / Capability Interconnection / EES**  
-↓  
-**Effective Application**  
-↓  
-**Execution**  
-↓  
-**Sustainable Execution Capacity**  
-↓  
-**Sustainable Business Value**
-
-The frameworks are complementary rather than a rigid linear sequence.
-
-The ecosystem principle is:
-
-> **HEE explains. OEOS/OOS orchestrates. OSF reduces unnecessary demand. 3C directs attention. 5R determines disposition. HEMS/HERF manage Human Energy. HEDP develops capability. HEEn enables application. EES manages execution.**
-
----
-
-# 49. THE OSF OPERATING MODEL
-
-The OSF operating model is:
-
-**3C + 5R + People Infrastructure**  
-↓  
-**Demand Reduction**  
-↓  
-**Capacity Release**  
-↓  
-**Capacity Protection**  
-↓  
-**Usable Capacity Recovery**  
-↓  
-**Capacity Redirection**  
-↓  
-**Effective Application**  
-↓  
-**Execution**  
-↓  
-**Sustained Execution**  
-↓  
-**Sustainable Execution Capacity**  
-↓  
-**Sustainable Business Value**
-
-The operating question is:
-
-> **What unnecessary demand can be removed, what capacity can be released and protected, where should it go, and how will the improvement be sustained?**
-
----
-
-# 50. OSF AS A GOVERNANCE DISCIPLINE
-
-OSF can be used as a governance discipline for recurring operational demand.
-
-Leadership can ask:
-
-1. What recurring demand exists?
-2. Why does it exist?
-3. Where is it created or sustained?
-4. Is it necessary?
-5. What does it consume?
-6. What can be removed?
-7. What must remain?
-8. What capacity will be released?
-9. How will that capacity be protected?
-10. How will reabsorption be prevented?
-11. Where will capacity be redirected?
-12. What application will result?
-13. What execution improvement is expected?
-14. What future capacity will be strengthened?
-
-This turns demand reduction into a management discipline rather than a one-time efficiency initiative.
-
----
-
-# 51. OSF VALUE CREATION LOGIC
-
-The value implication of OSF is not:
-
-> **Less work = more value**
-
-It is:
-
-> **Less unnecessary recurring demand → less avoidable capacity consumption → greater protected usable capacity → more purposeful application → stronger execution → stronger future capacity → potential sustainable value**
-
-This distinction is fundamental.
-
-Value is downstream.
-
----
-
-# 52. OSF VALUE CREATION CYCLE — RESTATEMENT OF THE CANONICAL LOGIC
-
-The OSF value-creation cycle is a **condensed interpretive representation of the canonical economic logic in §7**.
-
-It can be expressed as:
-
-**Challenge unnecessary demand**  
-→ **Reduce unnecessary consumption**  
-→ **Release capacity**  
-→ **Protect capacity**  
-→ **Redirect capacity**  
-→ **Apply capacity purposefully**  
-→ **Execute**  
-→ **Strengthen future capacity**  
-→ **Create sustainable value**  
-→ **Renew / Reinvest**
-
-This is not a second OSF economic model.
-
-It is the **value-oriented interpretation of §7**.
-
----
-
-# 53. OSF AND ORGANIZATIONAL GROWTH
-
-Growth can increase:
-
-- functions;
-- systems;
-- decisions;
-- dependencies;
-- interfaces;
-- handoffs;
-- coordination;
-- reporting;
-- exceptions;
-- competing priorities.
-
-These may generate additional recurring demand.
-
-The OSF principle is:
-
-> **Growth should scale useful capability rather than recurring complexity.**
-
-This does not mean eliminating necessary complexity.
-
-It means preventing unnecessary complexity from becoming recurring operational demand.
-
----
-
-# 54. OSF AND COMPLEXITY
-
-OSF does not define complexity itself as a problem.
-
-Some complexity is necessary because:
-
-- customers differ;
-- risks differ;
-- regulations differ;
-- products differ;
-- decisions differ;
-- environments differ.
-
-The question is:
-
-> **Which complexity creates necessary value, and which complexity repeatedly consumes capacity without sufficient corresponding value?**
-
-OSF therefore seeks to:
-
-> **Engineer unnecessary complexity out of recurring operational demand.**
-
----
-
-# 55. THE OSF ARCHITECTURE
-
-The OSF architecture can be summarized as:
-
-**HEE**  
-*Foundational economic lens*
-
-↓  
-
-**OEOS / OOS**  
-*Operating architecture*
-
-↓  
-
-**OSF**  
-*Focused demand-reduction framework*
-
-↓  
-
-**3C**  
-*WHERE: Source / Dependency / Constraint*
-
-+
-
-**5R**  
-*HOW: Remove / Reduce / Replace / Re-engineer / Retain*
-
-↓  
-
-**Demand Reduction**
-
-↓  
-
-**Capacity Release**
-
-↓  
-
-**Capacity Protection**
-
-↓  
-
-**Usable Capacity Recovery**
-
-↓  
-
-**Capacity Redirection**
-
-↓  
-
-**Effective Application**
-
-↓  
-
-**Execution**
-
-↓  
-
-**Sustainable Execution Capacity**
-
-↓  
-
-**Sustainable Business Value**
-
----
-
-# 56. THE OSF ECOSYSTEM RELATIONSHIP
-
-The ecosystem can be understood as a hub-and-spoke architecture rather than a rigid tree.
-
-**HEE** is the foundational theory.
-
-**OEOS** organizes the broader operating architecture.
-
-Within that architecture:
-
-- **OSF** addresses unnecessary recurring demand;
-- **3C** provides strategic context;
-- **5R** provides demand disposition;
-- **HEMS** manages Human Energy;
-- **HERF** supports Human Energy recovery;
-- **HEDP** develops capability;
-- **Capability Interconnection** strengthens capability connection;
-- **HEEn** enables application;
-- **EES** manages execution.
-
-The mechanisms interact according to organizational need.
-
-No single framework is assumed to solve every organizational constraint.
-
----
-
-# 57. THE CORE OSF FORMULA — COMPACT RESTATEMENT
-
-The canonical OSF economic logic from §7 can be expressed compactly as:
-
-> **Unnecessary Recurring Demand → Avoidable Capacity Consumption → Demand Reduction → Capacity Release → Protection → Usable Capacity Recovery → Redirection → Effective Application → Execution → Sustainable Execution Capacity → Sustainable Business Value**
-
-This is a **compact formulation of §7**, not a separate model.
-
-The formula emphasizes the central OSF insight:
-
-> **Demand reduction becomes economically meaningful only when the capacity no longer consumed is protected, redirected, and converted into purposeful application and sustained execution.**
-
----
-
-# 58. OSF CONTRIBUTION TO SUSTAINABLE EXECUTION CAPACITY
-
-OSF does not create Sustainable Execution Capacity by itself.
-
-Rather, it can contribute by reducing unnecessary recurring consumption of organizational capacity.
-
-The potential pathway is:
-
-**Less Unnecessary Demand**  
-↓  
-**Less Avoidable Consumption**  
-↓  
-**More Protected Usable Capacity**  
-↓  
-**More Purposeful Application**  
-↓  
-**Better Execution Conditions**  
-↓  
-**Stronger Future Capacity**
-
-The contribution becomes meaningful only if the released capacity is not reabsorbed and is effectively applied.
-
----
-
-# 59. OSF CONTRIBUTION TO SUSTAINABLE BUSINESS VALUE
-
-OSF does not claim:
-
-> **Remove demand and value automatically appears.**
-
-Instead:
-
-**Unnecessary Demand**  
-→ **Demand Reduction**  
-→ **Capacity Release**  
-→ **Protection**  
-→ **Redirection**  
-→ **Application**  
-→ **Execution**  
-→ **Learning**  
-→ **Adaptation**  
-→ **Stronger Future Capacity**  
-→ **Sustainable Business Value**
-
-The final conversion is therefore organizational and managerial, not automatic.
-
----
-
-# 60. MATURITY MODEL
-
-OSF maturity can be understood conceptually through six stages:
-
-### 1. FIREFIGHTING — Manage
-Recurring problems are repeatedly managed.
-
-### 2. FIREPROOFING — Prevent
-Organizations begin preventing recurrence.
-
-### 3. ENGINEERING SILENCE — Engineer
-Processes and systems are redesigned to reduce recurring operational interference.
-
-### 4. OPERATIONAL SILENCE — Remove
-Unnecessary recurring demand is systematically challenged and removed.
-
-### 5. EXECUTION EXCELLENCE — Apply
-Released and protected capacity is deliberately converted into effective application and execution.
-
-### 6. SUSTAINABLE BUSINESS VALUE — Sustain
-The organization continuously protects and renews its capacity to create value.
-
-The progression is:
-
-> **Manage → Question → Remove → Prevent → Protect → Redirect → Apply → Execute → Sustain**
-
-Later stages overlap with HEE and EES.
-
-OSF does not claim ownership of the complete execution system.
-
-This maturity model is conceptual and is not a validated measurement scale.
-
----
-
-# 61. CORE OSF PRINCIPLES
-
-### 1. Question Before Optimizing
-Challenge whether recurring work should exist before optimizing it.
-
-### 2. Eliminate Before Optimizing
-Remove unnecessary demand before making it more efficient.
-
-### 3. Never Reduce What Can Be Removed
-Reduction is not superior to elimination.
-
-### 4. Simplify Before Automating
-Do not automate complexity that should have disappeared.
-
-### 5. Protect Human Energy
-Recognize that unnecessary demand can consume attention, focus, and cognitive capacity.
-
-### 6. Treat Released Capacity as an Asset
-Released capacity has economic potential.
-
-### 7. Prevent Reabsorption
-Do not allow released capacity to be silently consumed again.
-
-### 8. Apply Before Claiming Value
-Capacity becomes economically useful through purposeful application.
-
-### 9. Protect Improvements
-Prevent the system from recreating removed demand.
-
-### 10. Scale Capability, Not Complexity
-Growth should increase useful organizational capability rather than recurring operational burden.
-
-### 11. Measure Sustainable Outcomes
-Measure what happens to capacity after demand reduction, not merely what activity disappears.
-
----
-
-# 62. WHAT OSF DOES NOT CLAIM
-
-OSF does not claim that:
-
-- all recurring work is unnecessary;
-- all operational noise is waste;
-- every meeting should be eliminated;
-- every approval is unnecessary;
-- every interruption is harmful;
-- every report is unnecessary;
-- every dependency is bad;
-- every automation is beneficial;
-- every reduction improves performance;
-- every release becomes usable capacity;
-- every recovery becomes value;
-- every problem is a demand problem;
-- every execution constraint can be removed;
-- less work automatically means higher productivity;
-- time saved automatically means Human Energy recovery;
-- capacity release automatically creates value;
-- OSF alone produces Sustainable Execution Capacity;
-- OSF alone produces Sustainable Business Value;
-- Operational Silence means reduced communication or inactivity.
-
-OSF is therefore deliberately conditional.
-
----
-
-# 63. BOUNDARY CONDITIONS AND DECISION DISCIPLINE
-
-OSF must be applied with judgment.
-
-Necessary recurring work should not be eliminated merely because it consumes capacity.
-
-Important complexity should not be removed merely because it is complex.
-
-Risk controls should not be removed merely because they create friction.
-
-Communication should not be reduced merely because it takes time.
-
-The correct question remains:
-
-> **Necessary? Valuable? Proportionate? Designed? Recurring? Preventable?**
-
-The discipline is:
-
-> **Remove unnecessary demand, not necessary organizational function.**
-
----
-
-# 64. RESEARCH STATUS AND RESEARCH AGENDA
-
-OSF is a **developing conceptual operating framework**.
-
-Its propositions require empirical development and validation.
-
-Important research areas include:
-
-- necessary versus unnecessary recurring demand;
-- measurement of Operational Noise;
-- recurring capacity consumption;
-- capacity release;
-- capacity protection;
-- Capacity Reabsorption;
-- usable capacity recovery;
-- capacity redirection;
-- effective application;
-- demand reduction and Human Energy preservation;
-- relationships between OSF interventions and execution;
-- Sustainable Execution Capacity;
-- Employee Experience;
-- Customer Experience;
-- business outcomes;
-- measurement instruments;
-- OSI reliability and validity;
-- cross-organizational comparability;
-- longitudinal effects;
-- causal mechanisms.
-
-Research discipline is essential:
-
-> **Conceptual proposition ≠ validated causal relationship.**
-
-> **Framework construct ≠ established universal measure.**
-
-> **Association ≠ causation.**
-
-> **Proposed index ≠ validated metric.**
-
----
-
-# 65. EXAMPLES OF OSF APPLICATION
-
-## Example 1 — Recurring Reporting
-
-A weekly report requires multiple teams to:
-
-- collect data;
-- reconcile information;
-- format outputs;
-- review content;
-- obtain approval;
-- distribute the report.
-
-OSF asks:
-
-**Source:** Why does the report originate?
-
-**Dependency:** Why do multiple teams need to contribute?
-
-**Constraint:** What condition makes the reporting necessary?
-
-Then 5R is applied.
-
-Possible outcome:
-
-**Remove** the report if no decision depends on it.
-
-**Reduce** frequency or scope if some information is necessary.
-
-**Replace** it with self-service information.
-
-**Re-engineer** the upstream process that creates the reporting requirement.
-
-**Retain** genuinely necessary reporting.
-
-The economic question then becomes:
-
-> **What capacity was released, protected, and redirected?**
-
----
-
-## Example 2 — Repeated Approval
-
-A decision requires multiple approval layers.
-
-OSF asks:
-
-- What risk does each approval address?
-- Which approvals add corresponding value?
-- Which are historical?
-- Where does dependency originate?
-- What constraint makes additional approval necessary?
-
-Possible interventions:
-
-- remove unnecessary approval;
-- reduce approval layers;
-- replace approval with defined decision rights;
-- re-engineer the governance model;
-- retain proportionate risk controls.
-
----
-
-## Example 3 — Rework
-
-A team repeatedly corrects the same type of error.
-
-OSF does not simply ask:
-
-> **How can the team correct the error faster?**
-
-It asks:
-
-> **What recurring demand creates the rework?**
-
-The 3C lens investigates:
-
-- Source;
-- Dependency;
-- Constraint.
-
-5R may then identify an upstream redesign.
-
-The objective is not faster rework.
-
-It is:
-
-> **Less recurring demand for rework.**
-
----
-
-## Example 4 — Unnecessary Coordination
-
-Several teams repeatedly meet because:
-
-- ownership is unclear;
-- information is fragmented;
-- decisions require unnecessary escalation;
-- interfaces are poorly designed.
-
-OSF investigates the recurring demand behind the meetings.
-
-Possible intervention:
-
-**Remove** meetings that serve no necessary purpose.
-
-**Reduce** frequency.
-
-**Replace** meetings with defined information flows or decision rights.
-
-**Re-engineer** ownership and interfaces.
-
-**Retain** meetings that genuinely create value.
-
----
-
-# 66. CLOSING — THE OSF QUESTION
-
-Organizations can become more capable while becoming increasingly burdened by recurring operational demand.
-
-Growth can increase:
-
-- dependencies;
-- interfaces;
-- handoffs;
-- coordination;
-- reporting;
-- approvals;
-- exceptions;
-- interventions;
-- operational noise.
-
-The result is not necessarily a lack of capability.
-
-It may be that too much organizational capacity is being consumed by work that should never have required it.
-
-OSF therefore asks a different question.
-
-Not:
-
-> **How can we do more work faster?**
-
-But:
-
-> **What work should no longer consume organizational capacity?**
-
-And after that:
-
-> **What happened to the capacity we stopped consuming?**
-
-The complete OSF discipline is:
-
-**QUESTION**  
-↓  
-**LOCATE**  
-↓  
-**REMOVE**  
-↓  
-**REDUCE**  
-↓  
-**REPLACE**  
-↓  
-**RE-ENGINEER**  
-↓  
-**RETAIN**  
-↓  
-**RELEASE**  
-↓  
-**PROTECT**  
-↓  
-**PREVENT REABSORPTION**  
-↓  
-**REDIRECT**  
-↓  
-**ENABLE EFFECTIVE APPLICATION**  
-↓  
-**EXECUTE**  
-↓  
-**LEARN**  
-↓  
-**ADAPT**  
-↓  
-**STRENGTHEN FUTURE CAPACITY**
-
-The core OSF economic logic remains:
-
-> **Unnecessary recurring demand → Operational Noise → avoidable capacity consumption → demand reduction → capacity release → protection → usable capacity recovery → redirection → effective application → execution → Sustainable Execution Capacity → Sustainable Business Value.**
-
-Operational Silence is therefore not about doing less for its own sake.
-
-It is about making **unnecessary demand silent**.
-
-It is about preventing the organization from repeatedly spending capacity on work that no longer deserves it.
-
-It is about protecting the capacity that becomes available.
-
-It is about deliberately redirecting that capacity toward what matters.
-
-And ultimately, it is about strengthening the organization's ability to execute today **without consuming the capacity required to execute tomorrow.**
-
-> **Do not merely remove the problem. Prevent the system from recreating it.**
-
-> **Do not merely save time. Release and protect capacity.**
-
-> **Do not merely release capacity. Redirect it.**
-
-> **Do not merely redirect it. Apply it purposefully.**
-
-> **Do not merely apply it. Execute.**
-
-> **Do not merely execute today. Strengthen the capacity to execute tomorrow.**
-
-### Final OSF Test
-
-> **What happened to the capacity we stopped consuming?**
-
-And:
-
-> **Did that capacity become effective application, better execution, stronger Sustainable Execution Capacity, and sustainable business value?**
-
-**That is the test of Operational Silence.**
-
----
-
-# CREATOR / MAINTAINER
-
-**Md. Mozammel Hoque**  
-*Independent Management Researcher*  
-*Originator of Human Energy Economics (HEE)*
-
-Creator and maintainer of:
-
-- Human Energy Economics (HEE);
-- Organizational Excellence Operating System (OEOS/OOS);
-- Operational Silence Framework (OSF);
-- 3C Strategic Lens;
-- 5R Cascade;
-- Human Energy Management System (HEMS);
-- Human Energy Audit (HEA);
-- Human Energy Recovery Framework (HERF);
-- Human Energy Development Plan (HEDP);
-- Capability Interconnection;
-- Human Energy Enablement (HEEn);
-- Execution Excellence System (EES);
-- related HEE mechanisms, constructs, and architecture.
-
----
-
-# RESEARCH & COLLABORATION
-
-OSF is open to:
-
-- organizational research;
-- empirical testing;
-- measurement development;
-- comparative studies;
-- longitudinal research;
-- management experimentation;
-- operating-model development;
-- cross-organizational learning.
-
-The framework should be evaluated through evidence rather than assumed universal validity.
-
----
-
-# ATTRIBUTION
-
-Operational Silence Framework (OSF) is a developing conceptual management framework created by **Md. Mozammel Hoque**.
-
-The framework may be referenced, discussed, studied, tested, and researched with appropriate attribution.
-
-Commercial use, modification, redistribution, or proprietary incorporation should preserve attribution and clearly distinguish derivative work, subject to the applicable repository or publication license.
-
----
-
-# CORE OSF PROPOSITION
-
-> **Organizations do not necessarily need more capacity because they lack capability. They may need more usable capacity because unnecessary recurring demand is consuming what they already have.**
-
-And therefore:
-
-> **The first question of operational improvement should not always be how to perform work better. It should be whether the work needs to consume capacity at all.**
-
-**Operational Silence Framework**
-
-> **Stop Managing Chaos. Start Engineering Silence.**
+The license permits use, modification, distribution, and further development subject to the terms of the MIT License. Copyright © 2026 Md. Mozammel Hoque. The full text is in the `LICENSE` file in the repository. Attribution is requested as a scholarly practice; it is not an additional license restriction. A license permits reuse, not a claim of scientific validation or author endorsement.
