@@ -549,13 +549,9 @@ Choose the destination that answers your next question. You need not read every 
 
 Think of one recurring task, report, or meeting. Write down: its purpose and who uses it; its recorded cost; the answer to each of the six tests; what creates it (Source, Dependency, Constraint); one alternative explanation; and the smallest evidence request or reversible change that would discriminate. Choose Diagnose, Establish, or Verify and explain why. If you would remove something, name where the freed hours should go and who owns that decision. Review your reasoning before removing a control. [Return to the question map](#find-your-question).
 
-## Author, disclosure, and revision
+## Author and disclosure
 
 **Md. Mozammel Hoque** — Independent Management Researcher, originator of HEE, and current Chief Innovation Officer at AKG. OSF is maintained as a developing conceptual framework within the HEE ecosystem. The author provides the commercial diagnostic service **The Capacity Read**, through Ovinabo Advisory. That interest is disclosed for transparency; service use and client testimonials do not validate OSF. This document does not require purchase of a service.
-
-**Revision record — 28 October 2026.** Revises the 2 September 2026 edition for alignment with the HEE Core, author profile, AKG record, and HEEn. Adds the precision and evidence statements, reader routes, the five-column question map, The Decision Point, three investigation routes, differential diagnosis, a worked case, an audit example, the Two Checks, and a demand decision record. Replaces the earlier diagnostic table with the Core’s seven provisional conditions, renames “Usable Capacity Recovery” to avoid collision with the Core’s Recover intervention, aligns the prioritization variable to Interdependence, labels unvalidated constructs [P], reframes “never reduce what can be removed” as a heuristic with a necessity test, redefines OSI against a stated capacity base that may change between periods, and replaces the topic list with testable propositions. Adds a one-page owner view, a necessity coding pack with a worked reliability example, a synthesis of each antecedent, a literature-positioning test, and a retirement table with the OSI role in each case. Removes repeated restatements of the canonical pathway.
-
-This is a revised Version 1.0 working document, not an assertion that an existing published release tag was changed. Public URLs are provided as reader destinations; current live contents and the repository LICENSE file were not independently verified for this revision. Editorial readiness and structural link checks do not establish empirical validity or tested reader enjoyment.
 
 ## License
 
