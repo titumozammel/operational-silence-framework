@@ -7,11 +7,11 @@
 **Md. Mozammel Hoque**  
 *Independent Management Researcher · Originator of Human Energy Economics (HEE)*
 
-**Version 1.0 — Revised companion framework**  
-**Revision date: 28 October 2026**  
+**Version 1.0 — Companion framework**  
+**Revision date: 31 October 2026**  
 **Status: provisional research and practice reference**
 
-[HEE Core](https://github.com/titumozammel/human-energy-economics) · [Author profile](https://github.com/titumozammel) · [HEE Case Studies](https://github.com/titumozammel/hee-case-studies) · [HEEn](https://github.com/titumozammel/human-energy-enablement) · [OSF repository](https://github.com/titumozammel/operational-silence-framework)
+[HEE Core](https://github.com/titumozammel/human-energy-economics) · [Author profile](https://github.com/titumozammel) · [HEE Case Studies](https://github.com/titumozammel/hee-case-studies) · [OSF](https://github.com/titumozammel/operational-silence-framework) · [3C](https://github.com/titumozammel/3c-strategic-approach) · [5R Cascade](https://github.com/titumozammel/5r-cascade-framework) · [HEEn](https://github.com/titumozammel/human-energy-enablement) · [EES](https://github.com/titumozammel/execution-excellence-system)
 
 > **Precision statement.** The Operational Silence Framework is HEE’s proposed framework for investigating whether recurring work should still consume organizational capacity, for choosing a proportionate response (remove, reduce, replace, re-engineer, or retain), and for following what happens to any capacity released. It does not establish that recurring work is unnecessary from its cost alone, show that a reduction frees usable capacity, or demonstrate that freed capacity is applied to valuable work or protects future capacity. Those are questions for evidence.
 
@@ -39,7 +39,7 @@ A weekly report takes six people half a day. A recurring meeting exists because 
 
 The question opens an investigation. It does not assume that recurring work is waste. The work may be necessary, proportionate, and well designed; the real limit may be missing capability, a blocked decision, or depleted Human Energy; or several conditions may coexist.
 
-OSF asks first whether work should exist, then how it recurs, and only then how to improve what remains. Its proposed emphasis comes after that: following the capacity that is no longer consumed, so that a saving is not mistaken for a gain.
+OSF suggests asking first whether work should exist, then how it recurs, and only then how to improve what remains. Its proposed emphasis comes after that: following the capacity that is no longer consumed, so that a saving is not mistaken for a gain.
 
 **Question before optimizing. Protect what is released. Check what the next cycle needs.** These are prompts for judgment, not instructions to remove everything that recurs.
 
@@ -96,7 +96,7 @@ What OSF has and has not shown is in the [evidence status](#operational-silence-
 
 ## Definitions and distinctions
 
-These definitions follow the closed HEE Core reference for this revision. Where OSF adds a term, it says so.
+These definitions follow the HEE Core README. Where OSF adds a term, it says so.
 
 | Term | Working meaning | Practical distinction |
 | --- | --- | --- |
@@ -155,12 +155,11 @@ These routes can inform one another; they are not compulsory sequential stages.
 
 Customer Experience outcomes provide important evidence of customer-facing value. Sustainable Growth requires examining CX alongside employee experience, operating results, future-capacity coverage, and wider value consequences over time. Good CX alone does not establish that future delivery can be sustained.
 
-
 **Applying the four definitions to a demand decision.** A decision to remove, reduce, or retain recurring work is a consequential choice. *Decision Enablement:* does the person proposing the change hold the authority, information, and access to make it, or does someone else own the rule? *Decision Process Quality:* were the purpose, alternatives, and safeguards examined before the change? *Decision Quality:* given what could reasonably be known, was removing or redesigning the work appropriate? *Decision Outcome Quality:* what actually happened to the work, the capacity, and the next cycle? A removal that worked does not prove the choice was sound; a removal that failed does not prove it was unsound.
 
 ## What OSF contributes
 
-OSF proposes a specific order of questions for recurring work: *should it exist, why does it recur, can it be removed, how should what remains be handled, and what happens to the capacity released?* It adds a decision-and-review record that carries the release through protection, destination, and coverage. Its intended contribution is better question formulation and more inspectable disposition choices, not the discovery that unnecessary work wastes effort.
+OSF proposes a suggested order for examining recurring demand: *should it exist, why does it recur, can it be removed, how should what remains be handled, and what happens to the capacity released?* It adds a decision-and-review record that carries the release through protection, destination, and coverage. Its intended contribution is better question formulation and more inspectable disposition choices, not the discovery that unnecessary work wastes effort.
 
 Whether this order improves decisions, diagnostic reliability, or outcomes beyond credible alternatives remains an empirical question. A new vocabulary or a successful example is not sufficient evidence of added value.
 
@@ -257,6 +256,14 @@ An Execution Deficit is a trigger for inquiry, not an explanation. These are pro
 **When resistance is political.** A defended constraint is a reason to examine decision rights and incentives; it is not evidence that the constraint is artificial. Use the Core README’s [bounded escalation protocol](https://github.com/titumozammel/human-energy-economics#when-a-constraint-is-politically-defended-h), including its guidance on when not to escalate.
 
 **People infrastructure [H].** Lasting demand reduction usually depends on five supports: accountability (a named owner for the recurring work), knowledge (so work does not depend on one person’s memory), empowerment (the ability to act without unnecessary escalation), capability development, and continuous improvement. This is a checklist for what keeps a removal from reverting, not a validated model.
+
+### How OSF and 5R fit together
+
+OSF structures inquiry into recurring demand; 5R structures consideration of its possible disposition. Their question orders serve different purposes and do not form one compulsory sequence.
+
+If necessity or the cause of recurrence is uncertain, use OSF to investigate or establish the missing evidence. When enough is known to compare responses, use [5R](https://github.com/titumozammel/5r-cascade-framework): Remove, Reduce, Replace, Re-engineer, or Retain. Return to investigation whenever a proposed response exposes an unanswered question.
+
+The 5R order is an order of consideration, not a ranking or a first-feasible rule. Re-engineer being fourth does not require trying the preceding options first. Compare feasible options and combinations against purpose, evidence, cost, risk, safeguards, and future-capacity consequences. Retain may be appropriate at any point.
 
 ## Establish: from Unknown to a decision
 
@@ -445,7 +452,7 @@ Some elements are documented within the Core and have no separate repository. Ma
 
 **Prioritization [H].** The shared expression *Priority = Urgency × Interdependence × Value Impact* is a heuristic, not a validated equation or a meaningful numeric score without defensible scales. Use the factors alongside safety, authority, reversibility, uncertainty, and cost. Interdependence here is not identical to 3C’s Dependency context. Do not automatically fix the largest gap; look first at the condition that most limits sustainable execution.
 
-**Descriptive progression [P] (legacy construct, not tested).** Firefighting (manage), Fireproofing (prevent), Engineering Silence (engineer), Operational Silence (remove), Execution Excellence (apply), and Sustainable Business Value (sustain) are optional prompts retained from earlier OSF editions. They are not an established ordered maturity scale, a certification, or grounds to score organizations or people; do not use them to do so. The later stages overlap with HEE and EES. Improvement can be uneven and reversible.
+**Descriptive progression [P] (legacy construct, not tested).** Firefighting (manage), Fireproofing (prevent), Engineering Silence (engineer), Operational Silence (remove), Execution Excellence (apply), and Sustainable Business Value (sustain) are optional prompts. They are not an established ordered maturity scale, a certification, or grounds to score organizations or people; do not use them to do so. The later stages overlap with HEE and EES. Improvement can be uneven and reversible.
 
 ## Relationship to the AKG practice record
 
@@ -457,16 +464,16 @@ The author remains Chief Innovation Officer at AKG. His operational involvement 
 
 ## Theory and contribution
 
-*For readers who want the positioning argument; owners can skip to the research agenda.* OSF does not claim to be the first to raise these questions; its proposed contribution is a specific order of questions and a discipline of following released capacity. It is informed by established traditions and does not claim to have discovered their central insights **[E/A]**:
+*For readers who want the positioning argument; owners can skip to the research agenda.* OSF does not claim to be the first to raise these questions; its proposed contribution is a suggested order for examining recurring demand and a discipline of following released capacity. It is informed by established traditions and does not claim to have discovered their central insights **[E/A]**:
 
 - **Lean.** Taiichi Ohno’s account of waste (*muda*) in the Toyota Production System questions activity that consumes resources without creating value. *Lean asks* which activity is waste. *OSF keeps that question* for recurring demand on organizational capacity and *explicitly includes* a stated follow-up: what happens to the capacity once the waste stops (release, protection, coverage). Whether Lean practice already covers that follow-up in ways OSF does not improve on is a matter for the disposition-divergence test.
 - **Business process reengineering.** Michael Hammer and James Champy argued that unsuitable processes should be questioned rather than merely optimized (*Reengineering the Corporation*, 1993). *Reengineering asks* whether the process should exist as designed. *OSF asks the same* of recurring demand, and *explicitly includes* a proportionate range of responses (the 5R cascade), a test of a control’s purpose before it is changed, and a stop rule written before a pilot.
-- **Failure demand.** John Seddon’s concept of demand caused by a failure to do something, or to do it right, is a closely related antecedent to *unnecessary recurring demand* and should be read alongside OSF. *Failure demand asks* what demand exists because the system failed. *OSF asks* a related question and, as the author reads the two, *explicitly includes* internal recurring work as well as service demand, a separation of Justified? from Covered?, and a record of where released capacity goes. Which established construct is closest is a comparative judgment that needs a documented literature review (see the literature-positioning test below). (Verify page-level citations before formal publication.)
+- **Failure demand.** John Seddon’s concept of demand caused by a failure to do something, or to do it right, is a closely related antecedent to *unnecessary recurring demand* and should be read alongside OSF. *Failure demand asks* what demand exists because the system failed. *OSF asks* a related question and, as the author reads the two, *explicitly includes* internal recurring work as well as service demand, a separation of Justified? from Covered?, and a record of where released capacity goes. Which established construct is closest is a comparative judgment that needs a documented literature review (see the literature-positioning test below).
 - **Theory of Constraints.** Eliyahu Goldratt’s focus on the limiting condition informs the Core’s treatment of bottlenecks. *TOC asks* where the constraint is and notes that local savings do not help a system if the constraint is elsewhere. *OSF borrows that caution* through the Core and *explicitly includes* a watch on reabsorption and a named destination for released capacity.
 
 The syntheses are the author’s reading of these traditions **[A]**, not a literature review. “Explicitly includes” describes OSF’s content; whether those elements are absent from the established approaches is what the literature-positioning test is for.
 
-The proposed contribution **[P]** is narrower: an order of questions about recurring demand; explicit evidence states for whether a release was measured, protected, and applied; a separation of Justified? from Covered?; and a review of what happened to the capacity released. Whether this adds decision value beyond Lean, process redesign, and failure demand analysis must be tested against credible alternatives with comparable evidence and effort.
+The proposed contribution **[P]** is narrower: a suggested order for examining recurring demand; explicit evidence states for whether a release was measured, protected, and applied; a separation of Justified? from Covered?; and a review of what happened to the capacity released. Whether this adds decision value beyond Lean, process redesign, and failure demand analysis must be tested against credible alternatives with comparable evidence and effort.
 
 “Operational Noise” and “unnecessary recurring demand” may overlap substantially with failure demand, rework, and waste constructs. OSF does not presently show that they are distinct constructs. If the tests below find no meaningful difference, narrow OSF to a routing aid and a capacity-protection step.
 
