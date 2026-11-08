@@ -9,27 +9,63 @@
 
 **Version 1.0 — Companion framework**  
 **Revision date: 31 October 2026**  
-**Status: provisional research and practice reference**
-
 [HEE Core](https://github.com/titumozammel/human-energy-economics) · [Author profile](https://github.com/titumozammel) · [HEE Case Studies](https://github.com/titumozammel/hee-case-studies) · [OSF](https://github.com/titumozammel/operational-silence-framework) · [3C](https://github.com/titumozammel/3c-strategic-approach) · [5R Cascade](https://github.com/titumozammel/5r-cascade-framework) · [HEEn](https://github.com/titumozammel/human-energy-enablement) · [EES](https://github.com/titumozammel/execution-excellence-system)
 
-> **Precision statement.** The Operational Silence Framework is HEE’s proposed framework for investigating whether recurring work should still consume organizational capacity, for choosing a proportionate response (remove, reduce, replace, re-engineer, or retain), and for following what happens to any capacity released. It does not establish that recurring work is unnecessary from its cost alone, show that a reduction frees usable capacity, or demonstrate that freed capacity is applied to valuable work or protects future capacity. Those are questions for evidence.
+> **Precision statement.** The Operational Silence Framework is HEE’s proposed framework for investigating whether recurring work should still consume organizational capacity, for choosing a proportionate response (remove, reduce, replace, re-engineer, or retain), and for following what happens to any capacity released. It does not establish that recurring work is unnecessary from its cost alone, show that a reduction frees usable capacity, or demonstrate that freed capacity is applied to valuable work or protects future capacity. Those are questions for evidence. OSF is proposed for examination and testing; it is not demonstrated to be valid.
 
-> **Evidence status.** OSF is a developing conceptual framework, not a validated method. Its constructs, the Operational Silence Index (OSI), the maturity progression, and its decision aids are proposals that require testing. Established work on waste, process redesign, and failure demand informs the framework; it does not validate OSF’s particular categories or show that OSF adds decision value beyond them. The author originated HEE and OSF and has a commercial interest disclosed below. The AKG cases are author-reported practice accounts, not independent tests of OSF. The [HEE Core README](https://github.com/titumozammel/human-energy-economics) governs shared terminology where the documents differ.
+> **Evidence status.** OSF is a conceptual framework, not a validated method. Its constructs, the Operational Silence Index (OSI), the maturity progression, and its decision aids are proposals that require testing. Established work on waste, process redesign, and failure demand informs the framework; it does not validate OSF’s particular categories or show that OSF adds decision value beyond them. The author originated HEE and OSF and has a commercial interest disclosed below. The AKG cases are author-reported practice accounts, not independent tests of OSF. The [HEE Core README](https://github.com/titumozammel/human-energy-economics) governs shared terminology where the documents differ.
 
 **Evidence labels:** **[E]** existing research; **[A]** adaptation of existing ideas; **[P]** proposed and untested; **[H]** practice heuristic; **[Illustrative]** invented example. A label describes the status of a claim, not its certainty in every setting. **Unknown** means the available evidence does not support a defensible determination. **Not recorded** means this edition contains no record; it does not mean the event never occurred or that no record exists elsewhere.
 
-**Start here:** [HEE in four questions](#hee-in-four-questions) · [The Decision Point](#the-decision-point) · [Reader routes](#reader-routes) · [Owner view](#owner-view-one-page) · [Find your question](#find-your-question) · [Definitions](#definitions-and-distinctions) · [Worked example](#one-case-from-question-to-review) · [Investigate](#investigate-choose-the-route) · [Diagnose](#diagnose-is-this-recurring-demand-and-is-it-unnecessary) · [Dispose](#dispose-the-3c-lens-and-the-5r-cascade) · [Establish](#establish-from-unknown-to-a-decision) · [Verify](#verify-practice-against-a-standard) · [Release and coverage](#justified-expenditure-release-and-future-coverage) · [OSI](#operational-silence-index-osi) · [Value Test](#the-osf-value-test) · [Demand record](#demand-decision-record) · [Research](#research-agenda-and-tests) · [Go further](#go-further) · [License](#license)
+**Start here:** [Use it today](#use-it-today) · [HEE in four questions](#hee-in-four-questions) · [The Decision Point](#the-decision-point) · [Reader routes](#reader-routes) · [Owner view](#owner-view-one-page) · [Find your question](#find-your-question) · [Definitions](#definitions-and-distinctions) · [Worked example](#one-case-from-question-to-review) · [Investigate](#investigate-choose-the-route) · [Diagnose](#diagnose-is-this-recurring-demand-and-is-it-unnecessary) · [Dispose](#dispose-the-3c-lens-and-the-5r-cascade) · [Establish](#establish-from-unknown-to-a-decision) · [Verify](#verify-practice-against-a-standard) · [Release and coverage](#justified-expenditure-release-and-future-coverage) · [OSI](#operational-silence-index-osi) · [Value Test](#the-osf-value-test) · [Demand record](#demand-decision-record) · [Research](#research-agenda-and-tests) · [Go further](#go-further) · [License](#license)
+
+## Use it today
+
+**Use it when:** the same work keeps coming back (a weekly report, a repeated approval, rework, status chasing) and nobody can say clearly why.
+
+**Ask:**
+
+1. What is the work, who does it, how often, and what is it for?
+2. Does the purpose still need it, in this amount? (Six tests: Necessary, Valuable, Proportionate, Designed, Recurring, Preventable.)
+3. What keeps creating it?
+
+**You get:** a supported explanation of why the work recurs, what is still Unknown, and a small first step you can reverse. The decision on what to do with it can be taken further with [5R](https://github.com/titumozammel/5r-cascade-framework#use-it-today).
+
+### Explained by example **[Illustrative]**
+
+*An invented example, written in the first person to show the thinking. It is not a reported result.*
+
+**The situation.** A regional office sends a daily stock-status email to six managers. One person spends about ninety minutes on it every day. Everyone is busy, and nobody has questioned it.
+
+**What I would do first.** I would not make the email faster. I would write down what it is: daily, one person, ninety minutes, stated purpose "so managers know stock levels."
+
+**What I would ask.** I would ask each manager what they do with it. Suppose two use it to decide stock transfers, and four have not opened it in a month because they read the dashboard. Now the six tests say something: it is *Valuable* for two people and weak for four, and the amount is not *Proportionate* to that.
+
+**Then why it exists.** I would trace the cause. Suppose the dashboard was launched, and nobody decided to switch the email off. The cause is a missing decision, not the email.
+
+**The smallest step.** Stop sending it to the four for four weeks, with a rule written before we start: restore it if anyone asks.
+
+**What I would check next cycle.** How much of the ninety minutes actually fell away (preparation, assembly, distribution), given that the email still goes to two people? Did that time go to something named, or did other requests fill it? Did anyone miss the email?
+
+**If you want to keep or redesign the demand:** the [5R card](https://github.com/titumozammel/5r-cascade-framework#use-it-today) takes it from here, with Retain, Reduce, Replace, and Re-engineer.
+
+**Where it does not fit:** if the work is a legal, safety, or quality duty, cost and frequency do not make it unnecessary. Test its purpose first (see the [constraint test](https://github.com/titumozammel/human-energy-enablement#test-the-constraint-before-changing-it)). Not every execution problem is a demand problem.
+
+**Go deeper:** [Diagnose](#diagnose-is-this-recurring-demand-and-is-it-unnecessary) · [One case from question to review](#one-case-from-question-to-review) · [Operational Silence Index](#operational-silence-index-osi)
+
+**Not sure this is the right tool?** [Find your situation](https://github.com/titumozammel/human-energy-economics#find-your-situation) lists six situations and the tool for each. · [HEE Core](https://github.com/titumozammel/human-energy-economics)
+
+---
 
 ## HEE in four questions
 
-**1. What is HEE?** Human Energy Economics (HEE) is a capacity lens informed by economic questions about scarcity, opportunity cost, renewal, and future value. It is a developing, practice-driven management approach to organizational capacity and sustainable execution. The Operational Silence Framework (OSF) is the proposed framework for investigating whether recurring work should still consume organizational capacity, choosing a proportionate response (remove, reduce, replace, re-engineer, or retain), and following what happens to any capacity released.
+**1. What is HEE?** Human Energy Economics (HEE) is a capacity lens informed by economic questions about scarcity, opportunity cost, renewal, and future value. It is a [practice-driven](https://github.com/titumozammel/human-energy-economics#4-core-definitions) management approach to organizational capacity and sustainable execution. The Operational Silence Framework (OSF) is the proposed framework for investigating whether recurring work should still consume organizational capacity, choosing a proportionate response (remove, reduce, replace, re-engineer, or retain), and following what happens to any capacity released.
 
 **2. What does HEE contribute?** HEE proposes a connected way to examine what limits execution, trace the supporting evidence, and make decisions and their consequences reviewable. It separates whether capacity expenditure was *Justified?* from whether legitimate next-cycle demand is *Covered?* This is a proposed contribution, not an established finding or a demonstrated advantage over existing approaches. OSF adds a structured way to ask whether recurring demand should exist in this form, and what should happen to the capacity its removal releases.
 
-**3. How do I apply it to my problem?** *Context shapes the route.* Start with the observable problem and the decision you need to make, then choose and combine **Diagnose** (investigate possible causes), **Establish** (gather the evidence needed for a defensible determination), and **Verify** (compare practice with a stated standard). These are complementary routes, not compulsory sequential stages; reconsider the route as evidence or conditions change. No route guarantees the desired result. Use this document when recurring work such as reports, meetings, approvals, or rework may be consuming capacity without a clear purpose.
+**3. How do I apply it to my problem?** *Context shapes the route.* Start with the observable problem and the decision you need to make, then choose and combine **Diagnose** (investigate possible causes), **Establish** (gather the evidence needed for a defensible determination), and **Verify** (compare practice with a stated standard). These are complementary routes, not compulsory sequential stages; reconsider the route as evidence or conditions change. Every route depends on context and evidence. Use this document when recurring work such as reports, meetings, approvals, or rework may be consuming capacity without a clear purpose.
 
-**4. How far can I trust it?** HEE is a provisional research and practice reference, not a validated diagnostic instrument. Established research informs it but does not validate its particular constructs, integration, or decision-support claims, and its proposed claims remain open to tests that could support, narrow, or reject them. This document does not claim that recurring work is unnecessary from its cost alone, that a reduction frees usable capacity, or that freed capacity is applied to valuable work. The [HEE Core README](https://github.com/titumozammel/human-energy-economics) holds the full definitions and limits.
+**4. How far can I trust it?** HEE is a practice-driven management approach intended to support inquiry and decision-making. It is not a validated diagnostic instrument. Established research informs it but does not validate its particular constructs, integration, or decision-support claims, and its proposed claims remain open to tests that could support, narrow, or reject them. This document does not claim that recurring work is unnecessary from its cost alone, that a reduction frees usable capacity, or that freed capacity is applied to valuable work. The [HEE Core README](https://github.com/titumozammel/human-energy-economics) holds the full definitions and limits.
 
 ## The question OSF answers
 
@@ -52,6 +88,7 @@ OSF suggests asking first whether work should exist, then how it recurs, and onl
 | Auditor or governance lead | [Verify](#verify-practice-against-a-standard) | A scoped criterion-to-evidence record for a demand-entry rule or protection arrangement |
 | Academic | [Theory and contribution](#theory-and-contribution) | A bounded contribution claim and its relationship to Lean, process redesign, and failure demand |
 | Researcher | [Research agenda and tests](#research-agenda-and-tests), then the [coding pack](#necessity-coding-pack-and-first-reliability-check) | A study question, competing explanations, measures, and narrowing or rejection criteria |
+| Functional lead (finance, HR, operations, IT, risk, and others) | The Core README’s [role answer cards](https://github.com/titumozammel/human-energy-economics#role-answer-cards-h) | A role-specific question about a recurring demand, and the evidence to bring to its owner |
 | Learner | [Definitions](#definitions-and-distinctions), then [worked example](#one-case-from-question-to-review) | The difference between demand, noise, consumption, drain, and released capacity |
 
 Read the document in sequence only if useful. Follow the question map when you have a specific decision to make.
@@ -77,14 +114,15 @@ What OSF has and has not shown is in the [evidence status](#operational-silence-
 
 | Question | Primary function | Asked by | Answered in | Decision it unlocks |
 | --- | --- | --- | --- | --- |
-| What exactly does OSF help me decide? | Define scope | All readers | [Precision statement](#operational-silence-framework-osf); [central question](#the-question-osf-answers) | Whether OSF is a suitable starting point |
-| Should we stop doing this recurring work, or change how we do it? | Select a disposition | Owner, manager | [Six tests](#diagnose-is-this-recurring-demand-and-is-it-unnecessary); [5R](#dispose-the-3c-lens-and-the-5r-cascade) | Remove, reduce, replace, re-engineer, retain, or investigate |
-| Is this really a demand problem, or missing capability, a blocked decision, or depleted energy? | Differential diagnosis | Practitioner, owner | [Evidence patterns](#diagnose-is-this-recurring-demand-and-is-it-unnecessary) | Whether to use OSF, HEEn, development, or recovery |
-| Where is the demand created or sustained? | Locate it | Practitioner, process owner | [3C lens](#dispose-the-3c-lens-and-the-5r-cascade) | Where to look before choosing a response |
-| What information would let us decide? | Establish | Owner, analyst | [Establish](#establish-from-unknown-to-a-decision) | What to collect, by whom, and by when |
-| Does a demand-entry rule or review practice meet an agreed requirement? | Verify | Auditor, governance lead | [Verify](#verify-practice-against-a-standard) | Whether there is a finding and what correction is needed |
-| Was the capacity spent justified, and can we meet next-cycle demand? | Separate justification from coverage | Owner, planner | [Two Checks](#justified-expenditure-release-and-future-coverage) | Whether to proceed, protect, reschedule, or investigate |
-| What happened to the capacity we stopped consuming? | Follow the release | Owner, practitioner | [Release](#justified-expenditure-release-and-future-coverage); [Value Test](#the-osf-value-test) | Whether to claim a gain, protect it, or keep investigating |
+| Is this the right tool for my situation? | Choose a tool | All readers | [Use it today](#use-it-today): when to use OSF, three questions, and a worked example | Whether to use OSF or open another tool |
+| What exactly does OSF help me decide? | Define scope | All readers | [Title and precision statement](#operational-silence-framework-osf); [central question](#the-question-osf-answers) | Whether OSF is a suitable starting point |
+| Should we stop doing this recurring work, or change how we do it? | Select a disposition | Owner, manager | [Six tests](#diagnose-is-this-recurring-demand-and-is-it-unnecessary): necessary, valuable, proportionate, designed, recurring, preventable; then [5R](#dispose-the-3c-lens-and-the-5r-cascade): what to do with the demand | Remove, reduce, replace, re-engineer, retain, or investigate |
+| Is this really a demand problem, or missing capability, a blocked decision, or depleted energy? | Differential diagnosis | Practitioner, owner | [Evidence patterns](#diagnose-is-this-recurring-demand-and-is-it-unnecessary): which pattern points to demand, missing capability, a blocked decision, or depleted energy | Whether to use OSF, HEEn, development, or recovery |
+| Where is the demand created or sustained? | Locate it | Practitioner, process owner | [3C lens](#dispose-the-3c-lens-and-the-5r-cascade): Source, Dependency, and Constraint as ways to look | Where to look before choosing a response |
+| What information would let us decide? | Establish | Owner, analyst | [Establish](#establish-from-unknown-to-a-decision): the decision, the missing evidence, and a collection plan | What to collect, by whom, and by when |
+| Does a demand-entry rule or review practice meet an agreed requirement? | Verify | Auditor, governance lead | [Verify](#verify-practice-against-a-standard): criteria, sampled practice, and findings | Whether there is a finding and what correction is needed |
+| Was the capacity spent justified, and can we meet next-cycle demand? | Separate justification from coverage | Owner, planner | [Two Checks](#justified-expenditure-release-and-future-coverage): justified expenditure, release, and coverage of next-cycle demand | Whether to proceed, protect, reschedule, or investigate |
+| What happened to the capacity we stopped consuming? | Follow the release | Owner, practitioner | [Release](#justified-expenditure-release-and-future-coverage) and [Value Test](#the-osf-value-test): where released capacity goes and how to check it | Whether to claim a gain, protect it, or keep investigating |
 | What does the Operational Silence Index tell me, and not tell me? | Judge a proposed measure | Owner, researcher | [OSI](#operational-silence-index-osi) | Whether to use it, and for what |
 | How do enabling conditions differ from decision quality? | Separate decision assessments | Owner, learner, auditor | [Four decision concepts](#the-decision-point) | What to improve and what evidence to review |
 | How do EX, CX, and Sustainable Growth connect to demand reduction? | Trace mechanisms and consequences | Owner, HR, service lead | [EX and CX](#employee-experience-customer-experience-and-sustainable-growth) | What to investigate beyond a satisfaction score |
@@ -93,6 +131,9 @@ What OSF has and has not shown is in the [evidence status](#operational-silence-
 | Can two assessors classify the same recurring demand the same way? | Test reliability | Researcher | [Coding pack](#necessity-coding-pack-and-first-reliability-check) | Whether the six tests can be used as a classification |
 | What would support, narrow, or falsify OSF? | Design a fair test | Researcher | [Research tests](#research-agenda-and-tests) | Which study to run and what claim to revise |
 | Which HEE repository should I read next? | Route onward | All readers | [Go further](#go-further) | Where to continue without reading every repository |
+| Is some of the work I am asked to do unnecessary? | Raise a work-demand question | Employees and team members | [Six tests](#diagnose-is-this-recurring-demand-and-is-it-unnecessary) and the [demand decision record](#demand-decision-record): what to describe and what evidence to bring | Whether to raise the question with the owner, and with what evidence |
+
+*Not sure where to begin? [Find your situation](https://github.com/titumozammel/human-energy-economics#find-your-situation) lists six situations and the tool for each.*
 
 ## Definitions and distinctions
 
@@ -107,10 +148,10 @@ These definitions follow the HEE Core README. Where OSF adds a term, it says so.
 | Capacity consumption | Capacity used to meet demand | Consumption can be fully justified |
 | Drain | Consumption without sufficient contribution to a verified purpose | Whether consumption is a drain is a judgment, tested by Check 1 |
 | Drain Condition [P] | A candidate diagnosis: unnecessary demand or noise consumes or obstructs capacity | One of the Core’s seven provisional conditions; may coexist with others |
-| Usable Capacity | The part of capacity that can actually be brought to bear on relevant work in a period, net of what demand and drain already consume, subject to connection, decision-process, and enablement conditions | Nominal staffing or idle time alone does not establish it |
+| Usable Capacity | The part of capacity that can actually be brought to bear on relevant work in a period, net of what existing drain consumes and measured before it is allocated to legitimate demand, subject to connection, decision-process, and enablement conditions | Nominal staffing or idle time alone does not establish it |
 | Capacity release | Capacity no longer consumed because demand has been removed or reduced | Measured, estimated, or merely expected; the three are different |
 | Capacity protection | Arrangements that stop released capacity being silently consumed again | Not the same as refusing all new work |
-| Usable Capacity Availability (OSF term) | Released capacity confirmed to be available for relevant work, with the required skill and access | Not the Core’s *Recover*, which concerns depleted Human Energy |
+| Usable Capacity Availability (OSF term) | Released capacity confirmed to be available for relevant work, with the required skill and access | Not the Core’s Capacity Recovery (restoring usable capacity after depletion), Capacity Protection, or Human Energy Recovery; this entry concerns confirming that released capacity can be used |
 | Capacity redirection | Deliberate assignment of released capacity to another purpose | A justified reassignment is not a failure of protection |
 | Capacity reabsorption [P] | Released capacity consumed again by other demand (new, latent, or existing) | A descriptive term only. Reabsorption into a visible, justified reassignment is not a failure; the concern is unexamined or unjustified reabsorption. Whether and when it occurs is an empirical question (P13) |
 | Application and Execution | Putting capability to work; carrying out intended work toward a result | Activity alone does not establish success or sustainability |
@@ -151,7 +192,7 @@ A justified expenditure can still leave future capacity Not covered. Where evide
 
 These routes can inform one another; they are not compulsory sequential stages.
 
-**The compressed conversion pathway and evidence boundaries.** Capability → Application → Execution → Value → Sustainable Growth. This compressed pathway does not replace the core model’s Human Energy, Connection, Decision Process Quality, Organizational Enablement, capacity, or renewal conditions. The Decision Point operates throughout this intended pathway. It makes choices and their consequences inspectable; it does not guarantee progression or sustainable results.
+**The compressed conversion pathway and evidence boundaries.** Capability → Application → Execution → Value → Sustainable Growth. This compressed pathway does not replace the core model’s Human Energy, Connection, Decision Process Quality, Organizational Enablement, capacity, or renewal conditions. The Decision Point operates throughout this intended pathway. It makes choices and their consequences inspectable; it does not establish progression or sustainable results.
 
 Customer Experience outcomes provide important evidence of customer-facing value. Sustainable Growth requires examining CX alongside employee experience, operating results, future-capacity coverage, and wider value consequences over time. Good CX alone does not establish that future delivery can be sustained.
 
@@ -161,7 +202,7 @@ Customer Experience outcomes provide important evidence of customer-facing value
 
 OSF proposes a suggested order for examining recurring demand: *should it exist, why does it recur, can it be removed, how should what remains be handled, and what happens to the capacity released?* It adds a decision-and-review record that carries the release through protection, destination, and coverage. Its intended contribution is better question formulation and more inspectable disposition choices, not the discovery that unnecessary work wastes effort.
 
-Whether this order improves decisions, diagnostic reliability, or outcomes beyond credible alternatives remains an empirical question. A new vocabulary or a successful example is not sufficient evidence of added value.
+Whether this order improves decisions, diagnostic reliability, or outcomes beyond credible alternatives (Lean, process redesign, failure demand, and Theory of Constraints, compared in [Theory and contribution](#theory-and-contribution)) remains an empirical question. A new vocabulary or a successful example is not sufficient evidence of added value.
 
 ## One case from question to review
 
@@ -184,7 +225,7 @@ A weekly operations report takes five people about three hours each to produce a
 
 **What happens to the nine hours.** The owner agrees in advance that the hours return to the data team for the feed fix. In the fourth week a new weekly request arrives. Because the destination and owner were named, the request goes through a visible reassignment decision rather than silent reabsorption. The decision is to accept half of it and to defer the rest, with a review date.
 
-**The two checks.** *Justified?* The original effort was **partly** justified: two sections served a real decision. *Covered?* Next-cycle capacity on the data team is **Fragile**: the feed fix can be absorbed in the base case but not if a plausible month-end spike coincides with it. A credible contingency is named: a person, a scheduled slot, the access required, and a trigger date.
+**The two checks.** *Justified?* The original effort was **partly** justified: two sections served a real decision, and asking the named recipients found no continuing use for the other seven (before that checking, the judgment for those seven would have stayed Unknown). *Covered?* Next-cycle capacity on the data team is **Fragile**: the feed fix can be absorbed in the base case but not if a plausible month-end spike coincides with it. A credible contingency is named: a person, a scheduled slot, the access required, and a trigger date.
 
 **The four decision reviews.** The owner’s authority to stop reports, and the recipients’ access to the sections, establish Decision Enablement. The tests, alternatives, and safeguards describe Decision Process Quality. The choice is judged against what was known before it began. Hours, restorations, and errors describe Decision Outcome Quality. These assessments may differ.
 
@@ -287,7 +328,7 @@ If evidence remains weak, keep Unknown visible. Unknown does not mean zero risk 
 1. Establish the requirement (for example, an approved demand-entry rule or a protection arrangement), its authority, version, and scope. An OSF principle is not automatically a standard.
 2. Define the workflow, period, population, sample rationale, and reviewer. Use an independent reviewer where consequences or conflicts warrant it.
 3. Collect traceable evidence and exceptions. Inquiries alone may not establish that a control operated.
-4. Compare practice with the criterion. Conclude **conforms**, **does not conform**, **insufficient evidence**, or **not applicable**, with reasons.
+4. Compare practice with the criterion. Conclude **conforms**, **does not conform**, **insufficient evidence**, or **not applicable**, with reasons. The Core README records review findings as supported, partly supported, unsupported, or unknown; use one scheme consistently within a record.
 5. Separate the observed exception from any proposed cause. Route causal questions to Diagnose.
 6. Agree correction, accountability, due date, and evidence required for closure.
 7. Recheck implementation and effectiveness. An action marked complete is not automatically an effective correction.
@@ -309,9 +350,9 @@ A process can conform to a poorly designed standard and still waste capacity. Au
 
 ## Justified expenditure, release, and future coverage
 
-Do not treat all capacity consumption as loss. Learning, maintenance, recovery, incident response, and deliberate investment can be justified. Equally, a justified expenditure can leave a real future shortfall, and removing unnecessary work does not by itself guarantee that next cycle is covered.
+Do not treat all capacity consumption as loss. Learning, maintenance, recovery, incident response, and deliberate investment can be justified. Equally, a justified expenditure can leave a real future shortfall, and removing unnecessary work does not by itself establish that next cycle is covered.
 
-**Check 1: Justified?** Was the expenditure of capacity warranted given its purpose, alternatives, proportionality, constraints, and what could reasonably be known? Answer yes, partly, or no; if partly, separate the justified part from the excess. This is the check that decides whether recurring demand is a drain. Test the necessity of a restriction separately; the two judgments must not be conflated.
+**Check 1: Justified?** Was the expenditure of capacity warranted given its purpose, alternatives, proportionality, constraints, and what could reasonably be known? Answer yes, partly, no, or Unknown; if partly, separate the justified part from the excess. If Unknown, record the next evidence request and keep any coverage judgment the evidence independently supports. This is the check that decides whether recurring demand is a drain. Test the necessity of a restriction separately; the two judgments must not be conflated.
 
 **Check 2: Covered?** Over a stated next-cycle horizon, does credible expected usable capacity cover legitimate demand under plausible scenarios, with the required capability, access, and credible recovery or renewal assumptions?
 
@@ -319,7 +360,7 @@ Do not treat all capacity consumption as loss. Learning, maintenance, recovery, 
 | --- | --- | --- |
 | **Covered** | Legitimate demand is covered across the plausible scenarios reviewed | Proceed with monitoring and explicit assumptions |
 | **Fragile** | Base demand is covered but a plausible scenario creates a material gap | Require a credible contingency: a named person, a scheduled slot, the resource or authority, and a trigger date. If any is missing or infeasible, retain Fragile as the evidence state and act as if Not covered |
-| **Not covered** | Credible expected capacity falls materially short of legitimate demand | Reschedule, reduce or redirect demand, add feasible resources, protect capacity, or renegotiate commitments |
+| **Not covered** | Credible expected capacity falls materially short of legitimate demand, or a required capability or access condition is unavailable | Reschedule, reduce or redirect demand, add feasible resources, protect capacity, or renegotiate commitments |
 | **Unknown** | Evidence cannot support a defensible classification | Establish the missing evidence by a stated date; if it passes without decisive evidence, retain Unknown and act as if Not covered for this decision |
 
 Use the Core README’s [one-page card](https://github.com/titumozammel/human-energy-economics#justified-spending-or-future-shortfall-one-page-card-hp) for consequential decisions. These are proposed checks and decision states, not validated measures.
@@ -340,26 +381,29 @@ The **Operational Silence Index (OSI)** is a proposed measurement construct **[P
 
 > **OSI = 1 − (recurring avoidable noise consumption ÷ capacity base for the period)**
 
-**Numerator.** *Recurring avoidable noise consumption* is the capacity consumed by recurring work judged **not justified** under Check 1 (the six tests, with the evidence recorded). For work that is only *partly* justified, split it by the evidence and count only the unjustified portion. Count each hour once, under one item in a demand register; an hour that appears under two items, or that is also counted as another unit’s consumption, is a double count.
+**Numerator.** *Recurring avoidable noise consumption* is the capacity consumed by recurring work judged **not justified** under Check 1 (the six tests, with the evidence recorded; the provisional coding rule is in the [coding pack](#necessity-coding-pack-and-first-reliability-check)). For work that is only *partly* justified, split it by the evidence and count only the unjustified portion. Work whose justification is Unknown is not counted as unjustified; report its hours separately as Unknown. Count each hour once, under one item in a demand register; an hour that appears under two items, or that is also counted as another unit’s consumption, is a double count.
 
-**Capacity base.** The base is the unit’s capacity *before* demand and drain are subtracted. In a simple case it is the staffed hours available in the period (net of planned absence), before subtracting what demand consumes; it is not headcount. It is **not** usable capacity, which is net of what demand and drain already consume and so rises when noise falls, shifting both sides of the fraction. The base can legitimately differ between periods because staffing, absence, operating hours, and skill mix change. Do not hold it constant merely to preserve comparability; define the rule for it before measuring, report skill mix separately, and state what changed when the base changes.
+**Capacity base.** The base is the unit’s capacity *before* demand and drain are subtracted. In a simple case it is the staffed hours available in the period (net of planned absence), before subtracting what demand consumes; it is not headcount. It is **not** usable capacity, which is net of what drain already consumes (measured before allocation to legitimate demand) and so rises when noise falls, shifting both sides of the fraction.
+
+The base can legitimately differ between periods because staffing, absence, operating hours, and skill mix change. Do not hold it constant merely to preserve comparability; define the rule for it before measuring, report skill mix separately, and state what changed when the base changes.
 
 **Report the parts.** Always report the numerator, the base, and the OSI together. Where the base changes materially, show the numerator against both the earlier and the later base before reading a change in OSI as an improvement.
 
-**How the numerator is built [Illustrative].** A unit’s demand register for a quarter lists five recurring items. Each is put through the six tests and judged under Check 1.
+**How the numerator is built [Illustrative].** A unit’s demand register for a quarter lists recurring items. Each line is put through the six tests and judged under Check 1; where one item contains both necessary and excess effort, it is split into lines.
 
 | Recurring item | Hours | Test results in brief | Check 1 judgment | Hours counted |
 | --- | --- | --- | --- | --- |
 | Seven report sections with no named reader | 400 | Not necessary, not valuable, no decision depends on them | Not justified | 400 |
 | Re-keying data between two systems | 500 | Not necessary; poorly designed; preventable upstream | Not justified | 500 |
 | Approval meeting | 300 | Purpose real for part of the agenda; rest is repeated status | Partly justified (about 40% of time) | 180 |
-| Monthly rework of mislabeled orders | 420 | Recurring; preventable at the source | Not justified | 420 |
+| Monthly correction of mislabeled orders, before shipment | 100 | Faulty orders must be corrected before they reach customers | Justified | 0 |
+| Monthly rework of mislabeled orders, excess effort | 420 | The same labeling error recurs; the review found this effort beyond what the necessary correction needs, and the avoidable condition at the source is unchanged | Not justified | 420 |
 | Regulatory monthly filing | 250 | Necessary by obligation; proportionate | Justified | 0 |
 | **Total counted** | | | | **1,500** |
 
 With a capacity base of 10,000 hours, the OSI for this register is 1 − 1,500 ÷ 10,000 = **0.85**.
 
-**Worked example [Illustrative].** With a base of 10,000 capacity hours, OSI = 1 − 1,500 ÷ 10,000 = **0.85**. After an intervention the counted hours are 900: OSI = 1 − 0.09 = **0.91**, a rise of 6 percentage points. If, in the later period, leave reduces the base to 9,500 hours, OSI = 1 − 900 ÷ 9,500 = about **0.905**; the numerator and both bases should be reported, not only the index. The 600 hours that fell away are *measured* only if recorded as such.
+**Worked example [Illustrative].** With a base of 10,000 capacity hours, OSI = 1 − 1,500 ÷ 10,000 = **0.85**. After an intervention the counted hours are 900: OSI = 1 − 0.09 = **0.91**, a rise of 6 percentage points. If, in the later period, leave reduces the base to 9,500 hours, OSI = 1 − 900 ÷ 9,500 = about **0.905**; the numerator and both bases should be reported, not only the index. The 600-hour reduction is *measured* only if supported by comparable before-and-after time records; otherwise report it as *estimated*.
 
 **What the number does not show.** It does not show that the 600 hours became usable capacity, were protected, were applied, improved execution, recovered Human Energy, or created value. It also depends on the judgment of what counts as “not justified,” which can be wrong, gamed, or inconsistent between assessors.
 
@@ -406,7 +450,8 @@ Use a short record for a small reversible decision and a fuller one for conseque
 | Safeguards | Legitimate controls, Protective Friction, burden shifted elsewhere (No Externalized Fire), stop or reversal triggers |
 | Expected release | Hours or resource expected and whether measured or estimated |
 | Destination and owner | Intended use, accountable owner, reassignment rule, review date |
-| Justification and coverage | Was expenditure warranted; is next cycle Covered, Fragile, Not covered, or Unknown? |
+| Justified? | Was the expenditure warranted: Yes, Partly, No, or Unknown, with the evidence? |
+| Covered? | Is next-cycle legitimate demand covered: Covered, Fragile, Not covered, or Unknown? Record this separately from Justified? |
 | Responsibility | Decision owner, implementation owner, reviewer, required authority, due dates |
 | Review | Implementation check; hours, quality, harms, restorations, application, and future-coverage measures |
 
@@ -414,7 +459,7 @@ Do not fill missing fields with invented estimates presented as facts. Label est
 
 ### Decision speed and review
 
-Use a **minimum useful record** even for a quick choice: the demand, the evidence and key uncertainty, the action, the owner, a safeguard or reversal trigger, and a review point. Escalate depth for substantial cost, safety or regulatory implications, disputed authority, or difficult reversibility. For a low-stakes, easily reversed change (Tier 1 in the Core’s terms), decide in the same sitting; higher tiers add an independent check and a decide-by date. These are judgment rules, not validated time-saving claims. See the Core README’s [Decision Speed Card](https://github.com/titumozammel/human-energy-economics#decision-speed-card-h).
+Use a **minimum useful record** even for a quick choice: the demand, the evidence and key uncertainty, the action, the owner, a safeguard or reversal trigger, and a review point. Escalate depth for substantial cost, safety or regulatory implications, disputed authority, or difficult reversibility. For a low-stakes, easily reversed change (Tier 1 in the Core’s terms), decide in the same sitting, with proportionate evidence and safeguards still applying; higher tiers add an independent check and a decide-by date. These are judgment rules, not validated time-saving claims. See the Core README’s [Decision Speed Card](https://github.com/titumozammel/human-energy-economics#decision-speed-card-h).
 
 At review ask, in order: **Was the change implemented? Did the recurring demand fall? Was the release real and protected? Did application and valued results change? What happened to costs, harms, and future coverage?** A null result can reflect a false diagnosis, incomplete implementation, poor measurement, insufficient time, or another bottleneck.
 
@@ -435,7 +480,7 @@ Sustainable Growth, in HEE, is the continuing creation and renewal of value acro
 
 ## Boundaries and architecture
 
-HEE is the provisional capacity lens informed by economic questions. **OEOS** is the proposed operating architecture; **HEMS**, **HEA**, **HERF**, and **HEDP** are Human Energy and capability-management components documented within the Core. These are proposed constructs, not validated systems. The five conversion conditions remain **Human Energy, Capability, Connection, Decision Process Quality, and Organizational Enablement**; SEC is an intended outcome, not a sixth condition. OSF’s concern is the demand side: it affects usable capacity before any of the conditions can act on it.
+HEE is the provisional capacity lens informed by economic questions. **OEOS** is the proposed operating architecture; **HEMS**, **HEA**, **HERF**, and **HEDP** are Human Energy and capability-management components documented within the Core. These are proposed constructs, not validated systems. The five conversion conditions remain **Human Energy, Capability, Connection, Decision Process Quality, and Organizational Enablement**; SEC is an intended outcome, not a sixth condition. OSF examines unnecessary recurring demand that consumes capacity as drain. Usable capacity remains subject to the Core’s connection, decision-process, and enablement conditions; legitimate demand is compared with it at the coverage check.
 
 | Related element | Its role | OSF boundary |
 | --- | --- | --- |
@@ -460,7 +505,7 @@ The [AKG Record](https://github.com/titumozammel/hee-case-studies) describes six
 
 The record holds some reported baselines (for example approximate daily request counts and the report-generation times) but marks other baselines, periods, and sources as Not recorded, and it does not document where released capacity went for any case. The destination of released capacity is **Unknown** for every case, and future coverage was not assessed. Justified? entries are the author’s judgment. Do not use the cases to claim measured release, successful protection, cost savings, or sustainable gain. They can motivate a study; they cannot validate OSF’s constructs, OSI, or its superiority over an existing method.
 
-The author remains Chief Innovation Officer at AKG. His operational involvement and originator role are material to interpreting the practice accounts. Research use requires appropriate authority, confidentiality, provenance, and access arrangements; no access is promised here.
+The author remains Chief Innovation Officer at AKG. His operational involvement and originator role are material to interpreting the practice accounts. Research use requires appropriate authority, confidentiality, provenance, and access arrangements; no access is implied here.
 
 ## Theory and contribution
 
@@ -506,7 +551,7 @@ The following are proposed OSF study questions, **not newly registered Core prop
 | Necessity judgments cannot be made reliably | The six tests become a checklist | OSI loses its numerator and should not be reported |
 | OSF-guided choices do not differ from existing methods | OSF is a routing and protection aid rather than a new approach | OSI is at most an optional tracking figure |
 | Capacity release cannot be verified | Do not claim release or attribute downstream benefits to it | OSI may still describe classified consumption against its stated capacity base, subject to its measurement limitations; it cannot establish release, protection, or value |
-| Every element maps onto an existing construct (literature positioning) | Narrow the contribution claim to routing and protection | Follows the necessity-judgment and choice-divergence findings above; this finding alone does not change it |
+| Every element maps onto an existing construct (literature positioning) | Narrow the contribution claim to routing and protection | Not directly changed by this finding; the OSI’s fate depends on the necessity-judgment and choice-divergence results above |
 
 **Minimum study protocol.** Follow the eight-item protocol in [HEEn](https://github.com/titumozammel/human-energy-enablement#minimum-study-protocol): claim, unit and setting; operational definitions; comparison; outcomes; design; decision rules; governance; and registration and reporting. A sufficiently precise null or contrary result after a fair test should narrow or reject the specified claim. Do not rescue a failed claim by changing definitions after seeing outcomes. See also the Core’s [falsification summary](https://github.com/titumozammel/human-energy-economics#falsification-summary-where-to-start-p).
 
@@ -526,7 +571,7 @@ This is a starter instrument **[P]** for the necessity classification test. All 
 | P2 | Seven report sections | 400 | No named reader or decision on record; the recipients and the compliance owner were asked and found no continuing use or obligation | Not justified, where affirmative evidence supports it (without that checking, the same packet would be Unknown) |
 | P3 | Weekly approval meeting | 300 | Two agenda items need a decision; the rest is repeated status | Partly justified and the share |
 | P4 | Re-keying between two systems | 500 | Same fields entered twice; no interface exists | Designed? versus Necessary? |
-| P5 | Monthly rework of mislabeled orders | 420 | Same labeling error each month; source step unchanged | Recurring and Preventable |
+| P5 | Monthly rework of mislabeled orders | 420 | Same labeling error each month; source step unchanged | Recurring and Preventable; separate the necessary correction, any excess effort, and the avoidable condition that generates the rework |
 | P6 | Duplicate sign-off on payments | 120 | Second sign-off added after an incident; purpose not recorded | Unknown purpose; test before changing a control |
 | P7 | Daily status email to a director | 90 | The director says she reads it; no one else uses it | Owner’s report as the only evidence; absence of records is not evidence of no purpose |
 | P8 | Quarterly policy re-acknowledgement | 160 | Policy requires it; staff report that the policy text has not changed in three years | Necessary by rule, Proportionate unclear |
@@ -568,7 +613,11 @@ Think of one recurring task, report, or meeting. Write down: its purpose and who
 
 ## Author and disclosure
 
-**Md. Mozammel Hoque** — Independent Management Researcher, originator of HEE, and current Chief Innovation Officer at AKG. OSF is maintained as a developing conceptual framework within the HEE ecosystem. The author provides the commercial diagnostic service **The Capacity Read**, through Ovinabo Advisory. That interest is disclosed for transparency; service use and client testimonials do not validate OSF. This document does not require purchase of a service.
+**Md. Mozammel Hoque** — Independent Management Researcher, originator of HEE, and current Chief Innovation Officer at AKG. OSF is maintained as a conceptual framework within the HEE ecosystem.
+
+**Author position and disclosure.** The author originated HEE and OSF, serves as Chief Innovation Officer at AKG (Abul Khair Group), Bangladesh, where part of the practice record originated, and has a commercial and professional interest in how HEE and OSF are received. Practice observations from AKG are author-reported, not independent assessment.
+
+**A note from the author.** HEE comes from my life journey: my experience, knowledge, and wisdom, developed across Russia, Nigeria, and Bangladesh. In my own practice I have seen results from it (author-reported; not independently verified). Whether to apply HEE in your situation is entirely your choice. If you would like to discuss your case, or if you applied HEE and did not see the result you expected, I would be glad to hear from you. You are welcome to write to [mozammel@ovinabo.com](mailto:mozammel@ovinabo.com).
 
 ## License
 
