@@ -13,11 +13,39 @@
 
 > **Precision statement.** The Operational Silence Framework is HEE’s proposed framework for investigating whether recurring work should still consume organizational capacity, for choosing a proportionate response (remove, reduce, replace, re-engineer, or retain), and for following what happens to any capacity released. It does not establish that recurring work is unnecessary from its cost alone, show that a reduction frees usable capacity, or demonstrate that freed capacity is applied to valuable work or protects future capacity. Those are questions for evidence. OSF is proposed for examination and testing; it is not demonstrated to be valid.
 
-> **Evidence status.** OSF is a conceptual framework, not a validated method. Its constructs, the Operational Silence Index (OSI), the maturity progression, and its decision aids are proposals that require testing. Established work on waste, process redesign, and failure demand informs the framework; it does not validate OSF’s particular categories or show that OSF adds decision value beyond them. The author originated HEE and OSF and has a commercial interest disclosed below. The AKG cases are author-reported practice accounts, not independent tests of OSF. The [HEE Core README](https://github.com/titumozammel/human-energy-economics) governs shared terminology where the documents differ.
+> **Evidence status.** OSF is a [practice-driven](https://github.com/titumozammel/human-energy-economics#4-core-definitions) framework, derived from the author’s practice. Its constructs, the Operational Silence Index (OSI), the maturity progression, and its decision aids are proposals that require testing. Established work on waste, process redesign, and failure demand informs the framework; it does not validate OSF’s particular categories or show that OSF adds decision value beyond them. The author originated HEE and OSF and has a commercial interest disclosed below. The AKG cases are author-reported practice accounts, not independent tests of OSF. The [HEE Core README](https://github.com/titumozammel/human-energy-economics) governs shared terminology where the documents differ.
+
+> **Approach.** HEE does not treat management as a formula that fits every situation. It is a practice-derived way to organize inquiry. Each problem is investigated on its own terms, and practitioners use evidence and judgment to select, adapt, and review what fits the context. HEE supports evidence-informed judgment; it does not replace it.
+>
+> HEE draws on the author’s experience, knowledge, and wisdom, including applications and observed results reported by the author. Its broader claims about reliability, effectiveness, and added value remain open to independent testing, and the research sections state what would narrow or retire them. Readers are invited to test HEE in their own setting and, if they do not see the result they expect, to write to the author (see the author’s note).
+
+> **Foundation.** HEE is based on the author’s experience, knowledge, and wisdom. It follows a path from observation to research to application and execution: investigating each problem in its specific context, acting on it, working proactively to prevent recurrence, and supporting sustainable results. The author reports positive results from applying this practice in current and previous roles; specific outcomes are not detailed in this passage and have not been independently verified. HEE’s questions are not specific to any sector. Readers are invited to adapt them to businesses, public services, nonprofits, schools, and individual learning. Application in the author’s professional roles does not by itself show suitability for every setting, so check the context first.
+>
+> In OSF this shows as examining a recurring demand in its own context and asking whether it can be prevented before deciding what to do about it.
 
 **Evidence labels:** **[E]** existing research; **[A]** adaptation of existing ideas; **[P]** proposed and untested; **[H]** practice heuristic; **[Illustrative]** invented example. A label describes the status of a claim, not its certainty in every setting. **Unknown** means the available evidence does not support a defensible determination. **Not recorded** means this edition contains no record; it does not mean the event never occurred or that no record exists elsewhere.
 
-**Start here:** [Use it today](#use-it-today) · [HEE in four questions](#hee-in-four-questions) · [The Decision Point](#the-decision-point) · [Reader routes](#reader-routes) · [Owner view](#owner-view-one-page) · [Find your question](#find-your-question) · [Definitions](#definitions-and-distinctions) · [Worked example](#one-case-from-question-to-review) · [Investigate](#investigate-choose-the-route) · [Diagnose](#diagnose-is-this-recurring-demand-and-is-it-unnecessary) · [Dispose](#dispose-the-3c-lens-and-the-5r-cascade) · [Establish](#establish-from-unknown-to-a-decision) · [Verify](#verify-practice-against-a-standard) · [Release and coverage](#justified-expenditure-release-and-future-coverage) · [OSI](#operational-silence-index-osi) · [Value Test](#the-osf-value-test) · [Demand record](#demand-decision-record) · [Research](#research-agenda-and-tests) · [Go further](#go-further) · [License](#license)
+**Start here:** [Reader’s guide](#readers-guide) · [Use it today](#use-it-today) · [HEE in four questions](#hee-in-four-questions) · [The Decision Point](#the-decision-point) · [Reader routes](#reader-routes) · [Owner view](#owner-view-one-page) · [Find your question](#find-your-question) · [Definitions](#definitions-and-distinctions) · [Worked example](#one-case-from-question-to-review) · [Investigate](#investigate-choose-the-route) · [Diagnose](#diagnose-is-this-recurring-demand-and-is-it-unnecessary) · [Dispose](#dispose-the-3c-lens-and-the-5r-cascade) · [Establish](#establish-from-unknown-to-a-decision) · [Verify](#verify-practice-against-a-standard) · [Release and coverage](#justified-expenditure-release-and-future-coverage) · [OSI](#operational-silence-index-osi) · [Value Test](#the-osf-value-test) · [Demand record](#demand-decision-record) · [Research](#research-agenda-and-tests) · [Go further](#go-further) · [License](#license)
+
+## Reader's guide
+
+Some of the work that fills a week keeps returning for reasons nobody has examined. This guide shows where to enter OSF for your role.
+
+| Audience | What you can take away | Start here | First useful step | Suggested time |
+| --- | --- | --- | --- | --- |
+| **Board and audit committee** | A way to ask whether recurring work is necessary, proportionate, and still serving its purpose | [Owner view: one page](#owner-view-one-page). Then skim: [Boundaries and architecture](#boundaries-and-architecture) | Ask to see the demand decision record for the largest recurring workload | 10 min |
+| **CEO, C-suite, and owners** | A view of recurring demand as something to question before it is optimized or automated | [Use it today](#use-it-today), [Owner view: one page](#owner-view-one-page). Then skim: [Justified expenditure, release, and future coverage](#justified-expenditure-release-and-future-coverage) | Choose one recurring report, approval, or chase and ask what purpose it serves | 15 min |
+| **Operations managers and team leaders** | A practical route from recurring demand to a documented decision | [One case from question to review](#one-case-from-question-to-review), [Diagnose: is this recurring demand, and is it unnecessary](#diagnose-is-this-recurring-demand-and-is-it-unnecessary). Then skim: [Dispose: the 3C lens and the 5R cascade](#dispose-the-3c-lens-and-the-5r-cascade) | Log one week of a recurring demand: who asks, how often, at what cost | 25 min |
+| **Practitioners and consultants** | Three investigation routes—Diagnose, Establish, Verify—plus 3C/5R disposition guidance and a record that keeps Unknowns visible | [Investigate: choose the route](#investigate-choose-the-route), [Demand decision record](#demand-decision-record). Then skim: [Operational Silence Index (OSI)](#operational-silence-index-osi), [The OSF Value Test](#the-osf-value-test) | Use the demand decision record on one live case | 40 min |
+| **Academics** | A bounded contribution claim relative to lean waste, process redesign, and failure demand | [Theory and contribution](#theory-and-contribution), [What OSF contributes](#what-osf-contributes). Then skim: [Employee Experience, Customer Experience, and Sustainable Growth](#employee-experience-customer-experience-and-sustainable-growth) | State what OSF adds and what would narrow the claim | 25 min |
+| **Researchers** | Study questions on the OSI, necessity coding, and incremental decision value | [Research agenda and tests](#research-agenda-and-tests), [Necessity coding pack and first reliability check](#necessity-coding-pack-and-first-reliability-check). Then skim: [Definitions and distinctions](#definitions-and-distinctions) | Plan the necessity-coding reliability check first | 30 min |
+| **New to HEE** | What “operational silence” means and what it does not | [Use it today](#use-it-today), [The question OSF answers](#the-question-osf-answers). Then skim: [HEE in four questions](#hee-in-four-questions) | Read the worked example and name one recurring demand of your own | 10 min |
+
+*Times are suggested allocations, not measured; reading speeds differ. Take-aways describe what a reader can use, not an outcome this document can assure. The first useful step is a suggestion; the decision stays yours.*
+
+**Only five minutes?** Read [Use it today](#use-it-today), then [The question OSF answers](#the-question-osf-answers).
+
+**You can defer on a first reading:** the Operational Silence Index and the research sections, unless you are a practitioner, academic, or researcher. Read the evidence-status summary before applying the guidance.
 
 ## Use it today
 
@@ -65,7 +93,7 @@
 
 **3. How do I apply it to my problem?** *Context shapes the route.* Start with the observable problem and the decision you need to make, then choose and combine **Diagnose** (investigate possible causes), **Establish** (gather the evidence needed for a defensible determination), and **Verify** (compare practice with a stated standard). These are complementary routes, not compulsory sequential stages; reconsider the route as evidence or conditions change. Every route depends on context and evidence. Use this document when recurring work such as reports, meetings, approvals, or rework may be consuming capacity without a clear purpose.
 
-**4. How far can I trust it?** HEE is a practice-driven management approach intended to support inquiry and decision-making. It is not a validated diagnostic instrument. Established research informs it but does not validate its particular constructs, integration, or decision-support claims, and its proposed claims remain open to tests that could support, narrow, or reject them. This document does not claim that recurring work is unnecessary from its cost alone, that a reduction frees usable capacity, or that freed capacity is applied to valuable work. The [HEE Core README](https://github.com/titumozammel/human-energy-economics) holds the full definitions and limits.
+**4. How should I use HEE?** Use HEE as a practical way to ask better questions and review decisions with your own evidence and judgment. It supports inquiry; it does not replace specialist judgment. Do not assume from cost alone that recurring work is unnecessary, that a reduction frees usable capacity, or that freed capacity goes to valuable work; check each in your own setting. The [HEE Core README](https://github.com/titumozammel/human-energy-economics) holds the full definitions, evidence, and limits.
 
 ## The question OSF answers
 
@@ -203,6 +231,8 @@ Customer Experience outcomes provide important evidence of customer-facing value
 OSF proposes a suggested order for examining recurring demand: *should it exist, why does it recur, can it be removed, how should what remains be handled, and what happens to the capacity released?* It adds a decision-and-review record that carries the release through protection, destination, and coverage. Its intended contribution is better question formulation and more inspectable disposition choices, not the discovery that unnecessary work wastes effort.
 
 Whether this order improves decisions, diagnostic reliability, or outcomes beyond credible alternatives (Lean, process redesign, failure demand, and Theory of Constraints, compared in [Theory and contribution](#theory-and-contribution)) remains an empirical question. A new vocabulary or a successful example is not sufficient evidence of added value.
+
+**Choosing a method.** Use the method the question requires. Where Lean, process redesign, or another established approach already addresses the task, continue using it. Bring OSF’s questions alongside it when you need to examine why demand recurs, what purpose it serves, or what happens to the capacity released. OSF does not need to lead every investigation.
 
 ## One case from question to review
 
@@ -414,7 +444,7 @@ With a capacity base of 10,000 hours, the OSI for this register is 1 − 1,500 �
 - Do not compare OSI across units or organizations until the construct has shown reliability and validity.
 - Open questions: how to weight different kinds of capacity, represent knowledge work, allocate shared capacity, choose a period, and set any meaningful threshold.
 
-OSI is a conceptual index requiring empirical validation. Its reliability and validity are among the research tests below.
+OSI is a proposed index requiring empirical validation. Its reliability and validity are among the research tests below.
 
 ## The OSF Value Test
 
@@ -613,11 +643,11 @@ Think of one recurring task, report, or meeting. Write down: its purpose and who
 
 ## Author and disclosure
 
-**Md. Mozammel Hoque** — Independent Management Researcher, originator of HEE, and current Chief Innovation Officer at AKG. OSF is maintained as a conceptual framework within the HEE ecosystem.
+**Md. Mozammel Hoque** — Independent Management Researcher, originator of HEE, and current Chief Innovation Officer at AKG. OSF is maintained as a practice-driven framework within the HEE ecosystem.
 
 **Author position and disclosure.** The author originated HEE and OSF, serves as Chief Innovation Officer at AKG (Abul Khair Group), Bangladesh, where part of the practice record originated, and has a commercial and professional interest in how HEE and OSF are received. Practice observations from AKG are author-reported, not independent assessment.
 
-**A note from the author.** HEE comes from my life journey: my experience, knowledge, and wisdom, developed across Russia, Nigeria, and Bangladesh. In my own practice I have seen results from it (author-reported; not independently verified). Whether to apply HEE in your situation is entirely your choice. If you would like to discuss your case, or if you applied HEE and did not see the result you expected, I would be glad to hear from you. You are welcome to write to [mozammel@ovinabo.com](mailto:mozammel@ovinabo.com).
+**A note from the author.** HEE comes from my life journey: my experience, knowledge, and wisdom, developed across Russia, Nigeria, and Bangladesh. In my own practice I have seen results from it (author-reported; not independently verified). Business–IT alignment (Business → IT → Business) and convergence (IT → Business → IT) are two examples of where I applied this practice. Whether to apply HEE in your situation is entirely your choice. If you would like to discuss your case, or if you applied HEE and did not see the result you expected, I would be glad to hear from you. You are welcome to write to [mozammel@ovinabo.com](mailto:mozammel@ovinabo.com).
 
 ## License
 
