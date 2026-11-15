@@ -34,6 +34,8 @@
 
 **Start here:** **[Use it today](#use-it-today)** is the front door: a few questions and a worked example. Then use the [Reader’s guide](#readers-guide) for your role, or [Find your question](#find-your-question). The other sections, such as [Definitions](#definitions-and-distinctions), [Open questions](#research-agenda-and-tests), and [License](#license), are reached from these.
 
+OSF is readable on its own; cross-references exist because it is one of a family of companion frameworks, not a comprehensive method.
+
 ## Reader's guide
 
 Some of the work that fills a week keeps returning for reasons nobody has examined. This guide shows where to enter OSF for your role.
